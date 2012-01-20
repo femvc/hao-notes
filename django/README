@@ -1,1 +1,3 @@
-该目录是学习Python Web框架Django的笔记，主要是从__[The Django Book](http://djangobook.com/ 'http://djangobook.com/')__（版本是Django 1.0，中文翻译版在[http://djangobook.py3k.cn/2.0/](http://djangobook.py3k.cn/2.0/)）Template、Model、Forms和Admin几个章节的摘抄。
+该目录是学习Python Web框架Django的一点笔记，主要是从The Django Book(http://djangobook.com/，对应Django 1.0，中文翻译版在http://djangobook.py3k.cn/2.0/)Template、Model、Forms和Admin几个章节的摘抄。  
+
+本书代码示例比较多，前面基础部分很容易读，推荐！
