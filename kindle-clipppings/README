@@ -1,5 +1,5 @@
 
-- 存放一些平时用 Kindle 4 读书时利用 highlight、note、share 操作时保存的文本
-- Kindle 会在`documents`目录下生成`My Clippings.txt`文件
-- 写了个简单的 Python 脚本`kindle-clippings.py`处理了一下，按照书名进行分类
-- 计划定期导出`My Clippings.txt`（其实还有`My Clippings.mbp`文件，供Kindle用的）文件，在本地进行简单处理成`Markdown格式`并同步到 Github 中，否则该文件会越来越占空间，不利处理
+* 存放一些平时用 Kindle 4 读书时利用 highlight、note、share 操作时保存的文本
+* Kindle 会在`documents`目录下生成`My Clippings.txt`文件
+* 写了个简单的 Python 脚本`kindle-clippings.py`处理了一下，按照书名进行分类
+* 计划定期导出`My Clippings.txt`（其实还有`My Clippings.mbp`文件，供Kindle用的）文件，在本地进行简单处理成`Markdown格式`并同步到 Github 中，否则该文件会越来越占空间，不利处理
