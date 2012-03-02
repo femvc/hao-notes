@@ -13,7 +13,7 @@
 	- django.contrib.auth.middleware.AuthenticationMiddleware
 3. 运行`python manage.py syncdb`生成Admin所使用的数据库表
 4. 根据需要在syncdb命令或`python manage.py createsuperuser`(INSTALLED_APPS中包含django.contrib.auth时才可用)创建超级用户，否则登录不了Admin
-5. 在urls.py中打开对admin的路由：`(r'^admin/', include(admin.site.urls)),`
+5. 在urls.py中打开对admin的路由：`(r'^admin/', include(admin.site.urls)),`，同时去掉`admin.autodiscover()`的注释，这使得Django的Admin自动发现各个app下`admin.py`所注册的Model子类
 6. 运行`python manage.py runserver`启动Django服务器，访问localhost
 
         $ python manage.py syncdb
