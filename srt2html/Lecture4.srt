@@ -1,0 +1,3713 @@
+0
+00:00:00,100 --> 00:00:03,000
+Captions proofread by @xiaolai, www.lixiaolai.com
+
+1
+00:00:03,469 --> 00:00:06,170
+
+Funding for this program is provided by...
+
+2
+00:00:07,550 --> 00:00:09,910
+Additional funding provided by...
+
+3
+00:00:32,000 --> 00:00:35,550
+Today, we turn to John Locke.
+
+4
+00:00:39,760 --> 00:00:46,770
+On the face of it, Locke is a powerful
+ally of the libertarian.
+
+5
+00:00:47,570 --> 00:00:53,630
+First, he believes,
+as libertarians today maintain,
+
+6
+00:00:55,169 --> 00:01:01,520
+that there are certain fundamental
+individual rights that are so important
+
+7
+00:01:01,830 --> 00:01:05,750
+that no government,
+even a representative government,
+
+8
+00:01:05,860 --> 00:01:10,170
+even a democratically elected government,
+can override them.
+
+9
+00:01:12,490 --> 00:01:18,560
+Not only that, he believes that
+those fundamental rights include
+
+10
+00:01:19,520 --> 00:01:26,420
+a natural right to life,
+liberty, and property,
+
+11
+00:01:29,229 --> 00:01:35,030
+and furthermore he argues
+that the right to property
+
+12
+00:01:37,280 --> 00:01:42,330
+is not just the creation
+of government or of law.
+
+13
+00:01:42,899 --> 00:01:47,110
+The right to property is
+a natural right in the sense
+
+14
+00:01:47,240 --> 00:01:50,420
+that it is prepolitical.
+
+15
+00:01:51,960 --> 00:01:59,340
+It is a right that attaches
+to individuals as human beings,
+
+16
+00:01:59,559 --> 00:02:02,440
+even before government
+comes on the scene,
+
+17
+00:02:02,600 --> 00:02:05,000
+even before parliaments
+and legislatures
+
+18
+00:02:05,280 --> 00:02:10,460
+enact laws to define rights
+and to enforce them.
+
+19
+00:02:10,769 --> 00:02:15,530
+Locke says in order to think about
+what it means to have a natural right,
+
+20
+00:02:16,100 --> 00:02:19,530
+we have to imagine
+the way things are
+
+21
+00:02:21,500 --> 00:02:28,000
+before government, before law,
+and that's what Locke means
+
+22
+00:02:28,239 --> 00:02:30,240
+by the state of nature.
+
+23
+00:02:31,459 --> 00:02:34,860
+He says the state of nature
+is a state of liberty.
+
+24
+00:02:39,109 --> 00:02:42,510
+Human beings are
+free and equal beings.
+
+25
+00:02:42,709 --> 00:02:45,810
+There is no natural hierarchy.
+
+26
+00:02:46,769 --> 00:02:49,750
+It's not the case that some people
+are born to be kings
+
+27
+00:02:49,850 --> 00:02:52,860
+and others are born
+to be serfs.
+
+28
+00:02:53,840 --> 00:02:58,540
+We are free and equal
+in the state of nature and yet,
+
+29
+00:02:59,299 --> 00:03:02,700
+he makes the point that
+there is a difference between
+
+30
+00:03:02,910 --> 00:03:05,940
+a state of liberty and
+a state of license.
+
+31
+00:03:08,810 --> 00:03:11,260
+And the reason is that even
+in the state of nature,
+
+32
+00:03:11,480 --> 00:03:12,610
+there is a kind of law.
+
+33
+00:03:12,890 --> 00:03:15,180
+It's not the kind of law
+that legislatures enact.
+
+34
+00:03:15,739 --> 00:03:23,160
+It's a law of nature.
+And this law of nature constrains
+
+35
+00:03:23,280 --> 00:03:25,920
+what we can do even though
+we are free,
+
+36
+00:03:26,030 --> 00:03:28,120
+even though we are
+in the state of nature.
+
+37
+00:03:29,000 --> 00:03:31,800
+Well what are the constraints?
+
+38
+00:03:33,480 --> 00:03:37,970
+The only constraint given
+by the law of nature
+
+39
+00:03:38,720 --> 00:03:45,210
+is that the rights we have,
+the natural rights we have
+
+40
+00:03:45,780 --> 00:03:50,280
+we can't give up
+nor can we take them
+
+41
+00:03:50,519 --> 00:03:52,650
+from somebody else.
+
+42
+00:03:53,950 --> 00:03:56,490
+Under the law of nature,
+I'm not free to take somebody else's
+
+43
+00:03:56,829 --> 00:04:06,260
+life or liberty or property,
+nor am I free to take
+
+44
+00:04:06,619 --> 00:04:11,480
+my own life or liberty or property.
+
+45
+00:04:12,420 --> 00:04:17,150
+Even though I am free,
+I'm not free to violate the law of nature.
+
+46
+00:04:17,310 --> 00:04:22,410
+I'm not free to take my own life
+or to sell my self into slavery
+
+47
+00:04:22,870 --> 00:04:28,620
+or to give to somebody else
+arbitrary absolute power over me.
+
+48
+00:04:28,830 --> 00:04:32,200
+So where does this constraint,
+you may think it's a fairly
+
+49
+00:04:32,300 --> 00:04:35,020
+minimal constraint,
+but where does it come from?
+
+50
+00:04:36,360 --> 00:04:40,250
+Well, Locke tells us
+where it comes from
+
+51
+00:04:40,599 --> 00:04:45,300
+and he gives two answers.
+Here is the first answer.
+
+52
+00:04:45,960 --> 00:04:53,040
+"For men, being all the workmanship
+of one omnipotent,
+
+53
+00:04:53,090 --> 00:04:55,970
+and infinitely wise maker,"
+namely God,
+
+54
+00:04:57,349 --> 00:05:00,360
+"they are His property,
+whose workmanship they are,
+
+55
+00:05:00,640 --> 00:05:05,900
+made to last during His,
+not one another's pleasure."
+
+56
+00:05:06,020 --> 00:05:09,100
+So one answer to the question
+is why can't I give up
+
+57
+00:05:09,200 --> 00:05:13,500
+my natural rights to life, liberty,
+and property is well,
+
+58
+00:05:13,700 --> 00:05:16,840
+they're not, strictly speaking,
+yours.
+
+59
+00:05:19,140 --> 00:05:28,140
+After all, you are the creature of God.
+God has a bigger property right in us,
+
+60
+00:05:28,300 --> 00:05:30,800
+a prior property right.
+
+61
+00:05:31,680 --> 00:05:34,420
+Now, you might say
+that's an unsatisfying,
+
+62
+00:05:34,520 --> 00:05:36,020
+unconvincing answer,
+at least for those
+
+63
+00:05:36,380 --> 00:05:38,260
+who don't believe in God.
+
+64
+00:05:38,550 --> 00:05:43,150
+What did Locke have to say to them?
+Well, here is where Locke appeals
+
+65
+00:05:43,479 --> 00:05:48,580
+to the idea of reason
+and this is the idea,
+
+66
+00:05:50,120 --> 00:05:54,510
+that if we properly reflect
+on what it means to be free,
+
+67
+00:05:55,240 --> 00:05:59,690
+we will be led to the conclusion
+that freedom can't just be a matter
+
+68
+00:05:59,969 --> 00:06:02,140
+of doing whatever we want.
+
+69
+00:06:02,969 --> 00:06:07,390
+I think this is what Locke means
+when he says, "The state of nature
+
+70
+00:06:07,460 --> 00:06:11,170
+has a law of nature to govern it
+which obliges everyone: and reason,
+
+71
+00:06:11,280 --> 00:06:16,560
+which is that law, teaches mankind
+who will but consult it
+
+72
+00:06:16,760 --> 00:06:21,210
+that all being equal and independent,
+no one ought to harm another
+
+73
+00:06:21,310 --> 00:06:24,030
+in his life, health,
+liberty, or possessions."
+
+74
+00:06:25,120 --> 00:06:31,840
+This leads to a puzzling
+paradoxical feature of Locke's
+
+75
+00:06:32,000 --> 00:06:38,420
+account of rights.
+
+Familiar in one sense
+but strange in another.
+
+76
+00:06:39,960 --> 00:06:44,560
+It's the idea that our natural rights
+are unalienable.
+
+77
+00:06:44,770 --> 00:06:47,540
+What does "unalienable" mean?
+It's not for us to alienate them
+
+78
+00:06:47,640 --> 00:06:51,260
+or to give them up, to give them away,
+to trade them away, to sell them.
+
+79
+00:06:52,520 --> 00:06:56,610
+Consider an airline ticket.
+Airline tickets are nontransferable.
+
+80
+00:06:56,760 --> 00:07:00,130
+Or tickets to the Patriots
+or to the Red Sox.
+
+81
+00:07:00,840 --> 00:07:05,330
+Nontransferable tickets
+are unalienable.
+
+82
+00:07:06,680 --> 00:07:11,020
+I own them in the limited sense
+that I can use them for myself,
+
+83
+00:07:11,120 --> 00:07:15,850
+but I can't trade them away.
+So in one sense, an unalienable right,
+
+84
+00:07:16,080 --> 00:07:23,850
+a nontransferable right makes
+something I own less fully mine.
+
+85
+00:07:25,729 --> 00:07:30,420
+But in another sense
+of unalienable rights,
+
+86
+00:07:31,440 --> 00:07:34,820
+especially where we're thinking
+about life, liberty, and property,
+
+87
+00:07:37,270 --> 00:07:40,620
+or a right to be unalienable
+makes it more deeply,
+
+88
+00:07:40,960 --> 00:07:44,570
+more profoundly mine,
+and that's Locke's sense
+
+89
+00:07:45,630 --> 00:07:47,440
+of unalienable.
+
+90
+00:07:47,960 --> 00:07:50,370
+We see it in the American Declaration
+of Independence.
+
+91
+00:07:50,650 --> 00:07:53,710
+Thomas Jefferson drew
+on this idea of Locke.
+
+92
+00:07:54,640 --> 00:07:59,790
+Unalienable rights to life, liberty,
+and as Jefferson amended Locke,
+
+93
+00:08:00,310 --> 00:08:03,550
+to the pursuit of happiness.
+Unalienable rights.
+
+94
+00:08:05,250 --> 00:08:13,350
+Rights that are so essentially mine
+that even I can't trade them away
+
+95
+00:08:13,400 --> 00:08:15,200
+or give them up.
+
+96
+00:08:17,840 --> 00:08:20,660
+So these are the rights
+we have in the state of nature
+
+97
+00:08:21,080 --> 00:08:23,480
+before there is any government.
+
+98
+00:08:24,479 --> 00:08:27,330
+In the case of life and liberty,
+I can't take my own life.
+
+99
+00:08:27,429 --> 00:08:30,230
+I can't sell myself into slavery
+any more than I can take
+
+100
+00:08:30,330 --> 00:08:32,140
+somebody else's life
+or take someone else
+
+101
+00:08:32,240 --> 00:08:35,340
+as a slave by force.
+
+102
+00:08:36,600 --> 00:08:39,420
+But how does that work
+in the case of property?
+
+103
+00:08:39,520 --> 00:08:46,940
+Because it's essential to Locke's case
+that private property can arise
+
+104
+00:08:47,459 --> 00:08:50,130
+even before there is
+any government.
+
+105
+00:08:51,040 --> 00:08:54,310
+How can there be a right
+to private property
+
+106
+00:08:54,650 --> 00:08:58,360
+even before there is any government?
+
+107
+00:08:59,720 --> 00:09:04,110
+Locke's famous answer
+comes in Section 27.
+
+108
+00:09:04,630 --> 00:09:08,260
+"Every man has a property
+in his own person.
+
+109
+00:09:08,680 --> 00:09:11,740
+This nobody has any right to
+but himself."
+
+110
+00:09:12,150 --> 00:09:15,500
+"The labor of his body
+and the work of his hands,
+
+111
+00:09:16,020 --> 00:09:18,900
+we may say, are properly his."
+
+112
+00:09:19,480 --> 00:09:24,940
+So he moves, as the libertarians
+later would move,
+
+113
+00:09:25,400 --> 00:09:32,180
+from the idea that we own ourselves,
+that we have property in our persons
+
+114
+00:09:32,579 --> 00:09:35,740
+to the closely connected idea
+that we own our own labor.
+
+115
+00:09:36,360 --> 00:09:43,220
+And from that to the further claim
+that whatever we mix our labor with
+
+116
+00:09:43,600 --> 00:09:48,130
+that is un-owned
+becomes our property.
+
+117
+00:09:49,350 --> 00:09:52,040
+"Whatever he removes out
+of the state that nature has provided,
+
+118
+00:09:52,160 --> 00:09:55,230
+and left it in,
+he has mixed his labor with,
+
+119
+00:09:55,430 --> 00:09:58,860
+and joined it to something
+that is his own, and thereby
+
+120
+00:09:59,199 --> 00:10:01,660
+makes it his property."
+
+121
+00:10:02,170 --> 00:10:07,920
+Why? Because the labor is
+the unquestionable property
+
+122
+00:10:08,180 --> 00:10:13,460
+of the laborer and therefore,
+no one but the laborer
+
+123
+00:10:13,699 --> 00:10:19,600
+can have a right to what is joined to
+or mixed with his labor.
+
+124
+00:10:19,800 --> 00:10:22,700
+And then he adds
+this important provision,
+
+125
+00:10:22,760 --> 00:10:27,760
+"at least where there is enough,
+and as good left in common for others."
+
+126
+00:10:28,560 --> 00:10:35,420
+But we not only acquire our property
+in the fruits of the earth,
+
+127
+00:10:35,790 --> 00:10:39,770
+in the deer that we hunt,
+in the fish that we catch
+
+128
+00:10:41,000 --> 00:10:47,290
+but also if we till and plow
+and enclose the land and grow potatoes,
+
+129
+00:10:48,520 --> 00:10:53,250
+we own not only the potatoes
+but the land, the earth.
+
+130
+00:10:53,920 --> 00:10:57,580
+"As much land as a man tills,
+plants, improves, cultivates
+
+131
+00:10:57,800 --> 00:11:03,580
+and can use the product of,
+so much is his property.
+
+132
+00:11:03,800 --> 00:11:07,820
+He by his labor encloses it
+from the commons.
+
+133
+00:11:09,640 --> 00:11:14,980
+So the idea that rights are
+unalienable seems to distance
+
+134
+00:11:15,319 --> 00:11:17,220
+Locke from the libertarian.
+
+135
+00:11:17,600 --> 00:11:21,340
+Libertarian wants to say
+we have an absolute property right
+
+136
+00:11:21,680 --> 00:11:24,900
+in ourselves and therefore,
+we can do with ourselves
+
+137
+00:11:25,160 --> 00:11:26,380
+whatever we want.
+
+138
+00:11:26,560 --> 00:11:30,780
+Locke is not a sturdy ally
+for that view.
+
+139
+00:11:31,160 --> 00:11:34,460
+In fact, he says if you take
+natural rights seriously,
+
+140
+00:11:34,520 --> 00:11:37,740
+you'll be led to the idea
+that there are certain constraints
+
+141
+00:11:37,959 --> 00:11:39,900
+on what we can do
+with our natural rights,
+
+142
+00:11:40,000 --> 00:11:44,420
+constraints given either by God
+or by reason reflecting
+
+143
+00:11:44,860 --> 00:11:49,120
+on what it means really to be free,
+and really to be free
+
+144
+00:11:50,660 --> 00:11:54,090
+means recognizing that our rights
+are unalienable.
+
+145
+00:11:54,370 --> 00:11:56,460
+So here is the difference
+between Locke and the libertarians.
+
+146
+00:11:56,750 --> 00:12:01,720
+But when it comes to Locke's
+account of private property,
+
+147
+00:12:02,180 --> 00:12:06,020
+he begins to look again
+like a pretty good ally
+
+148
+00:12:06,360 --> 00:12:08,820
+because his argument
+for private property begins
+
+149
+00:12:08,959 --> 00:12:13,030
+with the idea that we are
+the proprietors of our own person
+
+150
+00:12:13,240 --> 00:12:14,860
+and therefore, of our labor,
+and therefore,
+
+151
+00:12:14,959 --> 00:12:17,620
+of the fruits of our labor,
+including not only
+
+152
+00:12:17,719 --> 00:12:26,180
+the things we gather and hunt
+in the state of nature
+
+153
+00:12:27,680 --> 00:12:30,870
+but also we acquire our property right
+in the land that we enclose
+
+154
+00:12:31,199 --> 00:12:33,560
+and cultivate and improve.
+
+155
+00:12:34,650 --> 00:12:39,700
+There are some examples
+that can bring out the moral intuition
+
+156
+00:12:40,709 --> 00:12:47,450
+that our labor can take something
+that is unowned and make it ours,
+
+157
+00:12:48,520 --> 00:12:50,880
+though sometimes,
+there are disputes about this.
+
+158
+00:12:54,480 --> 00:13:00,000
+There is a debate among
+rich countries and developing countries
+
+159
+00:13:00,329 --> 00:13:04,070
+about trade-related
+intellectual property rights.
+
+160
+00:13:04,589 --> 00:13:08,360
+It came to a head recently
+over drug patent laws.
+
+161
+00:13:09,180 --> 00:13:11,590
+Western countries,
+and especially the United States say,
+
+162
+00:13:11,849 --> 00:13:14,020
+"We have a big
+pharmaceutical industry
+
+163
+00:13:14,300 --> 00:13:16,060
+that develops new drugs.
+
+164
+00:13:17,180 --> 00:13:21,660
+We want all countries
+in the world to agree
+
+165
+00:13:21,760 --> 00:13:23,900
+to respect the patents."
+
+166
+00:13:25,250 --> 00:13:28,600
+Then, there came along
+the AIDS crisis in South Africa,
+
+167
+00:13:29,640 --> 00:13:35,890
+and the American AIDS drugs
+were hugely expensive,
+
+168
+00:13:36,880 --> 00:13:40,430
+far more than could be afforded
+by most Africans.
+
+169
+00:13:40,870 --> 00:13:42,300
+So the South African
+government said,
+
+170
+00:13:42,640 --> 00:13:47,580
+"We are going to begin to buy
+a generic version of the AIDS
+
+171
+00:13:48,579 --> 00:13:53,550
+antiretroviral drug
+at a tiny fraction of the cost
+
+172
+00:13:53,719 --> 00:13:57,670
+because we can find an Indian
+manufacturing company
+
+173
+00:13:58,000 --> 00:14:03,520
+that figures out how the thing
+is made and produces it,
+
+174
+00:14:03,939 --> 00:14:06,170
+and for a tiny fraction of the cost,
+we can save lives
+
+175
+00:14:06,449 --> 00:14:08,730
+if we don't respect that patent."
+
+176
+00:14:09,480 --> 00:14:11,420
+And then the American
+government said,
+
+177
+00:14:11,640 --> 00:14:15,960
+"No, here is a company
+that invested research
+
+178
+00:14:17,000 --> 00:14:19,180
+and created this drug.
+
+179
+00:14:19,510 --> 00:14:24,500
+You can't just start mass producing
+these drugs without paying
+
+180
+00:14:24,760 --> 00:14:26,040
+a licensing fee."
+
+181
+00:14:26,160 --> 00:14:32,440
+And so there was a dispute
+and the pharmaceutical company
+
+182
+00:14:32,599 --> 00:14:36,780
+sued the South African government
+to try to prevent their buying
+
+183
+00:14:37,060 --> 00:14:43,410
+the cheap generic, as they saw it,
+pirated version of an AIDS drug.
+
+184
+00:14:44,240 --> 00:14:49,240
+And eventually, the pharmaceutical
+industry gave in and said,
+
+185
+00:14:49,699 --> 00:14:51,000
+"All right, you can do that."
+
+186
+00:14:51,170 --> 00:14:56,060
+But this dispute about
+what the rules of property should be,
+
+187
+00:14:56,280 --> 00:15:01,620
+of intellectual property
+of drug patenting, in a way,
+
+188
+00:15:01,839 --> 00:15:06,350
+is the last frontier of the state of nature
+because among nations
+
+189
+00:15:06,449 --> 00:15:11,100
+where there is no uniform law
+of patent rights and property rights,
+
+190
+00:15:11,459 --> 00:15:15,360
+it's up for grabs until,
+by some act of consent,
+
+191
+00:15:15,640 --> 00:15:23,420
+some international agreement,
+people enter into some settled rules.
+
+192
+00:15:26,510 --> 00:15:30,100
+What about Locke's account
+of private property
+
+193
+00:15:30,199 --> 00:15:34,690
+and how it can arise
+before government and before law
+
+194
+00:15:34,920 --> 00:15:38,400
+comes on the scene?
+Is it successful?
+
+195
+00:15:39,890 --> 00:15:43,100
+How many think it's
+pretty persuasive?
+
+196
+00:15:43,410 --> 00:15:44,620
+Raise your hand.
+
+197
+00:15:46,939 --> 00:15:49,580
+How many don't find it persuasive?
+
+198
+00:15:51,170 --> 00:15:53,630
+All right, let's hear from some critics.
+
+199
+00:15:53,969 --> 00:15:58,470
+What is wrong with Locke's account
+of how private property can arise
+
+200
+00:15:58,640 --> 00:16:02,060
+without consent? Yes?
+
+201
+00:16:02,920 --> 00:16:07,060
+Yes, I think it justifies European
+cultural norms as far as
+
+202
+00:16:07,439 --> 00:16:11,790
+when you look at how Native Americans
+may not have cultivated American land,
+
+203
+00:16:11,890 --> 00:16:17,410
+but by their arrival in the Americas,
+that contributed
+
+204
+00:16:17,520 --> 00:16:19,460
+to the development of America,
+which wouldn't have otherwise
+
+205
+00:16:19,780 --> 00:16:23,420
+necessarily happened then
+or by that specific group.
+
+206
+00:16:24,079 --> 00:16:28,840
+So you think that this is a defense,
+this defense of private property in land...
+
+207
+00:16:29,069 --> 00:16:31,300
+Yes, because it complicates
+original acquisition
+
+208
+00:16:31,760 --> 00:16:35,900
+if you only cite the arrival of foreigners
+that cultivated the land.
+
+209
+00:16:36,229 --> 00:16:38,300
+I see. And what's your name?
+- Rochelle.
+
+210
+00:16:38,579 --> 00:16:39,790
+Rochelle?
+- Yes.
+
+211
+00:16:40,069 --> 00:16:44,850
+Rochelle says this account
+of how property arises
+
+212
+00:16:45,120 --> 00:16:51,140
+would fit what was going on
+in North America during the time
+
+213
+00:16:51,410 --> 00:16:55,380
+of the European settlement.
+
+214
+00:16:56,599 --> 00:17:01,780
+Do you think, Rochelle,
+that it's a way of defending
+
+215
+00:17:02,079 --> 00:17:04,500
+the appropriation of the land?
+
+216
+00:17:04,720 --> 00:17:08,940
+Indeed, because I mean,
+he is also justifying
+
+217
+00:17:09,320 --> 00:17:10,380
+the glorious revolutions.
+
+218
+00:17:10,600 --> 00:17:13,580
+I don't think it's inconceivable
+that he is also justifying
+
+219
+00:17:13,919 --> 00:17:15,460
+colonization as well.
+
+220
+00:17:16,080 --> 00:17:20,340
+Well, that's an interesting
+historical suggestion
+
+221
+00:17:20,600 --> 00:17:22,860
+and I think there is a lot
+to be said for it.
+
+222
+00:17:24,040 --> 00:17:26,970
+What do you think of the validity
+of his argument though?
+
+223
+00:17:27,680 --> 00:17:30,540
+Because if you are right
+that this would justify the taking
+
+224
+00:17:30,800 --> 00:17:35,060
+of land in North America
+from Native Americans
+
+225
+00:17:35,290 --> 00:17:39,970
+who didn't enclose it,
+if it's a good argument,
+
+226
+00:17:40,240 --> 00:17:42,060
+then Locke's given us
+a justification for that.
+
+227
+00:17:42,350 --> 00:17:46,770
+If it's a bad argument,
+then Locke's given us a mere
+
+228
+00:17:46,879 --> 00:17:50,420
+rationalization that isn't
+morally defensible.
+
+229
+00:17:52,220 --> 00:17:54,990
+I'm leaning to the second one...
+- You're leaning toward the second one.
+
+230
+00:17:55,149 --> 00:17:57,610
+But that's my opinion as well.
+
+231
+00:17:57,840 --> 00:18:02,420
+All right, well, then,
+let's hear if there is a defender
+
+232
+00:18:02,639 --> 00:18:05,520
+of Locke's account
+of private property,
+
+233
+00:18:05,919 --> 00:18:10,490
+and it would be interesting
+if they could address Rochelle's worry
+
+234
+00:18:10,639 --> 00:18:13,930
+that this is just a way
+of defending the appropriation
+
+235
+00:18:14,270 --> 00:18:17,960
+of land by the American colonists
+from the Native Americans
+
+236
+00:18:18,060 --> 00:18:20,020
+who didn't enclose it.
+
+237
+00:18:20,300 --> 00:18:24,400
+Is there someone who will defend
+Locke on that point?
+
+238
+00:18:27,720 --> 00:18:29,710
+Are you going to defend Locke?
+
+239
+00:18:29,810 --> 00:18:32,350
+Like, you're accusing him
+of justifying the European
+
+240
+00:18:32,450 --> 00:18:34,410
+basically massacre of
+the Native Americans.
+
+241
+00:18:34,520 --> 00:18:36,060
+But who says he is defending it?
+
+242
+00:18:36,159 --> 00:18:39,460
+Maybe the European colonization
+isn't right.
+
+243
+00:18:40,159 --> 00:18:42,720
+You know, maybe it's the state
+of war that he talked about
+
+244
+00:18:43,000 --> 00:18:44,860
+in his Second Treatise, you know.
+
+245
+00:18:45,800 --> 00:18:51,180
+So the wars between
+the Native Americans and the colonists,
+
+246
+00:18:51,550 --> 00:18:57,010
+the settlers, that might have been
+a state of war that we can only
+
+247
+00:18:57,340 --> 00:19:01,000
+emerge from by an agreement
+or an act of consent
+
+248
+00:19:01,389 --> 00:19:05,300
+and that's what would have been
+required fairly to resolve...
+
+249
+00:19:05,399 --> 00:19:07,200
+Yes, and both sides would have had
+to agree to it and carry it out
+
+250
+00:19:07,300 --> 00:19:08,700
+and everything.
+
+251
+00:19:08,860 --> 00:19:11,090
+But what about when, what's your name?
+- Dan.
+
+252
+00:19:11,419 --> 00:19:17,140
+But Dan, what about Rochelle
+says this argument in Section 27
+
+253
+00:19:17,360 --> 00:19:22,260
+and then in 32
+about appropriating land,
+
+254
+00:19:23,600 --> 00:19:28,820
+that argument, if it's valid,
+would justify the settlers' appropriating
+
+255
+00:19:28,919 --> 00:19:32,460
+that land and excluding
+others from it,
+
+256
+00:19:32,740 --> 00:19:34,580
+you think that argument
+is a good argument?
+
+257
+00:19:34,960 --> 00:19:37,620
+Well, doesn't it kind of imply
+that the Native Americans
+
+258
+00:19:37,720 --> 00:19:39,620
+hadn't already done that?
+
+259
+00:19:42,720 --> 00:19:44,580
+Well, the Native Americans,
+as hunter-gatherers,
+
+260
+00:19:44,970 --> 00:19:48,220
+didn't actually enclose land.
+
+261
+00:19:48,570 --> 00:19:51,780
+So I think Rochelle is
+onto something there.
+
+262
+00:19:52,360 --> 00:19:54,660
+What I want to -- go ahead, Dan.
+
+263
+00:19:55,020 --> 00:19:57,020
+At the same time,
+he is saying that just by picking
+
+264
+00:19:57,240 --> 00:20:00,540
+an acorn or taking an apple
+or maybe killing a buffalo
+
+265
+00:20:00,639 --> 00:20:02,940
+on a certain amount of land,
+that makes it yours
+
+266
+00:20:03,360 --> 00:20:06,460
+because it's your labor and your labor
+would enclose that land.
+
+267
+00:20:07,070 --> 00:20:09,700
+So by that definition,
+maybe they didn't have fences
+
+268
+00:20:10,639 --> 00:20:12,530
+around little plots of land
+but didn't...
+
+269
+00:20:12,720 --> 00:20:13,840
+They were using it.
+
+270
+00:20:14,070 --> 00:20:15,820
+Yes. By Locke's definition,
+you can say...
+
+271
+00:20:16,080 --> 00:20:18,020
+So maybe by Locke's definition,
+the Native Americans
+
+272
+00:20:18,120 --> 00:20:20,940
+could have claimed a property right
+in the land itself.
+
+273
+00:20:21,159 --> 00:20:24,660
+Right, but they just didn't have
+Locke on their side, as she points out.
+
+274
+00:20:25,040 --> 00:20:30,270
+All right, good. Okay, that's good.
+One more defender of Locke. Go ahead.
+
+275
+00:20:31,389 --> 00:20:32,540
+Well, I mean,
+just to defend Locke,
+
+276
+00:20:32,720 --> 00:20:35,580
+he does say that
+there are some times in which
+
+277
+00:20:35,800 --> 00:20:37,260
+you can't take
+another person's land.
+
+278
+00:20:37,480 --> 00:20:41,840
+For example, you can't acquire
+a land that is common property so people,
+
+279
+00:20:41,990 --> 00:20:44,760
+in terms of the American Indians,
+I feel like they already have
+
+280
+00:20:44,860 --> 00:20:47,540
+civilizations themselves
+and they were using land in common.
+
+281
+00:20:47,840 --> 00:20:50,250
+So it's kind of like what
+an analogy to what he was talking about
+
+282
+00:20:50,350 --> 00:20:54,610
+with like the common English property.
+You can't take land that
+
+283
+00:20:54,710 --> 00:20:55,860
+everybody is sharing in common.
+
+284
+00:20:55,970 --> 00:20:57,200
+Oh, that's interesting. That's interesting.
+
+285
+00:20:57,300 --> 00:21:00,360
+And also, you can't take land
+unless you make sure
+
+286
+00:21:00,460 --> 00:21:04,280
+that there is as much land as possible
+left for other people to take as well.
+
+287
+00:21:04,520 --> 00:21:07,050
+So if you're taking common,
+so you have to make sure
+
+288
+00:21:07,300 --> 00:21:10,220
+that whenever you take land
+that there is enough left
+
+289
+00:21:10,600 --> 00:21:11,820
+for other people to use...
+- Right.
+
+290
+00:21:12,040 --> 00:21:14,070
+...that's just as good as
+the land that you took, so...
+
+291
+00:21:14,300 --> 00:21:17,900
+That's true.
+Locke says there has to be this right
+
+292
+00:21:18,100 --> 00:21:21,600
+to private property in the earth
+is subject to the provision
+
+293
+00:21:21,649 --> 00:21:26,040
+that there be as much and as good
+left for others. What's your name?
+
+294
+00:21:26,159 --> 00:21:27,480
+Right. I'm Feng.
+
+295
+00:21:27,600 --> 00:21:30,100
+So Feng, in a way,
+agrees with Dan that maybe there is
+
+296
+00:21:30,200 --> 00:21:34,180
+a claim within Locke's framework
+that could be developed on behalf
+
+297
+00:21:34,399 --> 00:21:40,540
+of the Native Americans.
+Here is the further question.
+
+298
+00:21:42,730 --> 00:21:47,460
+If the right to private property
+is natural, not conventional,
+
+299
+00:21:48,399 --> 00:21:53,980
+if it's something that we acquire
+even before we agree to government,
+
+300
+00:21:54,689 --> 00:21:59,900
+how does that right constrain
+what a legitimate government can do?
+
+301
+00:22:04,840 --> 00:22:10,220
+In order, finally,
+to see whether Locke is an ally
+
+302
+00:22:10,520 --> 00:22:17,620
+or potentially a critic of the
+libertarian idea of the state,
+
+303
+00:22:18,200 --> 00:22:20,560
+we have to ask what becomes
+of our natural rights
+
+304
+00:22:20,840 --> 00:22:23,530
+once we enter into society.
+
+305
+00:22:23,790 --> 00:22:28,390
+We know that the way we enter into society
+is by consent, by agreement
+
+306
+00:22:29,159 --> 00:22:32,800
+to leave the state of nature
+and to be governed by the majority
+
+307
+00:22:33,159 --> 00:22:36,060
+and by a system of laws,
+human laws.
+
+308
+00:22:36,590 --> 00:22:42,740
+But those human laws
+are only legitimate
+
+309
+00:22:43,560 --> 00:22:50,600
+if they respect our natural rights,
+if they respect our unalienable rights
+
+310
+00:22:50,980 --> 00:22:59,380
+to life, liberty, and property.
+No parliament, no legislature,
+
+311
+00:22:59,659 --> 00:23:06,670
+however democratic its credentials,
+can legitimately violate
+
+312
+00:23:07,040 --> 00:23:09,140
+our natural rights.
+
+313
+00:23:10,080 --> 00:23:17,380
+This idea that no law can violate
+our right to life, liberty, and property
+
+314
+00:23:17,600 --> 00:23:23,780
+would seem to support the idea
+of a government so limited
+
+315
+00:23:25,490 --> 00:23:29,620
+that it would gladden the heart
+of the libertarian after all.
+
+316
+00:23:29,919 --> 00:23:35,620
+But those hearts should not be
+so quickly gladdened because
+
+317
+00:23:35,840 --> 00:23:41,380
+even though for Locke,
+the law of nature persists
+
+318
+00:23:42,280 --> 00:23:46,660
+once government arrives,
+even though Locke insists
+
+319
+00:23:46,919 --> 00:23:50,700
+on limited government,
+government limited by the end
+
+320
+00:23:50,800 --> 00:23:54,170
+for which it was created,
+namely the preservation of property,
+
+321
+00:23:54,510 --> 00:24:00,820
+even so, there is an important sense
+in which what counts as my property,
+
+322
+00:24:01,800 --> 00:24:07,600
+what counts as respecting
+my life and liberty
+
+323
+00:24:08,320 --> 00:24:13,220
+are for the government to define.
+
+324
+00:24:15,310 --> 00:24:19,510
+That there be property,
+that there be respect
+
+325
+00:24:20,200 --> 00:24:26,490
+for life and liberty
+is what limits government.
+
+326
+00:24:27,080 --> 00:24:37,410
+But what counts as respecting
+my life and respecting my property,
+
+327
+00:24:38,040 --> 00:24:43,210
+that is for governments
+to decide and to define.
+
+328
+00:24:44,250 --> 00:24:45,700
+How can that be?
+
+329
+00:24:46,080 --> 00:24:50,600
+Is Locke contradicting himself
+or is there an important
+
+330
+00:24:50,810 --> 00:24:54,140
+distinction here?
+
+331
+00:24:54,409 --> 00:24:58,070
+In order to answer that question,
+which will decide Locke's fit
+
+332
+00:24:58,240 --> 00:25:02,100
+with the libertarian view,
+we need to look closely
+
+333
+00:25:02,200 --> 00:25:05,180
+at what legitimate government
+looks like for Locke,
+
+334
+00:25:05,649 --> 00:25:08,220
+and we turn to that next time.
+
+335
+00:25:14,840 --> 00:25:17,260
+Nicola, if you didn't think
+you'd get caught,
+
+336
+00:25:18,780 --> 00:25:20,480
+would you pay your taxes?
+
+337
+00:25:23,750 --> 00:25:28,610
+I don't think so.
+I would rather have a system
+
+338
+00:25:28,820 --> 00:25:34,340
+personally that I could give money
+to exactly those sections
+
+339
+00:25:34,429 --> 00:25:38,930
+of the government that I support
+and not just blanket support of it.
+
+340
+00:25:39,110 --> 00:25:40,420
+You'd rather be in the
+state of nature,
+
+341
+00:25:40,520 --> 00:25:42,350
+at least on April 15th.
+
+342
+00:25:49,740 --> 00:25:57,420
+Last time, we began to discuss
+Locke's state of nature,
+
+343
+00:25:58,760 --> 00:26:05,210
+his account of private property,
+his theory of legitimate government,
+
+344
+00:26:05,730 --> 00:26:10,100
+which is government based on consent
+and also limited government.
+
+345
+00:26:12,520 --> 00:26:15,190
+Locke believes in certain
+fundamental rights that constrain
+
+346
+00:26:15,520 --> 00:26:19,230
+what government can do,
+and he believes that those rights
+
+347
+00:26:19,340 --> 00:26:23,940
+are natural rights,
+not rights that flow from law
+
+348
+00:26:24,590 --> 00:26:26,790
+or from government.
+
+349
+00:26:27,570 --> 00:26:32,090
+And so Locke's great
+philosophical experiment
+
+350
+00:26:32,189 --> 00:26:37,450
+is to see if he can give an account
+of how there could be a right
+
+351
+00:26:37,679 --> 00:26:44,610
+to private property without consent
+before government and legislators
+
+352
+00:26:44,830 --> 00:26:47,930
+arrive on the scene to define property.
+
+353
+00:26:48,649 --> 00:26:51,220
+That's his question. That's his claim.
+
+354
+00:26:51,439 --> 00:26:55,100
+There is a way Locke argues
+to create property,
+
+355
+00:26:55,460 --> 00:26:58,420
+not just in the things
+we gather and hunt,
+
+356
+00:26:58,570 --> 00:27:02,780
+but in the land itself,
+provided there is enough
+
+357
+00:27:03,090 --> 00:27:05,580
+and as good left for others.
+
+358
+00:27:05,909 --> 00:27:09,520
+Today, I want to turn
+to the question of consent,
+
+359
+00:27:09,860 --> 00:27:12,220
+which is Locke's second big idea.
+
+360
+00:27:12,500 --> 00:27:15,820
+Private property is one;
+consent is the other.
+
+361
+00:27:19,470 --> 00:27:22,530
+What is the work of consent?
+
+362
+00:27:23,760 --> 00:27:27,360
+People here have been
+invoking the idea of consent
+
+363
+00:27:27,500 --> 00:27:30,000
+since we began
+since the first week.
+
+364
+00:27:30,100 --> 00:27:32,100
+Do you remember
+when we were talking about
+
+365
+00:27:32,899 --> 00:27:34,900
+pushing the fat man off the bridge,
+someone said,
+
+366
+00:27:35,120 --> 00:27:38,550
+"But he didn't agree
+to sacrifice himself.
+
+367
+00:27:39,060 --> 00:27:41,380
+It would be different
+if he consented."
+
+368
+00:27:42,220 --> 00:27:44,780
+Or when we were talking
+about the cabin boy,
+
+369
+00:27:46,820 --> 00:27:48,700
+killing and eating the cabin boy.
+
+370
+00:27:49,330 --> 00:27:51,660
+Some people said,
+"Well, if they had consented
+
+371
+00:27:51,760 --> 00:27:53,460
+to a lottery, it would be different.
+
+372
+00:27:53,800 --> 00:27:55,380
+Then it would be all right."
+
+373
+00:27:55,699 --> 00:27:59,780
+So consent has come up
+a lot and here in John Locke,
+
+374
+00:28:00,429 --> 00:28:04,260
+we have one of the great
+philosophers of consent.
+
+375
+00:28:05,699 --> 00:28:08,500
+Consent is an obvious
+familiar idea in moral
+
+376
+00:28:08,800 --> 00:28:11,200
+and political philosophy.
+
+377
+00:28:11,500 --> 00:28:15,100
+Locke says that legitimate
+government is government founded
+
+378
+00:28:15,100 --> 00:28:18,900
+on consent and who, nowadays,
+would disagree with him?
+
+379
+00:28:20,310 --> 00:28:22,660
+Sometimes, when the ideas
+of political philosophers
+
+380
+00:28:22,879 --> 00:28:28,200
+are as familiar as Locke's ideas
+about consent,
+
+381
+00:28:28,959 --> 00:28:32,660
+it's hard to make sense of them
+or at least to find them very interesting.
+
+382
+00:28:33,189 --> 00:28:36,640
+But there are some puzzles,
+some strange features
+
+383
+00:28:38,310 --> 00:28:40,030
+of Locke's account of consent
+
+384
+00:28:40,300 --> 00:28:43,900
+as the basis of
+legitimate government
+
+385
+00:28:44,080 --> 00:28:46,300
+and that's what
+I'd like to take up today.
+
+386
+00:28:48,260 --> 00:28:53,590
+One way of testing
+the plausibility of Locke's idea
+
+387
+00:28:53,750 --> 00:28:57,850
+of consent and also of probing
+some of its perplexities
+
+388
+00:29:00,720 --> 00:29:04,380
+is to ask just what
+a legitimate government
+
+389
+00:29:04,740 --> 00:29:08,540
+founded on consent can do,
+what are its powers
+
+390
+00:29:08,760 --> 00:29:10,700
+according to Locke.
+
+391
+00:29:11,820 --> 00:29:14,590
+Well, in order to answer
+that question,
+
+392
+00:29:14,780 --> 00:29:20,780
+it helps to remember
+what the state of nature is like.
+
+393
+00:29:21,260 --> 00:29:24,360
+Remember, the state of nature
+is the condition that
+
+394
+00:29:24,620 --> 00:29:30,780
+we decide to leave,
+and that's what gives rise to consent.
+
+395
+00:29:31,129 --> 00:29:34,700
+Why not stay there?
+Why bother with government at all?
+
+396
+00:29:36,000 --> 00:29:39,200
+Well, what is Locke's answer
+to that question?
+
+397
+00:29:39,490 --> 00:29:42,500
+He says there are some inconveniences
+in the state of nature
+
+398
+00:29:42,780 --> 00:29:45,580
+but what are those
+inconveniences?
+
+399
+00:29:45,889 --> 00:29:52,350
+The main inconvenience
+is that everyone can enforce
+
+400
+00:29:52,480 --> 00:29:54,540
+the law of nature.
+
+401
+00:29:54,919 --> 00:29:57,460
+Everyone is an enforcer,
+or what Locke calls
+
+402
+00:29:57,639 --> 00:30:05,540
+"the executor" of the state of nature,
+and he means executor literally.
+
+403
+00:30:06,600 --> 00:30:09,980
+If someone violates
+the law of nature,
+
+404
+00:30:10,959 --> 00:30:15,590
+he is an aggressor.
+He is beyond reason
+
+405
+00:30:16,949 --> 00:30:18,760
+and you can punish him.
+
+406
+00:30:21,129 --> 00:30:23,720
+And you don't have to be
+too careful or fine about
+
+407
+00:30:23,879 --> 00:30:27,220
+gradations of punishment
+in the state of nature.
+
+408
+00:30:27,320 --> 00:30:29,210
+You can kill him.
+You can certainly kill
+
+409
+00:30:29,429 --> 00:30:34,630
+someone who comes after you,
+who tries to murder you.
+
+410
+00:30:35,340 --> 00:30:37,100
+That's self defense.
+
+411
+00:30:37,659 --> 00:30:39,940
+But the enforcement power,
+the right to punish,
+
+412
+00:30:40,169 --> 00:30:42,810
+everyone can do the punishing
+in the state of nature.
+
+413
+00:30:43,639 --> 00:30:45,630
+And not only can you punish
+with death people
+
+414
+00:30:45,889 --> 00:30:50,280
+who come after you seeking
+to take your life,
+
+415
+00:30:51,320 --> 00:30:55,240
+you can also punish a thief
+who tries to steal your goods
+
+416
+00:30:55,439 --> 00:30:57,990
+because that also counts
+as aggression against
+
+417
+00:30:58,090 --> 00:31:00,450
+the law of nature.
+
+418
+00:31:01,669 --> 00:31:04,420
+If someone has stolen
+from a third party,
+
+419
+00:31:04,590 --> 00:31:08,800
+you can go after him. Why is this?
+
+420
+00:31:09,189 --> 00:31:13,400
+Well, violations of the law of nature
+are an act of aggression.
+
+421
+00:31:14,550 --> 00:31:18,580
+There is no police force.
+There are no judges, no juries,
+
+422
+00:31:18,860 --> 00:31:23,310
+so everyone is the judge
+in his or her own case.
+
+423
+00:31:24,790 --> 00:31:27,670
+And Locke observes that
+when people are the judges
+
+424
+00:31:27,870 --> 00:31:31,300
+of their own cases,
+they tend to get carried away,
+
+425
+00:31:33,360 --> 00:31:35,950
+and this gives rise
+to the inconvenience
+
+426
+00:31:36,230 --> 00:31:38,450
+in the state of nature.
+
+427
+00:31:38,870 --> 00:31:41,330
+People overshoot the mark.
+There is aggression.
+
+428
+00:31:41,500 --> 00:31:45,740
+There is punishment
+and before you know it,
+
+429
+00:31:45,840 --> 00:31:51,070
+everybody is insecure
+in the enjoyment of his or her
+
+430
+00:31:51,459 --> 00:31:55,200
+unalienable rights to life,
+liberty, and property.
+
+431
+00:31:56,709 --> 00:32:02,300
+Now, he describes in pretty harsh
+and even grim terms
+
+432
+00:32:03,159 --> 00:32:07,710
+what you can do to people
+who violate the law of nature.
+
+433
+00:32:07,889 --> 00:32:11,320
+"One may destroy a man
+who makes war upon him ...
+
+434
+00:32:11,469 --> 00:32:15,420
+for the same reason that
+he may kill a wolf or a lion.
+
+435
+00:32:16,199 --> 00:32:19,780
+Such men have no other rule,
+but that of force and violence,"
+
+436
+00:32:20,240 --> 00:32:25,680
+listen to this, "and so may be
+treated as beasts of prey, those
+
+437
+00:32:25,780 --> 00:32:31,240
+dangerous and noxious creatures,
+that will be sure to destroy to you
+
+438
+00:32:31,350 --> 00:32:35,850
+if you fall into their power",
+so kill them first.
+
+439
+00:32:36,260 --> 00:32:44,020
+So, what starts out as a seemingly
+benign state of nature
+
+440
+00:32:44,300 --> 00:32:46,840
+where everyone is free
+and yet where there is a law
+
+441
+00:32:47,120 --> 00:32:50,890
+and the law respects people's rights,
+and those rights are so powerful
+
+442
+00:32:51,040 --> 00:32:52,850
+that they're unalienable.
+
+443
+00:32:52,980 --> 00:32:59,310
+What starts out looking very benign,
+once you look closer,
+
+444
+00:33:00,060 --> 00:33:05,890
+is pretty fierce and filled with violence,
+and that's why people want to leave.
+
+445
+00:33:07,659 --> 00:33:11,900
+How do they leave?
+Well, here is where consent comes in.
+
+446
+00:33:12,490 --> 00:33:15,790
+The only way to escape
+from the state of nature
+
+447
+00:33:16,169 --> 00:33:26,890
+is to undertake an act of consent
+where you agree to give up
+
+448
+00:33:27,219 --> 00:33:31,610
+the enforcement power
+and to create a government
+
+449
+00:33:32,600 --> 00:33:39,940
+or a community where there will be
+a legislature to make law
+
+450
+00:33:40,679 --> 00:33:46,350
+and where everyone agrees in advance,
+everyone who enters,
+
+451
+00:33:46,679 --> 00:33:51,490
+agrees in advance to abide by
+whatever the majority decides.
+
+452
+00:33:51,830 --> 00:33:53,480
+But then the question,
+and this is our question
+
+453
+00:33:53,790 --> 00:33:55,260
+and here is where I want
+to get your views,
+
+454
+00:33:55,360 --> 00:34:01,890
+then the question is what powers,
+what can the majority decide?
+
+455
+00:34:02,510 --> 00:34:07,610
+Now, here, it gets tricky for Locke
+because you remember,
+
+456
+00:34:07,709 --> 00:34:11,870
+alongside the whole story
+about consent and majority rule,
+
+457
+00:34:12,069 --> 00:34:15,080
+there are these natural rights,
+the law of nature,
+
+458
+00:34:15,240 --> 00:34:17,940
+these unalienable rights,
+and you remember,
+
+459
+00:34:17,940 --> 00:34:25,040
+they don't disappear when people
+join together to create a civil society.
+
+460
+00:34:26,390 --> 00:34:29,820
+So even once the majority
+is in charge,
+
+461
+00:34:30,160 --> 00:34:36,690
+the majority can't violate
+your inalienable rights,
+
+462
+00:34:36,880 --> 00:34:39,300
+can't violate your
+fundamental right to life,
+
+463
+00:34:39,400 --> 00:34:41,760
+liberty, and property.
+
+464
+00:34:41,860 --> 00:34:43,330
+So here is the puzzle.
+
+465
+00:34:46,009 --> 00:34:48,290
+How much power
+does the majority have?
+
+466
+00:34:48,380 --> 00:34:52,880
+How limited is the government
+created by consent?
+
+467
+00:34:55,620 --> 00:35:01,890
+It's limited by the obligation
+on the part of the majority
+
+468
+00:35:02,230 --> 00:35:09,550
+to respect and to enforce the fundamental
+natural rights of the citizens.
+
+469
+00:35:10,089 --> 00:35:11,180
+They don't give those up.
+We don't give those up
+
+470
+00:35:11,450 --> 00:35:13,440
+when we enter government.
+
+471
+00:35:13,600 --> 00:35:17,310
+That's this powerful idea
+taken over from Locke
+
+472
+00:35:17,410 --> 00:35:23,900
+by Jefferson in the Declaration.
+Unalienable rights.
+
+473
+00:35:24,600 --> 00:35:29,740
+So, let's go to our two cases.
+Remember Michael Jordan, Bill Gates,
+
+474
+00:35:29,960 --> 00:35:33,660
+the libertarian objection
+to taxation for redistribution?
+
+475
+00:35:33,880 --> 00:35:36,140
+Well, what about Locke's
+limited government?
+
+476
+00:35:36,529 --> 00:35:43,480
+Is there anyone who thinks
+that Locke does give grounds
+
+477
+00:35:43,950 --> 00:35:48,340
+for opposing taxation
+for redistribution?
+
+478
+00:35:51,049 --> 00:35:53,300
+Anybody? Go ahead.
+
+479
+00:35:54,740 --> 00:35:58,740
+If the majority rules
+that there should be taxation,
+
+480
+00:35:59,390 --> 00:36:02,580
+even if the minority should still
+not have to be taxed
+
+481
+00:36:02,860 --> 00:36:08,740
+because that's taking away property,
+which is one of the rights of nature.
+
+482
+00:36:09,259 --> 00:36:12,360
+All right so, and what's your name?
+- Ben.
+
+483
+00:36:12,500 --> 00:36:19,800
+Ben. So if the majority
+taxes the minority
+
+484
+00:36:22,560 --> 00:36:24,730
+without the consent
+of the minority
+
+485
+00:36:24,830 --> 00:36:29,330
+to that particular tax law,
+it does amount to a taking
+
+486
+00:36:29,660 --> 00:36:33,030
+of their property
+without their consent
+
+487
+00:36:33,200 --> 00:36:37,980
+and it would seem that Locke
+should object to that.
+
+488
+00:36:40,480 --> 00:36:43,250
+You want some textual support
+for your view,
+
+489
+00:36:43,350 --> 00:36:45,260
+for your reading of Locke, Ben?
+
+490
+00:36:45,299 --> 00:36:46,200
+Sure.
+
+491
+00:36:46,500 --> 00:36:51,000
+All right. I brought some along
+just in case you raised it.
+
+492
+00:36:53,380 --> 00:36:57,780
+If you have your texts,
+look at 138, passage 138.
+
+493
+00:36:58,630 --> 00:37:02,210
+"The supreme power,"
+by which Locke means the legislature,
+
+494
+00:37:02,390 --> 00:37:04,430
+"cannot take from any man
+any part of his property
+
+495
+00:37:04,670 --> 00:37:09,040
+without his own consent,
+for the preservation of property
+
+496
+00:37:09,259 --> 00:37:11,850
+being the end of government
+and that for which men
+
+497
+00:37:12,060 --> 00:37:14,830
+enter into society,
+it necessarily supposes
+
+498
+00:37:14,980 --> 00:37:17,810
+and requires that people
+should have property."
+
+499
+00:37:18,140 --> 00:37:20,310
+That was the whole reason
+for entering society in the first place,
+
+500
+00:37:20,839 --> 00:37:22,300
+to protect the right to property.
+
+501
+00:37:22,560 --> 00:37:24,790
+And when Locke speaks about
+the right to property,
+
+502
+00:37:25,200 --> 00:37:29,990
+he often uses that as a kind
+of global term for the whole category,
+
+503
+00:37:30,109 --> 00:37:33,150
+the right to life, liberty,
+and property.
+
+504
+00:37:35,460 --> 00:37:39,620
+So that part of Locke,
+that beginning of 138,
+
+505
+00:37:39,880 --> 00:37:46,420
+seems to support Ben's reading.
+But what about the part of 138,
+
+506
+00:37:47,640 --> 00:37:50,280
+if you keep reading,
+"Men, therefore, in society
+
+507
+00:37:50,460 --> 00:37:54,490
+having property, they have such a right
+to the goods,
+
+508
+00:37:54,740 --> 00:37:59,840
+which by the law
+of the community are theirs."
+
+509
+00:38:00,069 --> 00:38:01,880
+Look at this.
+
+510
+00:38:02,450 --> 00:38:06,110
+"And that no one can take
+from them without their consent."
+
+511
+00:38:06,630 --> 00:38:10,380
+And then at the end
+of this passage, he says,
+
+512
+00:38:10,600 --> 00:38:12,690
+"So it's a mistake to think
+that the legislative power
+
+513
+00:38:13,130 --> 00:38:17,340
+can do what it will and dispose
+of the estates of the subject arbitrarily
+
+514
+00:38:17,569 --> 00:38:20,870
+or take any part of them at pleasure."
+
+515
+00:38:21,600 --> 00:38:23,560
+Here's what's elusive.
+
+516
+00:38:25,380 --> 00:38:27,320
+On the one hand,
+he says the government
+
+517
+00:38:27,529 --> 00:38:29,380
+can't take your property
+without your consent.
+
+518
+00:38:29,750 --> 00:38:34,250
+He is clear about that.
+But then he goes on to say,
+
+519
+00:38:34,339 --> 00:38:36,260
+and that's the natural right
+to property.
+
+520
+00:38:36,480 --> 00:38:39,440
+But then, it seems that property,
+what counts as property
+
+521
+00:38:39,650 --> 00:38:41,220
+is not natural
+but conventional
+
+522
+00:38:41,500 --> 00:38:43,670
+defined by the government.
+
+523
+00:38:46,230 --> 00:38:50,910
+"The goods of which
+by the law of the community are theirs."
+
+524
+00:38:52,549 --> 00:38:57,520
+And the plot thickens
+if you look ahead to Section 140.
+
+525
+00:38:58,529 --> 00:39:00,700
+In 140, he says,
+"Governments can't be supported
+
+526
+00:39:00,839 --> 00:39:01,830
+without great charge.
+
+527
+00:39:02,109 --> 00:39:05,120
+Government is expensive
+and it's fit that everyone
+
+528
+00:39:05,220 --> 00:39:07,080
+who enjoys his share
+of the protection
+
+529
+00:39:07,180 --> 00:39:09,720
+should pay out of his estate."
+
+530
+00:39:11,040 --> 00:39:13,820
+And then here is the crucial line.
+"But still, it must be
+
+531
+00:39:14,040 --> 00:39:19,740
+with his own consent,
+i.e. the consent of the majority,
+
+532
+00:39:20,240 --> 00:39:21,180
+giving it either by themselves,
+
+533
+00:39:21,400 --> 00:39:25,580
+or through their representatives."
+So what is Locke actually saying?
+
+534
+00:39:28,160 --> 00:39:33,180
+Property is natural in one sense
+but conventional in another.
+
+535
+00:39:33,400 --> 00:39:36,100
+It's natural in the sense
+that we have a fundamental
+
+536
+00:39:36,359 --> 00:39:40,140
+unalienable right that
+there be property,
+
+537
+00:39:40,480 --> 00:39:43,830
+that the institution of property
+exist and be respected
+
+538
+00:39:44,040 --> 00:39:45,450
+by the government.
+
+539
+00:39:45,950 --> 00:39:49,560
+So an arbitrary taking of property
+would be a violation
+
+540
+00:39:49,680 --> 00:39:54,810
+of the law of nature
+and would be illegitimate.
+
+541
+00:39:55,580 --> 00:39:58,980
+But it's a further question,
+here is the conventional
+
+542
+00:39:59,160 --> 00:40:00,940
+aspect of property,
+it's a further question
+
+543
+00:40:01,200 --> 00:40:06,700
+what counts as property,
+how it's defined and what counts
+
+544
+00:40:08,569 --> 00:40:12,520
+as taking property,
+and that's up to the government.
+
+545
+00:40:13,089 --> 00:40:18,080
+So the consent, here,
+we're coming back
+
+546
+00:40:18,359 --> 00:40:21,660
+to our question,
+what is the work of consent?
+
+547
+00:40:22,540 --> 00:40:24,950
+What it takes for taxation
+to be legitimate
+
+548
+00:40:25,630 --> 00:40:30,260
+is that it be by consent,
+not the consent of Bill Gates himself
+
+549
+00:40:30,589 --> 00:40:33,290
+if he is the one who has
+to pay the tax,
+
+550
+00:40:34,120 --> 00:40:36,300
+but by the consent
+that he and we,
+
+551
+00:40:36,650 --> 00:40:39,260
+all of us within the society,
+gave when we emerged
+
+552
+00:40:39,520 --> 00:40:42,300
+from the state of nature
+and created the government
+
+553
+00:40:43,680 --> 00:40:47,780
+in the first place.
+It's the collective consent.
+
+554
+00:40:50,500 --> 00:40:56,390
+And by that reading,
+it looks like consent is doing
+
+555
+00:40:56,600 --> 00:41:02,100
+a whole lot and the limited
+government consent creates
+
+556
+00:41:02,330 --> 00:41:05,080
+isn't all that limited.
+
+557
+00:41:06,930 --> 00:41:11,770
+Does anyone want to respond
+to that or have a question about that?
+
+558
+00:41:12,600 --> 00:41:15,050
+Go ahead. Stand up.
+
+559
+00:41:15,859 --> 00:41:19,550
+Well, I'm just wondering
+what Locke's view is on
+
+560
+00:41:20,350 --> 00:41:22,780
+once you have a government
+that's already in place,
+
+561
+00:41:22,880 --> 00:41:26,470
+whether it is possible
+for people who are born
+
+562
+00:41:26,569 --> 00:41:29,340
+into that government
+to then leave and return
+
+563
+00:41:29,560 --> 00:41:31,220
+to the state of nature?
+I mean, I don't think
+
+564
+00:41:31,440 --> 00:41:34,330
+that Locke mentioned
+that at all in the...
+
+565
+00:41:35,109 --> 00:41:36,380
+What do you think?
+
+566
+00:41:37,250 --> 00:41:43,780
+Well, I think, as the convention,
+it would be very difficult to leave
+
+567
+00:41:43,880 --> 00:41:49,080
+the government
+because you are no longer,
+
+568
+00:41:50,319 --> 00:41:52,860
+because nobody else is
+just living in the state of nature.
+
+569
+00:41:53,000 --> 00:41:57,790
+Everybody else is now
+governed by this legislature.
+
+570
+00:41:58,259 --> 00:42:00,020
+What would it mean today,
+you're asking.
+
+571
+00:42:00,400 --> 00:42:01,740
+And what's your name?
+- Nicola.
+
+572
+00:42:01,960 --> 00:42:04,860
+Nicola, to leave the state.
+Supposed you wanted to leave
+
+573
+00:42:05,359 --> 00:42:09,860
+civil society today.
+You want to withdraw your consent
+
+574
+00:42:10,220 --> 00:42:11,710
+and return to the state of nature.
+
+575
+00:42:12,000 --> 00:42:13,340
+Well, because you didn't
+actually consent to it.
+
+576
+00:42:13,430 --> 00:42:18,780
+You were just born into it.
+It was your ancestors who joined.
+
+577
+00:42:19,150 --> 00:42:24,720
+Right. You didn't sign
+the social contract. I didn't sign it.
+
+578
+00:42:24,819 --> 00:42:25,500
+Exactly.
+
+579
+00:42:25,790 --> 00:42:29,450
+All right, so what does
+Locke say there? Yes?
+
+580
+00:42:31,120 --> 00:42:33,220
+I don't think Locke says
+you have to sign anything.
+
+581
+00:42:33,600 --> 00:42:35,860
+I think that he says
+that it's kind of implied consent.
+
+582
+00:42:36,080 --> 00:42:36,700
+Implied?
+
+583
+00:42:36,920 --> 00:42:38,700
+Taking government's services,
+you are implying that
+
+584
+00:42:38,799 --> 00:42:39,850
+you are consenting
+to the government
+
+585
+00:42:40,100 --> 00:42:41,540
+taking things from you.
+
+586
+00:42:41,920 --> 00:42:44,680
+All right, so implied consent.
+That's a partial answer
+
+587
+00:42:44,880 --> 00:42:46,760
+to this challenge.
+Now, you may not think
+
+588
+00:42:46,870 --> 00:42:49,570
+that implied consent
+is as good as the real thing.
+
+589
+00:42:49,680 --> 00:42:51,780
+Is that what you're shaking
+your head about, Nicola?
+
+590
+00:42:52,040 --> 00:42:54,860
+Speak up. Stand up and speak up.
+
+591
+00:42:55,080 --> 00:42:58,290
+I don't think that necessarily
+just by utilizing the government's
+
+592
+00:42:58,620 --> 00:43:05,780
+various resources that we are
+necessarily implying that
+
+593
+00:43:06,000 --> 00:43:10,410
+we agree with the way
+that this government was formed
+
+594
+00:43:11,480 --> 00:43:15,610
+or that we have consented
+to actually join into the social contract.
+
+595
+00:43:16,420 --> 00:43:18,830
+So you don't think the idea
+of implied consent
+
+596
+00:43:19,049 --> 00:43:21,820
+is strong enough to generate
+any obligation at all to obey
+
+597
+00:43:22,080 --> 00:43:23,140
+the government?
+
+598
+00:43:23,779 --> 00:43:25,350
+Not necessarily, no.
+
+599
+00:43:25,880 --> 00:43:28,750
+Nicola, if you didn't think
+you'd get caught,
+
+600
+00:43:29,799 --> 00:43:31,780
+would you pay your taxes?
+
+601
+00:43:34,879 --> 00:43:40,190
+I don't think so. I would rather
+have a system, personally,
+
+602
+00:43:40,790 --> 00:43:45,340
+that I could give money to
+exactly those sections
+
+603
+00:43:45,440 --> 00:43:46,820
+of the government
+that I support
+
+604
+00:43:47,040 --> 00:43:49,780
+and not just blanket support of it.
+
+605
+00:43:50,000 --> 00:43:51,350
+You'd rather be
+in the state of nature,
+
+606
+00:43:51,580 --> 00:43:53,380
+at least on April 15th.
+
+607
+00:43:58,390 --> 00:44:00,430
+But what I'm trying to get at
+is do you consider that
+
+608
+00:44:00,640 --> 00:44:03,280
+you are under no obligation,
+since you haven't actually entered
+
+609
+00:44:03,569 --> 00:44:07,130
+into any act of consent,
+but for prudential reasons,
+
+610
+00:44:07,279 --> 00:44:09,810
+you do what you're supposed
+o do according to the law?
+
+611
+00:44:10,150 --> 00:44:11,540
+Exactly.
+
+612
+00:44:11,740 --> 00:44:14,590
+If you look at it that way,
+then you're violating another one
+
+613
+00:44:14,690 --> 00:44:16,700
+of Locke's treatises,
+which is that you can't take
+
+614
+00:44:16,799 --> 00:44:21,280
+anything from anyone else.
+Like, you can't take the government's
+
+615
+00:44:21,540 --> 00:44:24,730
+services and then not give them
+anything in return.
+
+616
+00:44:25,560 --> 00:44:28,620
+If you want to go live
+in the state of nature, that's fine,
+
+617
+00:44:28,980 --> 00:44:30,450
+but you can't take anything
+from the government
+
+618
+00:44:30,549 --> 00:44:32,380
+because by the government's terms,
+which are the only terms
+
+619
+00:44:32,560 --> 00:44:34,540
+under which you
+can enter the agreement,
+
+620
+00:44:34,830 --> 00:44:36,860
+say that you have to pay taxes
+to take those things.
+
+621
+00:44:37,200 --> 00:44:40,180
+So you are saying that Nicola
+can go back into the state of nature
+
+622
+00:44:40,500 --> 00:44:42,800
+if she wants to but
+she can't drive on Mass. Ave.?
+
+623
+00:44:43,000 --> 00:44:44,100
+Exactly.
+
+624
+00:44:44,680 --> 00:44:48,340
+I want to raise the stakes
+beyond using Mass. Ave.
+
+625
+00:44:49,310 --> 00:44:51,400
+and even beyond taxation.
+
+626
+00:44:51,629 --> 00:44:55,460
+What about life?
+What about military conscription?
+
+627
+00:44:56,180 --> 00:44:58,460
+Yes, what do you say? Stand up.
+
+628
+00:44:59,100 --> 00:45:02,630
+First of all, we have to remember
+that sending people to war
+
+629
+00:45:02,779 --> 00:45:05,570
+is not necessarily implying
+that they'll die.
+
+630
+00:45:05,790 --> 00:45:08,620
+I mean, obviously,
+you're not raising their chances here
+
+631
+00:45:08,950 --> 00:45:11,960
+but it's not a death penalty.
+
+632
+00:45:12,080 --> 00:45:14,380
+So if you're going to discuss
+whether or not
+
+633
+00:45:14,750 --> 00:45:18,180
+military conscription
+is equivalent to suppressing
+
+634
+00:45:18,460 --> 00:45:21,810
+people's right to life,
+you shouldn't approach it that way.
+
+635
+00:45:22,759 --> 00:45:25,880
+Secondly, the real problem here
+is Locke has this view
+
+636
+00:45:26,160 --> 00:45:31,010
+about consent and natural rights.
+But you're not allowed to give up
+
+637
+00:45:31,240 --> 00:45:34,260
+your natural rights either.
+So the real question is
+
+638
+00:45:34,990 --> 00:45:38,420
+how does he himself
+figure it out between
+
+639
+00:45:38,600 --> 00:45:43,250
+"I agree to give up my life,
+give up my property"
+
+640
+00:45:43,509 --> 00:45:47,020
+when he talks about taxes
+or military conscription for the fact.
+
+641
+00:45:47,359 --> 00:45:49,940
+But I guess Locke would be
+against suicide,
+
+642
+00:45:50,279 --> 00:45:53,470
+and that's still my own consent.
+I agree by taking my life.
+
+643
+00:45:53,569 --> 00:45:55,500
+All right, good. All right, what's your name?
+- Eric.
+
+644
+00:45:55,720 --> 00:45:57,540
+So Eric brings us back
+to the puzzle we've been
+
+645
+00:45:57,759 --> 00:46:00,700
+wrestling with since we
+started reading Locke.
+
+646
+00:46:00,990 --> 00:46:04,260
+On the one hand,
+we have these unalienable rights
+
+647
+00:46:05,040 --> 00:46:07,430
+to life, liberty, and property,
+which means that even we
+
+648
+00:46:07,640 --> 00:46:10,660
+don't have the power
+to give them up,
+
+649
+00:46:10,879 --> 00:46:14,440
+and that's what creates
+the limits on legitimate government.
+
+650
+00:46:14,650 --> 00:46:17,680
+It's not what we consent to
+that limits government.
+
+651
+00:46:18,330 --> 00:46:21,700
+It's what we lack the power
+to give away
+
+652
+00:46:23,529 --> 00:46:25,620
+when we consent
+that limits government.
+
+653
+00:46:27,710 --> 00:46:32,420
+That's the point at the heart
+of Locke's whole account
+
+654
+00:46:32,640 --> 00:46:34,430
+of legitimate government.
+
+655
+00:46:35,180 --> 00:46:39,360
+But now, you say, "well, if we can't
+give up our own life,
+
+656
+00:46:39,540 --> 00:46:43,120
+if we can't commit suicide,
+if we can't give up our right
+
+657
+00:46:43,299 --> 00:46:45,260
+to property,
+how can we then agree
+
+658
+00:46:45,370 --> 00:46:49,110
+to be bound by a majority
+that will force us to sacrifice
+
+659
+00:46:49,210 --> 00:46:51,850
+our lives or give up our property"?
+
+660
+00:46:53,990 --> 00:46:57,380
+Does Locke have a way out
+of this or is he basically
+
+661
+00:46:59,190 --> 00:47:03,980
+sanctioning
+an all-powerful government,
+
+662
+00:47:04,080 --> 00:47:09,170
+despite everything he says
+about unalienable rights?
+
+663
+00:47:09,400 --> 00:47:11,020
+Does he have a way out of it?
+Who would speak here
+
+664
+00:47:11,120 --> 00:47:15,960
+in defense of Locke or make sense,
+find a way out of this predicament?
+
+665
+00:47:16,440 --> 00:47:17,760
+Yes.
+- All right, go ahead.
+
+666
+00:47:17,879 --> 00:47:19,850
+I feel like there is a general
+distinction we made between
+
+667
+00:47:19,950 --> 00:47:22,460
+the right to life
+that individuals possess
+
+668
+00:47:22,569 --> 00:47:24,690
+and the fact that the government
+cannot take away
+
+669
+00:47:24,839 --> 00:47:27,740
+a single individual's right to life.
+
+670
+00:47:28,549 --> 00:47:32,160
+I think if you look at conscription
+as the government picking out
+
+671
+00:47:32,359 --> 00:47:35,420
+certain individuals to go fight in war,
+then that would be a violation
+
+672
+00:47:35,520 --> 00:47:38,790
+of their natural right to life.
+On the other hand,
+
+673
+00:47:38,870 --> 00:47:43,370
+if you have conscription,
+let's say a lottery for example,
+
+674
+00:47:44,009 --> 00:47:48,430
+then in that case I would view that
+as the population picking
+
+675
+00:47:48,580 --> 00:47:51,220
+their representatives
+to defend them in the case of war,
+
+676
+00:47:51,640 --> 00:47:53,210
+the idea being that
+since the whole population
+
+677
+00:47:53,440 --> 00:47:55,900
+cannot go out there
+to defend its own right to property,
+
+678
+00:47:56,129 --> 00:47:59,530
+it picks its own representatives
+through a process that's essentially
+
+679
+00:47:59,819 --> 00:48:03,300
+random and then these sort
+of elected representatives
+
+680
+00:48:03,580 --> 00:48:06,880
+go out and fight for the rights
+of the people.
+
+681
+00:48:07,160 --> 00:48:09,410
+It works very similar,
+it works just like
+
+682
+00:48:09,509 --> 00:48:11,840
+an elected government, in my opinion.
+
+683
+00:48:12,120 --> 00:48:14,580
+All right, so an elected government
+can conscript citizens
+
+684
+00:48:14,680 --> 00:48:17,560
+to go out and defend
+the way of life,
+
+685
+00:48:17,870 --> 00:48:23,060
+the community that makes
+the enjoyment of rights possible?
+
+686
+00:48:23,279 --> 00:48:27,480
+I think it can because to me,
+it seems that it's very similar
+
+687
+00:48:27,770 --> 00:48:31,720
+to the process of electing
+representatives for legislature.
+
+688
+00:48:32,129 --> 00:48:37,830
+Although here,
+it's as if the government
+
+689
+00:48:38,029 --> 00:48:44,250
+is electing by conscription
+certain citizens to go die
+
+690
+00:48:44,490 --> 00:48:49,220
+for the sake of the whole.
+Is that consistent with respect
+
+691
+00:48:49,450 --> 00:48:51,440
+for a natural right to liberty?
+
+692
+00:48:51,700 --> 00:48:53,720
+Well, what I would say
+there is there is a distinction
+
+693
+00:48:53,970 --> 00:48:58,880
+between picking out individuals
+and having a random
+
+694
+00:48:59,060 --> 00:49:01,020
+choice of individuals. Like ...
+
+695
+00:49:01,020 --> 00:49:02,720
+Between picking out...
+let me make sure,
+
+696
+00:49:02,799 --> 00:49:06,930
+between picking out individuals,
+let me... what's your name?
+
+697
+00:49:07,109 --> 00:49:08,500
+Gokul.
+
+698
+00:49:08,750 --> 00:49:11,760
+Gokul says there's a difference
+between picking out individuals
+
+699
+00:49:11,859 --> 00:49:16,070
+to lay down their lives
+and having a general law.
+
+700
+00:49:16,830 --> 00:49:22,500
+I think this is the answer
+Locke would give, actually, Gokul.
+
+701
+00:49:23,100 --> 00:49:25,740
+Locke is against
+arbitrary government.
+
+702
+00:49:25,960 --> 00:49:30,940
+He is against the arbitrary taking,
+the singling out of Bill Gates
+
+703
+00:49:31,200 --> 00:49:33,660
+to finance the war in Iraq.
+He is against singling out
+
+704
+00:49:34,000 --> 00:49:37,860
+a particular citizen
+or group of people
+
+705
+00:49:38,080 --> 00:49:42,340
+to go off and fight.
+But if there is a general law
+
+706
+00:49:42,560 --> 00:49:45,620
+such that the
+government's choice,
+
+707
+00:49:45,839 --> 00:49:49,500
+the majority's action
+is non-arbitrary,
+
+708
+00:49:50,080 --> 00:49:58,180
+it doesn't really amount
+to a violation of people's basic rights.
+
+709
+00:49:58,400 --> 00:50:01,760
+What does count as a violation
+is an arbitrary taking
+
+710
+00:50:02,100 --> 00:50:04,940
+because that would essentially say,
+not only to Bill Gates,
+
+711
+00:50:05,310 --> 00:50:08,540
+but to everyone,
+there is no rule of law.
+
+712
+00:50:08,890 --> 00:50:14,660
+There is no institution of property.
+Because at the whim of the king,
+
+713
+00:50:14,759 --> 00:50:16,600
+or for that matter,
+of the parliament,
+
+714
+00:50:16,960 --> 00:50:23,130
+we can name you or you
+to give up your property
+
+715
+00:50:23,240 --> 00:50:25,920
+or to give up your life.
+But so long as there is
+
+716
+00:50:26,040 --> 00:50:34,900
+a non-arbitrary rule of law,
+then it's permissible.
+
+717
+00:50:35,270 --> 00:50:40,080
+Now, you may say this doesn't
+amount to a very limited government,
+
+718
+00:50:40,370 --> 00:50:42,960
+and the libertarian may complain
+that Locke is not
+
+719
+00:50:43,120 --> 00:50:45,570
+such a terrific ally after all.
+
+720
+00:50:45,839 --> 00:50:50,220
+The libertarian has two grounds
+for disappointment in Locke.
+
+721
+00:50:50,580 --> 00:50:55,860
+First, that the rights
+are unalienable and therefore,
+
+722
+00:50:56,140 --> 00:50:58,780
+I don't really own myself
+after all.
+
+723
+00:50:59,299 --> 00:51:02,910
+I can't dispose of my life
+or my liberty or my property
+
+724
+00:51:03,250 --> 00:51:07,490
+in a way that violates my rights.
+That's disappointment number one.
+
+725
+00:51:07,899 --> 00:51:12,080
+Disappointment number two,
+once there is a legitimate government
+
+726
+00:51:12,310 --> 00:51:16,810
+based on consent,
+the only limits for Locke
+
+727
+00:51:17,879 --> 00:51:23,940
+are limits on arbitrary takings
+of life or of liberty or of property.
+
+728
+00:51:24,160 --> 00:51:27,060
+But if the majority decides,
+if the majority promulgates
+
+729
+00:51:27,279 --> 00:51:34,900
+a generally applicable law
+and if it votes duly according
+
+730
+00:51:35,120 --> 00:51:39,620
+to fair procedures,
+then there is no violation,
+
+731
+00:51:39,950 --> 00:51:44,780
+whether it's a system of taxation
+or a system of conscription.
+
+732
+00:51:45,040 --> 00:51:47,790
+So it's clear that
+Locke is worried
+
+733
+00:51:48,129 --> 00:51:52,290
+about the absolute arbitrary
+power of kings,
+
+734
+00:51:53,359 --> 00:51:56,100
+but it's also true,
+and here is the
+
+735
+00:51:56,430 --> 00:52:01,010
+darker side of Locke,
+that this great theorist of consent
+
+736
+00:52:01,109 --> 00:52:02,920
+came up with a theory
+of private property
+
+737
+00:52:03,040 --> 00:52:08,620
+that didn't require consent
+that may,
+
+738
+00:52:08,970 --> 00:52:12,290
+and this goes back
+to the point Rochelle made last time,
+
+739
+00:52:12,549 --> 00:52:16,260
+may have had something to do
+with Locke's second concern,
+
+740
+00:52:16,859 --> 00:52:18,300
+which was America.
+
+741
+00:52:18,440 --> 00:52:19,820
+You remember,
+when he talks about
+
+742
+00:52:20,000 --> 00:52:22,120
+the state of nature,
+he is not talking about
+
+743
+00:52:22,399 --> 00:52:27,160
+an imaginary place.
+"In the beginning," he says,
+
+744
+00:52:27,310 --> 00:52:30,970
+"All the world was America."
+And what was going on in America?
+
+745
+00:52:31,620 --> 00:52:37,760
+The settlers were enclosing land
+and engaged in wars
+
+746
+00:52:37,940 --> 00:52:40,140
+with the Native Americans.
+
+747
+00:52:40,440 --> 00:52:46,070
+Locke, who was an administrator
+of one of the colonies,
+
+748
+00:52:46,240 --> 00:52:51,100
+may have been as interested
+in providing a justification
+
+749
+00:52:51,420 --> 00:52:55,870
+for private property
+through enclosure without consent
+
+750
+00:52:56,069 --> 00:53:01,100
+through enclosure and cultivation,
+as he was with developing a theory
+
+751
+00:53:01,580 --> 00:53:06,840
+of government based on consent
+that would rein in kings
+
+752
+00:53:07,020 --> 00:53:09,660
+and arbitrary rulers.
+
+753
+00:53:09,940 --> 00:53:12,820
+The question we're left with,
+the fundamental question
+
+754
+00:53:13,160 --> 00:53:17,000
+we still haven't answered
+is what then becomes of consent?
+
+755
+00:53:17,180 --> 00:53:20,290
+What work can it do?
+What is its moral force?
+
+756
+00:53:20,730 --> 00:53:24,900
+What are the limits of consent?
+Consent matters not only
+
+757
+00:53:25,069 --> 00:53:27,820
+for governments,
+but also for markets.
+
+758
+00:53:28,279 --> 00:53:32,310
+And beginning next time,
+we're going to take up questions
+
+759
+00:53:32,410 --> 00:53:37,500
+of the limits of consent
+in the buying and selling of goods.
+
+760
+00:53:45,899 --> 00:53:47,900
+Don't miss the chance
+to interact online
+
+761
+00:53:48,120 --> 00:53:50,620
+with other viewers of Justice.
+Join the conversation,
+
+762
+00:53:50,839 --> 00:53:53,300
+take a pop quiz,
+watch lectures you've missed
+
+763
+00:53:53,520 --> 00:53:54,620
+and learn a lot more.
+
+764
+00:53:54,839 --> 00:53:57,960
+Visit JusticeHarvard.org.
+It's the right thing to do.
+
+765
+00:54:38,200 --> 00:54:41,400
+Funding for this program is provided by...
+
+766
+00:54:42,480 --> 00:54:44,740
+Additional funding provided by...
+

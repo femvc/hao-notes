@@ -1,0 +1,3600 @@
+0
+00:00:00,100 --> 00:00:03,000
+Captions proofread by @xiaolai, www.lixiaolai.com
+
+1
+00:00:29,200 --> 00:00:30,900
+Now we turn
+
+2
+00:00:33,199 --> 00:00:36,100
+Now we turn to the hardest philosopher
+we're going to read in this course.
+
+3
+00:00:38,839 --> 00:00:40,380
+Today we turn to Immanuel Kant
+
+4
+00:00:41,690 --> 00:00:43,420
+who offers a
+different account
+
+5
+00:00:44,720 --> 00:00:47,260
+of why we have a
+categorical duty
+
+6
+00:00:48,120 --> 00:00:50,140
+to respect the
+dignity of persons
+
+7
+00:00:50,879 --> 00:00:55,700
+and not to use people
+as means merely
+
+8
+00:00:58,279 --> 00:00:59,820
+even for good ends.
+
+9
+00:01:01,410 --> 00:01:03,060
+Kant excelled at the
+University of Konigsberg
+
+10
+00:01:03,360 --> 00:01:04,980
+at the age of 16.
+
+11
+00:01:06,500 --> 00:01:11,620
+At age of 31, he got his first job
+as an unsalaried lecturer
+
+12
+00:01:12,399 --> 00:01:15,540
+paid on commission based on
+the number of students
+
+13
+00:01:15,640 --> 00:01:17,540
+who showed up at his lectures.
+
+14
+00:01:17,920 --> 00:01:20,700
+This is a sensible system that
+Harvard would do well to consider.
+
+15
+00:01:30,160 --> 00:01:33,300
+Luckily for Kant,
+he was a popular lecturer
+
+16
+00:01:33,399 --> 00:01:35,020
+and also an industrious one
+
+17
+00:01:35,119 --> 00:01:37,100
+and so he eked out a meager living.
+
+18
+00:01:37,679 --> 00:01:43,420
+It wasn't until he was 57
+that he published his first major work.
+
+19
+00:01:44,929 --> 00:01:46,140
+But, it was worth the wait,
+
+20
+00:01:46,839 --> 00:01:48,500
+the book was the
+"Critique of Pure Reason"
+
+21
+00:01:49,199 --> 00:01:52,780
+perhaps the most important work
+in all of modern philosophy.
+
+22
+00:01:53,160 --> 00:01:58,220
+And a few years later, Kant wrote the
+groundwork for "Metaphysics of Morals"
+
+23
+00:01:58,670 --> 00:02:00,380
+which we read in this course.
+
+24
+00:02:02,640 --> 00:02:04,540
+I want to acknowledge
+even before we start
+
+25
+00:02:05,759 --> 00:02:07,260
+that Kant is a difficult thinker
+
+26
+00:02:08,200 --> 00:02:11,740
+but it's important to try
+to figure what he's saying
+
+27
+00:02:14,320 --> 00:02:16,940
+because what this book is about
+
+28
+00:02:19,489 --> 00:02:24,180
+is what the supreme principle
+of morality is,
+
+29
+00:02:24,850 --> 00:02:25,820
+number one,
+
+30
+00:02:26,040 --> 00:02:29,580
+and it also gives us an account 每
+
+31
+00:02:30,160 --> 00:02:31,860
+one of the most powerful
+accounts we have 每
+
+32
+00:02:32,320 --> 00:02:33,980
+of what freedom really is.
+
+33
+00:02:34,510 --> 00:02:36,380
+So, let me start today,
+
+34
+00:02:38,010 --> 00:02:39,940
+Kant rejects utilitarianism.
+
+35
+00:02:41,799 --> 00:02:44,980
+He thinks that
+
+36
+00:02:47,519 --> 00:02:49,860
+the individual person,
+
+37
+00:02:50,920 --> 00:02:52,020
+all human beings,
+
+38
+00:02:54,470 --> 00:02:59,100
+have a certain dignity
+that commands our respect.
+
+39
+00:03:01,810 --> 00:03:04,860
+The reason the individual is sacred
+or the bearer of rights,
+
+40
+00:03:05,160 --> 00:03:06,380
+according to Kant,
+
+41
+00:03:07,420 --> 00:03:09,850
+doesn't stem from the idea
+that we own ourselves
+
+42
+00:03:12,440 --> 00:03:17,620
+but instead from the idea
+that we are all rational beings.
+
+43
+00:03:21,140 --> 00:03:23,700
+We're all rational beings,
+which simply means
+
+44
+00:03:24,959 --> 00:03:28,620
+that we are beings
+who are capable of reason.
+
+45
+00:03:31,540 --> 00:03:34,500
+We are also autonomous beings,
+
+46
+00:03:36,799 --> 00:03:42,740
+which is to say that we are beings
+capable of acting and choosing freely.
+
+47
+00:03:44,679 --> 00:03:47,660
+Now, this capacity
+for reason and freedom
+
+48
+00:03:49,200 --> 00:03:50,750
+isn't the only capacity we have.
+
+49
+00:03:52,380 --> 00:03:55,020
+We also have the capacity
+for pain and pleasure,
+
+50
+00:03:55,829 --> 00:03:57,260
+for suffering and satisfaction.
+
+51
+00:03:59,160 --> 00:04:04,020
+Kant admits the utilitarians
+were half right.
+
+52
+00:04:06,640 --> 00:04:11,080
+Of course,
+we seek to avoid pain
+
+53
+00:04:11,970 --> 00:04:13,560
+and we like pleasure,
+
+54
+00:04:14,399 --> 00:04:17,400
+Kant doesn't deny this.
+
+55
+00:04:18,870 --> 00:04:20,000
+What he does deny
+
+56
+00:04:21,560 --> 00:04:22,720
+is Bentham's claim
+
+57
+00:04:23,560 --> 00:04:27,820
+that pain and pleasure
+are our sovereign masters.
+
+58
+00:04:28,080 --> 00:04:29,380
+He thinks that's wrong.
+
+59
+00:04:32,440 --> 00:04:36,860
+Kant thinks that it's
+our rational capacity
+
+60
+00:04:37,479 --> 00:04:38,740
+that makes us distinctive,
+
+61
+00:04:38,840 --> 00:04:39,820
+that makes us special,
+
+62
+00:04:39,919 --> 00:04:44,700
+that sets us apart from and above
+mere animal existence.
+
+63
+00:04:47,710 --> 00:04:53,140
+It makes us something more than
+just physical creatures with appetites.
+
+64
+00:04:54,320 --> 00:05:03,900
+We often think of freedom as
+simply consisting in doing what we want
+
+65
+00:05:06,840 --> 00:05:10,260
+or in the absence of obstacles
+to getting what we want,
+
+66
+00:05:10,599 --> 00:05:12,340
+that's one way of
+thinking about freedom.
+
+67
+00:05:13,960 --> 00:05:16,980
+But this isn't Kant's idea of freedom.
+
+68
+00:05:18,510 --> 00:05:21,380
+Kant has a more stringent
+demanding notion
+
+69
+00:05:22,120 --> 00:05:23,580
+of what it means
+to be free.
+
+70
+00:05:24,320 --> 00:05:25,820
+And though it's stringent
+and demanding,
+
+71
+00:05:25,919 --> 00:05:29,940
+if you think it through,
+it's actually pretty persuasive.
+
+72
+00:05:32,380 --> 00:05:33,660
+Kant reasons as follows:
+
+73
+00:05:34,940 --> 00:05:36,700
+when we,
+like animals,
+
+74
+00:05:37,400 --> 00:05:41,060
+seek after pleasure
+or the satisfaction of our desires
+
+75
+00:05:41,159 --> 00:05:42,660
+or the avoidance of pain,
+
+76
+00:05:43,120 --> 00:05:47,300
+when we do that
+we aren't really acting freely.
+
+77
+00:05:48,520 --> 00:05:49,990
+Why not?
+
+78
+00:05:51,710 --> 00:05:59,260
+We're really acting as the slaves
+of those appetites and impulses.
+
+79
+00:06:00,800 --> 00:06:05,500
+I didn't choose this particular hunger
+or that particular appetite
+
+80
+00:06:06,479 --> 00:06:09,300
+and so when I act to satisfy it,
+
+81
+00:06:10,700 --> 00:06:13,860
+I'm just acting according
+to natural necessity.
+
+82
+00:06:15,400 --> 00:06:20,160
+And for Kant,
+freedom is the opposite of necessity.
+
+83
+00:06:23,370 --> 00:06:29,820
+There was an advertising slogan for
+the soft drink Sprite a few years ago.
+
+84
+00:06:31,890 --> 00:06:34,460
+The slogan was,
+"Obey your thirst."
+
+85
+00:06:36,479 --> 00:06:43,580
+There's a Kantian insight buried in
+that Sprite advertising slogan
+
+86
+00:06:45,000 --> 00:06:46,260
+that in a way is Kant's point.
+
+87
+00:06:47,120 --> 00:06:52,140
+When you go for Sprite or Pepsi,
+you're really 每
+
+88
+00:06:53,229 --> 00:06:54,820
+you might think that
+you're choosing freely,
+
+89
+00:06:55,240 --> 00:06:56,380
+Sprite versus Pepsi,
+
+90
+00:06:56,880 --> 00:07:00,340
+but you're actually
+obeying something,
+
+91
+00:07:00,440 --> 00:07:05,260
+a thirst or maybe a desire manufactured
+or massaged by advertising,
+
+92
+00:07:06,109 --> 00:07:12,180
+you're obeying a prompting that you
+yourself haven't chosen or created.
+
+93
+00:07:15,359 --> 00:07:24,580
+And here it is worth noticing Kant's
+specially demanding idea of freedom.
+
+94
+00:07:24,840 --> 00:07:29,300
+What way of acting 每
+how can my will be determined
+
+95
+00:07:29,719 --> 00:07:32,460
+if not by the promptings of nature
+
+96
+00:07:32,799 --> 00:07:35,820
+or my hunger or my appetite
+or my desires?
+
+97
+00:07:37,430 --> 00:07:38,500
+Kant's answer?
+
+98
+00:07:38,799 --> 00:07:43,600
+To act freely is to act autonomously,
+
+99
+00:07:44,159 --> 00:07:47,420
+and to act autonomously
+is to act according to a law
+
+100
+00:07:47,520 --> 00:07:48,900
+that I give myself
+
+101
+00:07:49,200 --> 00:07:52,780
+not according to the
+physical laws of nature
+
+102
+00:07:53,640 --> 00:07:55,220
+or the laws of cause and effect
+
+103
+00:07:56,039 --> 00:08:00,060
+which include my desire
+to eat or to drink
+
+104
+00:08:01,150 --> 00:08:03,140
+or to choose this
+
+105
+00:08:05,429 --> 00:08:06,950
+food in a restaurant
+over that.
+
+106
+00:08:08,150 --> 00:08:11,220
+Now, what is the opposite
+
+107
+00:08:11,909 --> 00:08:17,500
+of autonomy for Kant?
+
+108
+00:08:17,679 --> 00:08:20,770
+He invents a special term
+
+109
+00:08:21,640 --> 00:08:24,580
+to describe the
+opposite of autonomy.
+
+110
+00:08:26,120 --> 00:08:29,440
+Heteronomy is the
+opposite of autonomy.
+
+111
+00:08:30,560 --> 00:08:37,200
+When I act heteronomously,
+I'm acting according to an inclination,
+
+112
+00:08:38,199 --> 00:08:41,950
+or a desire,
+that I haven't chosen for myself.
+
+113
+00:08:43,069 --> 00:08:52,460
+So, freedom as autonomy is an especially
+stringent idea that Kant insists on.
+
+114
+00:08:55,449 --> 00:09:00,930
+Now, why is autonomy the opposite
+of acting heteronomously
+
+115
+00:09:01,120 --> 00:09:02,980
+or according to
+the dictates of nature?
+
+116
+00:09:04,420 --> 00:09:08,240
+Kant's point is that
+nature is governed by laws,
+
+117
+00:09:09,540 --> 00:09:11,480
+laws of cause and effect for example.
+
+118
+00:09:15,230 --> 00:09:16,850
+Suppose you drop
+a billiard ball,
+
+119
+00:09:18,620 --> 00:09:19,960
+it falls to the ground;
+
+120
+00:09:22,150 --> 00:09:24,320
+we wouldn't say the billiard ball
+is acting freely.
+
+121
+00:09:26,199 --> 00:09:27,070
+Why not?
+
+122
+00:09:27,360 --> 00:09:29,060
+It's acting according
+to the law of nature,
+
+123
+00:09:29,720 --> 00:09:32,450
+according to the laws
+of cause of effect,
+
+124
+00:09:32,970 --> 00:09:33,860
+the law of gravity.
+
+125
+00:09:35,579 --> 00:09:39,110
+And just as he has an unusually
+demanding and stringent
+
+126
+00:09:40,069 --> 00:09:41,100
+conception of freedom,
+
+127
+00:09:41,520 --> 00:09:42,870
+freedom as autonomy,
+
+128
+00:09:43,990 --> 00:09:50,420
+he also has a demanding
+conception of morality.
+
+129
+00:09:51,360 --> 00:09:56,450
+To act freely is not to choose
+the best means to a given end;
+
+130
+00:09:57,780 --> 00:10:01,500
+it's to choose the end itself
+for its own sake.
+
+131
+00:10:03,920 --> 00:10:08,550
+And that's something
+that human beings can do
+
+132
+00:10:09,510 --> 00:10:11,980
+and that billiard balls can't.
+
+133
+00:10:13,850 --> 00:10:17,380
+In so far as we act on inclination
+or pursue pleasure,
+
+134
+00:10:18,000 --> 00:10:23,780
+we act as means to the realization
+of ends given outside us.
+
+135
+00:10:24,980 --> 00:10:31,380
+We are instruments rather than authors
+of the purposes we pursue,
+
+136
+00:10:32,550 --> 00:10:36,220
+that's the heteronymous
+determination of the will.
+
+137
+00:10:37,720 --> 00:10:40,420
+On the other hand,
+in so far as we act autonomously,
+
+138
+00:10:40,760 --> 00:10:42,590
+according to a law
+we give ourselves,
+
+139
+00:10:43,760 --> 00:10:46,900
+we do something for its own sake
+as an end in itself.
+
+140
+00:10:48,120 --> 00:10:51,260
+When we act autonomously,
+we seize to be instruments
+
+141
+00:10:51,439 --> 00:10:53,900
+to purposes given outside us,
+
+142
+00:10:54,339 --> 00:10:57,690
+we become,
+or we can come to think of ourselves
+
+143
+00:11:00,240 --> 00:11:01,780
+as ends in ourselves.
+
+144
+00:11:02,750 --> 00:11:07,800
+This capacity to act freely,
+Kant tells us,
+
+145
+00:11:08,079 --> 00:11:10,780
+is what gives human life
+its special dignity.
+
+146
+00:11:11,709 --> 00:11:15,740
+Respecting human dignity
+means regarding persons
+
+147
+00:11:15,959 --> 00:11:20,100
+not just as means
+but also as ends in themselves.
+
+148
+00:11:21,839 --> 00:11:24,220
+And this is why it's wrong
+to use people
+
+149
+00:11:24,959 --> 00:11:29,220
+for the sake of other peoples'
+well-being or happiness.
+
+150
+00:11:31,040 --> 00:11:33,300
+This is the real reason,
+Kant says,
+
+151
+00:11:33,810 --> 00:11:35,750
+that utilitarianism goes wrong.
+
+152
+00:11:37,620 --> 00:11:41,100
+This is the reason it's important
+to respect the dignity of persons
+
+153
+00:11:42,170 --> 00:11:43,620
+and to uphold their rights.
+
+154
+00:11:46,819 --> 00:11:49,620
+So, even if there are cases,
+remember John Stewart Mill said,
+
+155
+00:11:49,719 --> 00:11:51,730
+"Well, in the long run,
+if we uphold justice
+
+156
+00:11:52,000 --> 00:11:53,820
+and respect the
+dignity of persons,
+
+157
+00:11:54,199 --> 00:11:56,620
+we will maximize
+human happiness."
+
+158
+00:11:58,339 --> 00:12:00,100
+What would Kant's
+answer be to that?
+
+159
+00:12:01,390 --> 00:12:02,420
+What would his answer be?
+
+160
+00:12:02,920 --> 00:12:04,640
+Even if that were true,
+
+161
+00:12:05,100 --> 00:12:07,140
+even if the calculus
+worked out that way,
+
+162
+00:12:09,150 --> 00:12:11,820
+even if you shouldn't throw
+the Christian's to the lions
+
+163
+00:12:12,000 --> 00:12:14,360
+because in the long run
+fear will spread,
+
+164
+00:12:14,600 --> 00:12:16,440
+the overall utility will decline.
+
+165
+00:12:16,719 --> 00:12:19,940
+The utilitarian would be
+upholding justice and right
+
+166
+00:12:20,240 --> 00:12:23,550
+and respect for persons
+for the wrong reason,
+
+167
+00:12:25,500 --> 00:12:28,220
+for a purely a contingent reason,
+
+168
+00:12:29,079 --> 00:12:31,310
+for an instrumental reason.
+
+169
+00:12:31,880 --> 00:12:33,710
+It would still be using people,
+
+170
+00:12:33,920 --> 00:12:37,580
+even where the calculus works out
+for the best in the long run,
+
+171
+00:12:37,920 --> 00:12:41,340
+it would still be using
+people as means
+
+172
+00:12:44,209 --> 00:12:48,160
+rather than respecting them
+as ends in themselves.
+
+173
+00:12:50,000 --> 00:12:53,220
+So, that's Kant's idea
+of freedom as autonomy
+
+174
+00:12:54,630 --> 00:12:59,860
+and you can begin to see how it's
+connected to his idea of morality.
+
+175
+00:13:01,449 --> 00:13:03,900
+But we still have to answer
+one more question,
+
+176
+00:13:04,770 --> 00:13:08,270
+what gives an act its moral worth
+in the first place?
+
+177
+00:13:09,630 --> 00:13:10,900
+If it can't be directed,
+
+178
+00:13:12,469 --> 00:13:14,980
+that utility or satisfying
+wants and desires,
+
+179
+00:13:15,400 --> 00:13:17,860
+what gives an action
+its moral worth?
+
+180
+00:13:20,130 --> 00:13:23,060
+This leads us from Kant's
+demanding idea of freedom
+
+181
+00:13:23,920 --> 00:13:26,820
+to his demanding idea
+of morality.
+
+182
+00:13:28,589 --> 00:13:29,460
+What does Kant say?
+
+183
+00:13:30,890 --> 00:13:34,530
+What makes an action
+morally worthy
+
+184
+00:13:36,400 --> 00:13:40,560
+consists not in the consequences
+or in the results that flow from it,
+
+185
+00:13:41,680 --> 00:13:46,960
+what makes an action morally worthy
+has to do with the motive,
+
+186
+00:13:48,599 --> 00:13:50,500
+with the quality of the will,
+
+187
+00:13:51,110 --> 00:13:55,140
+with the intention for
+which the act is done.
+
+188
+00:13:56,860 --> 00:13:58,870
+What matters is the motive
+
+189
+00:13:59,780 --> 00:14:03,260
+and the motive must be
+of a certain kind.
+
+190
+00:14:05,079 --> 00:14:07,540
+So, the moral worth
+of an action
+
+191
+00:14:07,780 --> 00:14:10,370
+depends on the motive
+for which it's done
+
+192
+00:14:10,569 --> 00:14:14,180
+and the important thing
+is that the person
+
+193
+00:14:14,560 --> 00:14:17,580
+do the right thing
+for the right reason.
+
+194
+00:14:18,959 --> 00:14:23,180
+"A good will isn't good because of
+what it affects or accomplishes,"
+
+195
+00:14:23,260 --> 00:14:25,620
+Kant writes,
+"it's good in itself.
+
+196
+00:14:27,630 --> 00:14:31,500
+Even if by its utmost effort,
+the goodwill accomplishes nothing,
+
+197
+00:14:32,410 --> 00:14:35,000
+it would still shine like a jewel
+for its own sake
+
+198
+00:14:35,910 --> 00:14:38,630
+as something which has
+its full value in itself."
+
+199
+00:14:39,280 --> 00:14:42,940
+And so, for any action
+to be morally good,
+
+200
+00:14:43,199 --> 00:14:48,430
+it's not enough that it should conform
+to the moral law,
+
+201
+00:14:49,120 --> 00:14:52,020
+it must also be done
+for the sake of the moral law.
+
+202
+00:14:52,699 --> 00:14:59,410
+The idea is that the motive
+confers the moral worth on an action
+
+203
+00:15:00,650 --> 00:15:06,020
+and the only kind of motive that can
+confer moral worth on an action
+
+204
+00:15:06,719 --> 00:15:08,180
+is the motive of duty.
+
+205
+00:15:09,839 --> 00:15:14,020
+Well, what's the opposite of doing
+something out of a sense of duty
+
+206
+00:15:14,280 --> 00:15:15,380
+because it's right?
+
+207
+00:15:16,110 --> 00:15:16,940
+Well for Kant,
+
+208
+00:15:17,240 --> 00:15:19,620
+the opposite would be
+all of those motives
+
+209
+00:15:19,719 --> 00:15:21,910
+having to do
+with our inclinations.
+
+210
+00:15:23,560 --> 00:15:27,460
+And inclinations refer
+to all of our desires,
+
+211
+00:15:27,740 --> 00:15:29,940
+all of our contingently given wants,
+
+212
+00:15:30,160 --> 00:15:33,200
+preferences, impulses,
+and the like.
+
+213
+00:15:34,449 --> 00:15:36,980
+Only actions done for the sake
+of the moral law,
+
+214
+00:15:37,280 --> 00:15:38,400
+for the sake of duty,
+
+215
+00:15:39,459 --> 00:15:41,420
+only these actions
+have moral worth.
+
+216
+00:15:42,620 --> 00:15:45,650
+Now, I want to see what you think
+about this idea
+
+217
+00:15:46,260 --> 00:15:48,660
+but first let's consider
+a few examples.
+
+218
+00:15:49,680 --> 00:15:53,030
+Kant begins with an example
+of a shopkeeper.
+
+219
+00:15:54,750 --> 00:15:56,300
+He wants to bring out
+the intuition
+
+220
+00:15:57,620 --> 00:15:59,220
+and make plausible the idea
+
+221
+00:15:59,880 --> 00:16:01,380
+that what confers
+moral worth on an action
+
+222
+00:16:01,640 --> 00:16:03,970
+is that it be done
+because it's right.
+
+223
+00:16:04,880 --> 00:16:07,500
+He says suppose there's a shopkeeper
+
+224
+00:16:08,640 --> 00:16:10,420
+and an inexperienced customer comes in.
+
+225
+00:16:11,589 --> 00:16:15,490
+The shopkeeper knows that he could
+give the customer the wrong change,
+
+226
+00:16:15,680 --> 00:16:18,180
+could shortchange the customer
+and get away with it;
+
+227
+00:16:18,800 --> 00:16:20,700
+at least that customer wouldn't know.
+
+228
+00:16:23,530 --> 00:16:26,620
+But the shopkeeper nonetheless says,
+
+229
+00:16:26,920 --> 00:16:30,490
+"Well, if I shortchange this customer,
+word may get out,
+
+230
+00:16:31,579 --> 00:16:33,300
+my reputation would be damaged,
+
+231
+00:16:33,520 --> 00:16:35,010
+and I would lose business,
+
+232
+00:16:36,069 --> 00:16:38,240
+so I won't shortchange this customer."
+
+233
+00:16:40,020 --> 00:16:43,000
+The shopkeeper does nothing wrong,
+
+234
+00:16:43,099 --> 00:16:44,750
+he gives the correct change,
+
+235
+00:16:45,319 --> 00:16:47,730
+but does his action
+have moral worth?
+
+236
+00:16:48,530 --> 00:16:51,360
+Kant says no,
+it doesn't have moral worth
+
+237
+00:16:51,949 --> 00:16:55,660
+because the shopkeeper only did
+the right thing for the wrong reason,
+
+238
+00:16:56,240 --> 00:16:57,760
+out of self-interest.
+
+239
+00:16:59,439 --> 00:17:02,740
+That's a pretty
+straightforward case.
+
+240
+00:17:06,690 --> 00:17:10,460
+Then he takes another case,
+the case of suicide.
+
+241
+00:17:11,889 --> 00:17:14,140
+He says we have a duty
+to preserve ourselves.
+
+242
+00:17:17,550 --> 00:17:21,340
+Now, for most people
+who love life,
+
+243
+00:17:23,120 --> 00:17:26,220
+we have multiple reasons
+for not taking our own lives.
+
+244
+00:17:29,389 --> 00:17:32,400
+So, the only way
+we can really tell,
+
+245
+00:17:33,330 --> 00:17:35,860
+the only way we can isolate
+the operative motive
+
+246
+00:17:37,510 --> 00:17:39,550
+for someone who
+doesn't take his or her life
+
+247
+00:17:40,360 --> 00:17:43,780
+is to think 每
+to imagine someone who's miserable
+
+248
+00:17:47,360 --> 00:17:54,680
+and who despite having an
+absolutely miserable life
+
+249
+00:17:57,159 --> 00:18:01,320
+nonetheless recognizes the duty
+to preserve one's self
+
+250
+00:18:02,960 --> 00:18:06,020
+and so does not commit suicide.
+
+251
+00:18:09,510 --> 00:18:16,060
+The force of the example is to
+bring out the motive that matters
+
+252
+00:18:17,030 --> 00:18:19,280
+and the motive that matters
+for morality
+
+253
+00:18:19,389 --> 00:18:21,860
+is doing the right thing
+for the sake of duty.
+
+254
+00:18:23,379 --> 00:18:26,540
+Let me just give you
+a couple of other examples.
+
+255
+00:18:27,980 --> 00:18:30,910
+The Better Business Bureau,
+what's their slogan?
+
+256
+00:18:31,080 --> 00:18:32,630
+The slogan of the
+Better Business Bureau:
+
+257
+00:18:32,840 --> 00:18:34,820
+"Honesty is the best policy.
+
+258
+00:18:36,810 --> 00:18:38,750
+It's also the most profitable."
+
+259
+00:18:38,960 --> 00:18:43,680
+This is the Better Business Bureau's
+full page ad in the New York Times,
+
+260
+00:18:46,190 --> 00:18:50,430
+"Honesty, it's as important
+as any other asset
+
+261
+00:18:51,389 --> 00:18:54,140
+because a business that deals in truth,
+openness, and fair value
+
+262
+00:18:54,280 --> 00:18:57,890
+cannot help but do well.
+
+263
+00:18:58,399 --> 00:19:00,820
+Come join us and profit from it."
+
+264
+00:19:01,860 --> 00:19:04,920
+What would Kant say
+about the moral worth
+
+265
+00:19:05,960 --> 00:19:09,860
+of the honest dealings of members
+of the Better Business Bureau?
+
+266
+00:19:09,960 --> 00:19:10,820
+What would he say?
+
+267
+00:19:11,360 --> 00:19:15,620
+That here's a perfect example
+that if this is the reason
+
+268
+00:19:17,139 --> 00:19:20,580
+that these companies deal honestly
+with their customers,
+
+269
+00:19:22,810 --> 00:19:26,050
+their action lacks moral worth,
+this is Kant's point.
+
+270
+00:19:27,300 --> 00:19:29,160
+A couple of years ago,
+at the University of Maryland,
+
+271
+00:19:29,399 --> 00:19:30,910
+there was a problem with cheating
+
+272
+00:19:31,840 --> 00:19:36,560
+and so they initiated
+an honor system
+
+273
+00:19:37,810 --> 00:19:39,900
+and they created a program
+with local merchants
+
+274
+00:19:41,040 --> 00:19:44,390
+that if you signed the honor pledge,
+a pledge not to cheat,
+
+275
+00:19:45,510 --> 00:19:48,680
+you would get discounts of
+10% to 25% at local shops.
+
+276
+00:19:51,490 --> 00:19:57,620
+Well what would you think of someone
+motivated to uphold an honor code
+
+277
+00:19:58,480 --> 00:19:59,680
+with the hope of discounts?
+
+278
+00:19:59,770 --> 00:20:02,410
+It's the same as Kant's shopkeeper.
+
+279
+00:20:04,970 --> 00:20:08,220
+The point is, what matters
+is the quality of the will,
+
+280
+00:20:08,399 --> 00:20:10,300
+the character of the motive
+
+281
+00:20:11,370 --> 00:20:16,460
+and the relative motive to morality
+can only be the motive of duty,
+
+282
+00:20:16,720 --> 00:20:18,740
+not the motive of inclination.
+
+283
+00:20:22,580 --> 00:20:24,380
+And when I act out of duty,
+
+284
+00:20:25,639 --> 00:20:29,260
+when I resist as my motive
+for acting inclinations
+
+285
+00:20:29,560 --> 00:20:30,900
+or self-interest,
+
+286
+00:20:31,540 --> 00:20:33,380
+even sympathy and altruism,
+
+287
+00:20:34,409 --> 00:20:37,390
+only then am I acting freely,
+
+288
+00:20:38,040 --> 00:20:41,580
+only then am I acting autonomously,
+
+289
+00:20:41,840 --> 00:20:46,490
+only then is my will not
+determined or governed
+
+290
+00:20:47,790 --> 00:20:50,070
+by external considerations,
+
+291
+00:20:50,600 --> 00:20:55,030
+that's the link between Kant's
+idea of freedom and of morality.
+
+292
+00:20:55,159 --> 00:20:58,550
+Now, I want to pause here
+to see if all of this is clear
+
+293
+00:20:59,080 --> 00:21:02,890
+or if you have some
+questions or puzzles.
+
+294
+00:21:03,850 --> 00:21:05,660
+They can be questions
+of clarification
+
+295
+00:21:06,520 --> 00:21:08,620
+or they can be challenges.
+
+296
+00:21:09,260 --> 00:21:13,620
+If you want to challenge this idea
+that only the motive of duty
+
+297
+00:21:13,720 --> 00:21:15,690
+confers moral worth
+on the action.
+
+298
+00:21:16,730 --> 00:21:17,680
+What do you think?
+
+299
+00:21:17,780 --> 00:21:18,540
+Yes.
+
+300
+00:21:20,679 --> 00:21:23,140
+Yeah, I actually have two
+questions of clarification.
+
+301
+00:21:24,330 --> 00:21:27,820
+The first is, there seems
+to be an aspect of this
+
+302
+00:21:28,040 --> 00:21:30,380
+that makes it sort of
+self-defeating
+
+303
+00:21:30,970 --> 00:21:34,660
+in that once you're conscious
+of what morality is
+
+304
+00:21:35,040 --> 00:21:39,380
+you can sort of alter your motive
+to achieve that end of morality.
+
+305
+00:21:41,050 --> 00:21:43,180
+Give me an example of
+what you have in mind.
+
+306
+00:21:44,040 --> 00:21:45,180
+The shopkeeper example.
+
+307
+00:21:45,560 --> 00:21:49,300
+If he decides that he wants to
+give the person the money
+
+308
+00:21:49,480 --> 00:21:50,900
+to do the right thing
+
+309
+00:21:51,120 --> 00:21:53,220
+and he decides that
+it's his motive to do so
+
+310
+00:21:54,429 --> 00:21:55,460
+because he wants to be moral
+
+311
+00:21:55,720 --> 00:21:57,580
+then isn't that sort of
+defeating trying to 每
+
+312
+00:21:59,480 --> 00:22:01,350
+isn't that sort of defeating
+the purity of his action
+
+313
+00:22:01,790 --> 00:22:04,340
+if morality is determined
+by his motive?
+
+314
+00:22:04,439 --> 00:22:06,660
+His motive is then
+to act morally.
+
+315
+00:22:07,360 --> 00:22:09,300
+I see.
+So, you're imagining a case
+
+316
+00:22:09,560 --> 00:22:11,960
+not of the purely selfish
+calculating shopkeeper
+
+317
+00:22:12,720 --> 00:22:14,100
+but of one who says,
+
+318
+00:22:15,460 --> 00:22:18,190
+well, he may consider
+shortchanging the customer.
+
+319
+00:22:18,750 --> 00:22:21,390
+But then he says, "Not,
+
+320
+00:22:21,520 --> 00:22:23,790
+or my reputation might suffer
+if word gets out."
+
+321
+00:22:24,909 --> 00:22:26,580
+But instead he says,
+
+322
+00:22:27,000 --> 00:22:29,930
+"Actually, I would like to be
+the kind of honest person
+
+323
+00:22:30,159 --> 00:22:33,460
+who gives the right change
+to customers
+
+324
+00:22:34,210 --> 00:22:36,100
+simply because it's
+the right thing to do."
+
+325
+00:22:37,120 --> 00:22:38,740
+Or simply, "Because
+I want to be moral."
+
+326
+00:22:39,620 --> 00:22:42,730
+"Because I want to be moral,
+I want to be a good person,
+
+327
+00:22:43,080 --> 00:22:45,190
+and so I'm going to conform
+all of my actions
+
+328
+00:22:45,290 --> 00:22:46,780
+to what morality requires."
+
+329
+00:22:53,280 --> 00:22:55,450
+It's a subtle point,
+it's a good question.
+
+330
+00:22:57,770 --> 00:22:59,390
+Kant does acknowledge,
+
+331
+00:22:59,840 --> 00:23:02,500
+you're pressing Kant
+on an important point here,
+
+332
+00:23:03,280 --> 00:23:08,690
+Kant does say there
+has to be some incentive
+
+333
+00:23:09,790 --> 00:23:11,620
+to obey the moral law,
+
+334
+00:23:12,159 --> 00:23:14,580
+it can't be a self-interested incentive
+
+335
+00:23:15,879 --> 00:23:18,020
+that would defeat it by definition.
+
+336
+00:23:19,950 --> 00:23:24,780
+So, he speaks of a different kind
+of incentive from that inclination,
+
+337
+00:23:25,000 --> 00:23:27,340
+he speaks of reverence
+for the moral law.
+
+338
+00:23:28,080 --> 00:23:29,460
+So, if that shopkeeper says,
+
+339
+00:23:31,520 --> 00:23:36,820
+"I want to develop
+a reverence for the moral law
+
+340
+00:23:38,159 --> 00:23:40,820
+and so I'm going to do
+the right thing"
+
+341
+00:23:42,520 --> 00:23:44,040
+then I think he's there,
+
+342
+00:23:44,520 --> 00:23:47,020
+he's there as far as
+Kant's concerned
+
+343
+00:23:48,139 --> 00:23:50,500
+because he's formed his motive,
+
+344
+00:23:50,780 --> 00:23:56,420
+his will is conforming
+to the moral law
+
+345
+00:23:56,639 --> 00:23:58,680
+once he sees the
+importance of it.
+
+346
+00:23:59,760 --> 00:24:01,830
+So, it would count,
+it would count.
+
+347
+00:24:02,530 --> 00:24:04,060
+All right, then, secondly,
+very quickly,
+
+348
+00:24:04,439 --> 00:24:09,220
+what stops morality from becoming
+completely objective in this point?
+
+349
+00:24:09,639 --> 00:24:12,140
+What stops morality
+from becoming subjective?
+
+350
+00:24:12,240 --> 00:24:19,020
+Yeah, like how can 每 if morality
+is completely determined by your morals
+
+351
+00:24:19,320 --> 00:24:22,340
+then how can you apply this
+or how can it be enforced?
+
+352
+00:24:22,399 --> 00:24:23,180
+All right,
+that's also a great question.
+
+353
+00:24:23,280 --> 00:24:24,660
+-- What's your name?
+-- My name is Amady.
+
+354
+00:24:24,960 --> 00:24:25,940
+-- Amady?
+-- Yes.
+
+355
+00:24:27,290 --> 00:24:30,740
+All right,
+if acting morally
+
+356
+00:24:30,850 --> 00:24:36,370
+means acting according
+to a moral law out of duty
+
+357
+00:24:37,659 --> 00:24:43,010
+and if it's also to act freely
+in the sense of autonomously,
+
+358
+00:24:44,300 --> 00:24:48,340
+it must mean that I'm acting according
+to a law that I give myself,
+
+359
+00:24:48,679 --> 00:24:50,700
+that's what it means
+to act autonomously,
+
+360
+00:24:51,770 --> 00:24:52,900
+Amady is right about that,
+
+361
+00:24:55,220 --> 00:24:57,940
+but that does raise a
+really interesting question.
+
+362
+00:24:58,980 --> 00:25:03,820
+If acting autonomously means acting
+according to a law I give myself,
+
+363
+00:25:04,480 --> 00:25:09,040
+that's how I escape the chain of cause
+and effect and the laws of nature.
+
+364
+00:25:11,100 --> 00:25:15,580
+What's the guarantee
+that the law I give myself
+
+365
+00:25:17,010 --> 00:25:19,000
+when I'm acting out of duty
+
+366
+00:25:19,100 --> 00:25:24,330
+is the same as the law
+that Amady is giving himself
+
+367
+00:25:25,600 --> 00:25:32,700
+and that each of you gives yourselves?
+
+368
+00:25:34,320 --> 00:25:35,240
+Well, here's the question,
+
+369
+00:25:36,000 --> 00:25:39,260
+how many moral laws,
+from Kant's point of view,
+
+370
+00:25:39,520 --> 00:25:40,820
+are there in this room?
+
+371
+00:25:42,240 --> 00:25:44,260
+Are there a thousand or is there one?
+
+372
+00:25:46,290 --> 00:25:49,860
+He thinks there's one, which in a way
+does go back to this question:
+
+373
+00:25:50,120 --> 00:25:51,620
+all right, what is the moral law?
+
+374
+00:25:51,720 --> 00:25:53,100
+What does it tell us?
+
+375
+00:25:56,740 --> 00:26:00,100
+So, what guarantees 每
+it sounds like to act autonomously
+
+376
+00:26:00,199 --> 00:26:02,460
+is to act according
+to one's conscience,
+
+377
+00:26:02,560 --> 00:26:04,220
+according to a law
+one gives oneself,
+
+378
+00:26:05,159 --> 00:26:07,140
+but what guarantees
+that we 每
+
+379
+00:26:07,240 --> 00:26:09,150
+if we all exercise our reason,
+
+380
+00:26:09,250 --> 00:26:11,420
+we will come up with
+one and the same moral law?
+
+381
+00:26:11,840 --> 00:26:13,300
+That's what Amady wants to know.
+
+382
+00:26:15,780 --> 00:26:17,040
+Here's Kant's answer:
+
+383
+00:26:20,480 --> 00:26:25,460
+the reason that leads us
+to the law we give ourselves
+
+384
+00:26:25,679 --> 00:26:29,020
+as autonomous beings is a reason,
+
+385
+00:26:33,570 --> 00:26:38,170
+it's a kind of practical reason
+that we share as human beings.
+
+386
+00:26:41,040 --> 00:26:44,540
+It's not idiosyncratic.
+
+387
+00:26:46,760 --> 00:26:49,500
+The reason we need to
+respect the dignity of persons
+
+388
+00:26:49,760 --> 00:26:51,080
+is that we're all rational beings,
+
+389
+00:26:51,320 --> 00:26:52,850
+we all have the capacity for reason
+
+390
+00:26:52,949 --> 00:26:56,060
+and it's the exercise of
+that capacity for reason
+
+391
+00:26:56,399 --> 00:27:01,240
+which exists undifferentiated
+in all of us
+
+392
+00:27:02,560 --> 00:27:05,180
+that makes us worthy of dignity,
+all of us,
+
+393
+00:27:06,280 --> 00:27:10,120
+and since it's the same
+capacity for reason,
+
+394
+00:27:14,399 --> 00:27:18,780
+unqualified by particular
+autobiographies and life circumstance,
+
+395
+00:27:18,879 --> 00:27:21,300
+it's the same universal
+capacity for reason
+
+396
+00:27:21,960 --> 00:27:23,380
+that delivers the moral law,
+
+397
+00:27:24,120 --> 00:27:26,140
+it turns out that to act autonomously
+
+398
+00:27:27,230 --> 00:27:31,620
+is to act according to a law we give
+ourselves exercising our reason,
+
+399
+00:27:32,000 --> 00:27:37,840
+but it's the reason we share
+with everyone as rational beings,
+
+400
+00:27:38,669 --> 00:27:41,500
+not the particular reasons we have
+given our upbringings,
+
+401
+00:27:41,600 --> 00:27:44,760
+our particular values,
+our particular interests.
+
+402
+00:27:45,879 --> 00:27:50,010
+It's pure practical reason,
+in Kant's terms,
+
+403
+00:27:50,520 --> 00:27:56,340
+which legislates a priori regardless
+of any particular contingent
+
+404
+00:27:56,899 --> 00:27:58,220
+or empirical ends.
+
+405
+00:27:59,490 --> 00:28:03,180
+Well, what moral law would
+that kind of reason deliver?
+
+406
+00:28:07,169 --> 00:28:08,640
+What is its content?
+
+407
+00:28:09,990 --> 00:28:13,420
+To answer that question,
+you have to read the groundwork
+
+408
+00:28:13,980 --> 00:28:15,900
+and we'll continue with
+that question next time.
+
+409
+00:28:28,330 --> 00:28:32,170
+For Kant, morally speaking,
+suicide is on a par with murder.
+
+410
+00:28:32,760 --> 00:28:35,460
+It's on a par with murder
+because what we violate
+
+411
+00:28:37,760 --> 00:28:39,100
+when we take a life,
+
+412
+00:28:39,600 --> 00:28:42,440
+when we take someone's life,
+ours or somebody else's,
+
+413
+00:28:43,760 --> 00:28:47,580
+we use that person,
+we use a rational being,
+
+414
+00:28:47,879 --> 00:28:50,300
+be use humanity as a means
+
+415
+00:28:51,600 --> 00:28:55,140
+and so we fail to
+respect humanity as an end.
+
+416
+00:29:03,439 --> 00:29:04,700
+Today we turn back to Kant.
+
+417
+00:29:04,790 --> 00:29:10,940
+Before we do,
+remember this is the week
+
+418
+00:29:12,470 --> 00:29:17,050
+by the end of which all of you
+will basically get Kant,
+
+419
+00:29:17,649 --> 00:29:18,540
+figure out what he's up to.
+
+420
+00:29:20,149 --> 00:29:21,220
+You're laughing.
+
+421
+00:29:21,760 --> 00:29:23,300
+No, it will happen.
+
+422
+00:29:28,040 --> 00:29:33,740
+Kant's groundwork is
+about two big questions.
+
+423
+00:29:36,080 --> 00:29:40,300
+First, what is the supreme
+principle of morality?
+
+424
+00:29:41,360 --> 00:29:45,780
+Second, how is freedom possible?
+
+425
+00:29:49,490 --> 00:29:50,740
+Two big questions.
+
+426
+00:29:51,840 --> 00:30:00,940
+Now, one way of making your way
+through this dense philosophical book
+
+427
+00:30:02,629 --> 00:30:06,380
+is to bear in mind
+a set of oppositions
+
+428
+00:30:06,480 --> 00:30:08,780
+or contrasts
+or dualisms
+
+429
+00:30:09,840 --> 00:30:11,340
+that are related.
+
+430
+00:30:15,530 --> 00:30:16,980
+Today I'd like to talk about them.
+
+431
+00:30:19,060 --> 00:30:20,740
+Today we're going to
+answer the question,
+
+432
+00:30:20,879 --> 00:30:25,520
+what, according to Kant,
+is the supreme principle of morality?
+
+433
+00:30:27,840 --> 00:30:28,940
+And in answering that question,
+
+434
+00:30:29,040 --> 00:30:32,060
+in working our way up to Kant's answer
+to that question
+
+435
+00:30:34,679 --> 00:30:36,700
+it will help
+to bear in mind
+
+436
+00:30:38,760 --> 00:30:41,180
+three contrasts,
+or dualisms,
+
+437
+00:30:42,909 --> 00:30:44,060
+that Kant sets out.
+
+438
+00:30:45,560 --> 00:30:46,940
+The first,
+you'll remember,
+
+439
+00:30:47,560 --> 00:30:56,140
+had to do with the motive
+according to which we act.
+
+440
+00:30:57,600 --> 00:31:01,100
+And according to Kant,
+only one kind of motive
+
+441
+00:31:03,100 --> 00:31:08,100
+is consistent with morality,
+the motive of duty,
+
+442
+00:31:09,530 --> 00:31:11,460
+doing the right thing
+for the right reason.
+
+443
+00:31:14,320 --> 00:31:15,860
+What other kind of motives are there?
+
+444
+00:31:16,679 --> 00:31:21,130
+Kant sums them up in
+the category of inclination.
+
+445
+00:31:22,669 --> 00:31:32,600
+Every time the motive for what we do
+is to satisfy a desire or a preference
+
+446
+00:31:33,139 --> 00:31:35,620
+that we may have,
+to pursue some interest,
+
+447
+00:31:36,699 --> 00:31:38,120
+we're acting out of inclination.
+
+448
+00:31:39,699 --> 00:31:44,720
+Now, let me pause to see
+if in thinking about the question
+
+449
+00:31:44,820 --> 00:31:46,780
+of the motive of duty,
+the goodwill,
+
+450
+00:31:47,000 --> 00:31:51,350
+see if any of you has a question
+about that much of Kant's claim.
+
+451
+00:31:53,439 --> 00:31:55,560
+Or is everybody happy
+with this distinction?
+
+452
+00:31:56,990 --> 00:31:59,260
+What do you think?
+Go ahead.
+
+453
+00:32:00,570 --> 00:32:02,940
+When you make that distinction
+between duty and inclination
+
+454
+00:32:03,199 --> 00:32:05,220
+is there ever any moral action ever?
+
+455
+00:32:05,379 --> 00:32:09,220
+I mean you could always, kind of,
+probably find some selfish motive, can't you?
+
+456
+00:32:10,520 --> 00:32:14,780
+Maybe, very often people do have
+self-interested motives when they act.
+
+457
+00:32:15,980 --> 00:32:17,500
+Kant wouldn't dispute that
+
+458
+00:32:19,620 --> 00:32:28,190
+but what Kant is saying is
+that in so far as we act morally,
+
+459
+00:32:28,320 --> 00:32:31,220
+that is in so far as our actions
+have moral worth,
+
+460
+00:32:31,969 --> 00:32:38,140
+what confers moral worth
+is precisely our capacity
+
+461
+00:32:38,240 --> 00:32:41,850
+to rise above self-interest
+and prudence and inclination
+
+462
+00:32:43,260 --> 00:32:44,780
+and to act out of duty.
+
+463
+00:32:48,320 --> 00:32:52,460
+Some years ago I read
+about a spelling bee
+
+464
+00:32:53,679 --> 00:32:57,920
+and there was a young man
+who was declared the winner
+
+465
+00:32:58,560 --> 00:32:59,770
+of the spelling bee,
+
+466
+00:33:00,699 --> 00:33:02,740
+a kid named Andrew,
+13 years old.
+
+467
+00:33:04,480 --> 00:33:06,580
+The winning word,
+the word that he was able to spell,
+
+468
+00:33:07,419 --> 00:33:09,100
+was "echolalia."
+
+469
+00:33:10,340 --> 00:33:13,980
+Does anyone know what echolalia is?
+What?
+
+470
+00:33:14,080 --> 00:33:14,860
+Some type of flower?
+
+471
+00:33:15,159 --> 00:33:17,100
+It's not some type of flower.
+No.
+
+472
+00:33:21,810 --> 00:33:24,100
+It means the tendency
+to repeat as in echo,
+
+473
+00:33:24,320 --> 00:33:25,680
+to repeat what you've heard.
+
+474
+00:33:27,560 --> 00:33:32,980
+Anyhow, he misspelled it actually
+but the judges misheard him,
+
+475
+00:33:33,080 --> 00:33:34,420
+they thought he had
+spelled it correctly
+
+476
+00:33:34,520 --> 00:33:38,690
+and awarded him the championship
+of the National Spelling Bee
+
+477
+00:33:39,730 --> 00:33:45,980
+and he went to the judges
+afterward and said,
+
+478
+00:33:46,520 --> 00:33:50,180
+"Actually, I misspelled it,
+I don't deserve the prize."
+
+479
+00:33:51,330 --> 00:33:53,060
+And he was regarded as a moral hero
+
+480
+00:33:53,439 --> 00:33:56,110
+and he was written up
+in the New York Times,
+
+481
+00:33:56,719 --> 00:34:01,500
+"Misspeller is Spelling Bee Hero."
+
+482
+00:34:04,570 --> 00:34:08,700
+There's Andrew with his proud mother
+
+483
+00:34:13,720 --> 00:34:17,860
+and when he was interviewed afterwards,
+listen to this,
+
+484
+00:34:18,120 --> 00:34:20,960
+when he was interviewed afterwards,
+he said,
+
+485
+00:34:21,200 --> 00:34:24,770
+"The judges said
+I had a lot of integrity,"
+
+486
+00:34:25,360 --> 00:34:28,100
+but then he added
+that part of his motive was,
+
+487
+00:34:28,360 --> 00:34:32,110
+"I didn't want to feel like a slime."
+
+488
+00:34:36,420 --> 00:34:37,730
+All right.
+What would Kant say?
+
+489
+00:34:40,960 --> 00:34:41,800
+Go ahead.
+
+490
+00:34:42,200 --> 00:34:43,530
+I guess it would depend
+on whether or not
+
+491
+00:34:44,049 --> 00:34:46,580
+that was a marginal reason
+or the predominant reason
+
+492
+00:34:47,180 --> 00:34:50,400
+and whether or not 每
+and why he decided to confess
+
+493
+00:34:50,680 --> 00:34:52,020
+that he didn't actually
+spell the word correctly.
+
+494
+00:34:52,640 --> 00:34:53,740
+Good.
+And what's your name?
+
+495
+00:34:53,880 --> 00:34:54,780
+Bosco.
+
+496
+00:34:55,040 --> 00:34:56,280
+That's very interesting.
+
+497
+00:34:56,380 --> 00:35:01,110
+Is there anyone else who
+has a view about this?
+
+498
+00:35:02,319 --> 00:35:06,960
+Does this show that Kant's principle
+is too stringent, too demanding?
+
+499
+00:35:07,900 --> 00:35:10,420
+What would Kant say about this?
+
+500
+00:35:12,259 --> 00:35:13,180
+Yes.
+
+501
+00:35:14,029 --> 00:35:19,230
+I think that Kant actually says
+that it is the pure motivation
+
+502
+00:35:19,520 --> 00:35:22,290
+that comes out of duty
+which gives the action moral worth.
+
+503
+00:35:22,560 --> 00:35:24,300
+So, it's like,
+for example in this case,
+
+504
+00:35:25,190 --> 00:35:26,610
+he might have more than one motive,
+
+505
+00:35:26,700 --> 00:35:28,660
+he might have the motive
+of not feeling like a slime
+
+506
+00:35:29,029 --> 00:35:33,420
+and he might have the motive of doing
+the right thing itself out of duty
+
+507
+00:35:33,520 --> 00:35:37,540
+and so, while there's more
+than one motivation going on there
+
+508
+00:35:38,330 --> 00:35:40,660
+doesn't mean that the action
+is devoid of moral worth
+
+509
+00:35:40,759 --> 00:35:42,690
+just because he has one other motive
+
+510
+00:35:43,630 --> 00:35:47,380
+because the motive which involves duty
+is what gives it the moral worth.
+
+511
+00:35:48,200 --> 00:35:49,150
+Good.
+And what's your name:
+
+512
+00:35:49,400 --> 00:35:50,320
+Judith.
+
+513
+00:35:50,839 --> 00:35:54,180
+Well Judith, I think that your account
+actually is true to Kant.
+
+514
+00:35:55,460 --> 00:35:57,920
+It's fine to have
+sentiments and feelings
+
+515
+00:35:59,509 --> 00:36:04,620
+that support doing the right thing
+provided they don't provide
+
+516
+00:36:05,120 --> 00:36:06,540
+the reason for acting.
+
+517
+00:36:08,759 --> 00:36:11,820
+So, I think Judith actually has
+mounted a pretty good defense of Kant
+
+518
+00:36:12,480 --> 00:36:14,380
+on this question of the
+motive of duty.
+
+519
+00:36:14,680 --> 00:36:15,420
+Thank you.
+
+520
+00:36:16,240 --> 00:36:21,040
+Now, let's go back to
+the three contrasts.
+
+521
+00:36:22,630 --> 00:36:25,740
+It's clear at least what
+Kant means when he says
+
+522
+00:36:26,120 --> 00:36:31,140
+that for an action to have moral worth,
+it must be done for the sake of duty,
+
+523
+00:36:32,060 --> 00:36:33,500
+not out of inclination.
+
+524
+00:36:34,400 --> 00:36:36,260
+But as we began to see last time,
+
+525
+00:36:36,950 --> 00:36:42,050
+there's a connection between
+Kant's stringent notion of morality
+
+526
+00:36:42,200 --> 00:36:46,220
+and his specially demanding
+understanding of freedom.
+
+527
+00:36:48,540 --> 00:36:50,300
+And that leads us to
+the second contrast,
+
+528
+00:36:50,950 --> 00:36:54,340
+the link between
+morality and freedom
+
+529
+00:36:55,310 --> 00:36:59,810
+The second contrast describes
+two different ways
+
+530
+00:36:59,920 --> 00:37:01,740
+that my will can be determined;
+
+531
+00:37:02,650 --> 00:37:05,540
+autonomously
+and heteronomously.
+
+532
+00:37:06,880 --> 00:37:14,220
+According to Kant, I'm only free
+when my will is determined autonomously.
+
+533
+00:37:14,799 --> 00:37:16,140
+Which means what?
+
+534
+00:37:17,020 --> 00:37:18,780
+According to a law
+that I give myself.
+
+535
+00:37:20,210 --> 00:37:23,300
+We must be capable, if we're
+capable of freedom as autonomy,
+
+536
+00:37:23,560 --> 00:37:26,660
+we must be capable of acting
+according not to a law
+
+537
+00:37:27,319 --> 00:37:28,420
+that's given or imposed on us
+
+538
+00:37:28,680 --> 00:37:30,380
+but according to a law
+we give ourselves.
+
+539
+00:37:31,490 --> 00:37:35,500
+But where could such a law
+come from?
+
+540
+00:37:36,089 --> 00:37:37,660
+A law that we give ourselves.
+
+541
+00:37:40,630 --> 00:37:41,860
+Reason.
+
+542
+00:37:44,890 --> 00:37:47,060
+If reason determines my will
+
+543
+00:37:49,250 --> 00:37:57,010
+then the will becomes a power to choose
+independent of the dictates of nature
+
+544
+00:37:57,200 --> 00:37:59,130
+or inclination or circumstance.
+
+545
+00:37:59,319 --> 00:38:06,520
+So, connected with Kant's demanding
+notions of morality and freedom
+
+546
+00:38:07,319 --> 00:38:11,230
+is a specially demanding
+notion of reason.
+
+547
+00:38:12,710 --> 00:38:15,700
+Well, how can reason
+determine the will?
+
+548
+00:38:17,569 --> 00:38:20,630
+There are two ways and this leads
+to the third contrast.
+
+549
+00:38:21,520 --> 00:38:25,570
+Kant says there are two
+different commands of reason
+
+550
+00:38:26,350 --> 00:38:30,300
+and a command of reason
+Kant calls an imperative
+
+551
+00:38:30,920 --> 00:38:33,140
+an imperative is simply an ought.
+
+552
+00:38:34,210 --> 00:38:37,220
+One kind of imperative,
+perhaps the most familiar kind,
+
+553
+00:38:37,660 --> 00:38:39,830
+is a hypothetical imperative.
+
+554
+00:38:42,310 --> 00:38:46,970
+Hypothetical imperatives
+use instrumental reason.
+
+555
+00:38:47,160 --> 00:38:54,620
+If you want x then do y.
+
+556
+00:38:55,130 --> 00:38:57,410
+It's means-ends reasoning.
+
+557
+00:38:58,279 --> 00:39:05,670
+If you want a good business reputation
+then don't shortchange your customers,
+
+558
+00:39:06,290 --> 00:39:07,340
+word may get out.
+
+559
+00:39:07,440 --> 00:39:10,130
+That's a hypothetical imperative.
+
+560
+00:39:11,509 --> 00:39:15,300
+"If the action would be good
+solely as a means to something else,"
+
+561
+00:39:15,410 --> 00:39:17,740
+Kant writes,
+"the imperative is hypothetical.
+
+562
+00:39:17,839 --> 00:39:21,210
+If the action is represented
+as good in itself
+
+563
+00:39:22,089 --> 00:39:27,540
+and therefore is necessary for a will
+which of itself accords with reason,
+
+564
+00:39:28,779 --> 00:39:32,020
+then the imperative is categorical."
+
+565
+00:39:34,029 --> 00:39:38,290
+That's the difference between
+a categorical imperative
+
+566
+00:39:38,390 --> 00:39:39,910
+and a hypothetical one.
+
+567
+00:39:40,359 --> 00:39:44,250
+A categorical imperative
+commands categorically,
+
+568
+00:39:45,450 --> 00:39:50,620
+which just means without reference to
+or dependence on any further purpose
+
+569
+00:39:51,870 --> 00:39:53,260
+and so you see
+the connection
+
+570
+00:39:56,120 --> 00:39:59,770
+among these three
+parallel contrasts.
+
+571
+00:40:00,359 --> 00:40:02,720
+To be free,
+in the sense of autonomous,
+
+572
+00:40:03,210 --> 00:40:09,270
+requires that I act not out of
+a hypothetical imperative
+
+573
+00:40:10,160 --> 00:40:12,860
+but out of a categorical imperative.
+
+574
+00:40:13,950 --> 00:40:18,160
+And so you see by these three
+contrasts Kant reasons his way,
+
+575
+00:40:18,259 --> 00:40:25,160
+brings us up to his derivation
+of the categorical imperative.
+
+576
+00:40:25,830 --> 00:40:28,680
+Well, this leaves us
+one big question:
+
+577
+00:40:29,380 --> 00:40:31,530
+what is the categorical imperative?
+
+578
+00:40:32,230 --> 00:40:34,260
+What is the supreme
+principle of morality?
+
+579
+00:40:35,100 --> 00:40:36,960
+What does it command of us?
+
+580
+00:40:39,650 --> 00:40:43,000
+Kant gives three versions,
+three formulations,
+
+581
+00:40:43,390 --> 00:40:45,090
+of the categorical imperative.
+
+582
+00:40:45,680 --> 00:40:48,790
+I want to mention two
+and then see what you think of them.
+
+583
+00:40:50,859 --> 00:40:53,580
+The first version,
+the first formula,
+
+584
+00:40:54,540 --> 00:40:58,360
+he calls the
+formula of the universal law;
+
+585
+00:40:59,420 --> 00:41:04,260
+"Act only on that maxim whereby
+you can at the same time will
+
+586
+00:41:04,810 --> 00:41:07,690
+that it should become
+a universal law."
+
+587
+00:41:07,680 --> 00:41:10,060
+And by maxim,
+what does Kant mean?
+
+588
+00:41:11,210 --> 00:41:16,670
+He means a rule that explains the
+reason for what you're doing,
+
+589
+00:41:17,000 --> 00:41:18,260
+a principle.
+
+590
+00:41:18,910 --> 00:41:21,020
+For example,
+promise keeping.
+
+591
+00:41:22,359 --> 00:41:29,630
+Suppose I need money,
+I need $100 desperately
+
+592
+00:41:30,400 --> 00:41:33,150
+and I know I can't pay it back
+anytime soon.
+
+593
+00:41:35,339 --> 00:41:37,540
+I come to you
+and make you a promise,
+
+594
+00:41:37,819 --> 00:41:39,710
+a false promise,
+one I know I can't keep,
+
+595
+00:41:40,460 --> 00:41:43,180
+"Please give me $100 today,
+lend me the money,
+
+596
+00:41:43,400 --> 00:41:45,460
+I will repay you next week."
+
+597
+00:41:46,630 --> 00:41:51,180
+Is that consistent with
+the categorical imperative,
+
+598
+00:41:51,319 --> 00:41:52,300
+that false promise?
+
+599
+00:41:52,400 --> 00:41:53,840
+Kant says no.
+
+600
+00:41:54,520 --> 00:41:57,450
+And the test,
+the way we can determine
+
+601
+00:41:57,759 --> 00:42:02,460
+that the false promise is at odds
+with the categorical imperative
+
+602
+00:42:02,680 --> 00:42:05,230
+is try to universalize it,
+
+603
+00:42:06,589 --> 00:42:09,290
+universalize the maxim upon
+which you're about to act.
+
+604
+00:42:11,080 --> 00:42:14,060
+If everybody made false promises
+when they needed money
+
+605
+00:42:15,200 --> 00:42:19,540
+then nobody would believe
+those promises,
+
+606
+00:42:19,720 --> 00:42:22,660
+there would be no such thing
+as a promise,
+
+607
+00:42:24,480 --> 00:42:26,860
+and so there would be
+a contradiction.
+
+608
+00:42:27,480 --> 00:42:30,140
+The maxim universalized
+would undermine itself.
+
+609
+00:42:32,810 --> 00:42:34,040
+That's the test.
+
+610
+00:42:36,080 --> 00:42:39,460
+That's how we can know
+that the false promise is wrong.
+
+611
+00:42:43,080 --> 00:42:46,560
+Well what about the
+formula of the universal law?
+
+612
+00:42:47,230 --> 00:42:49,140
+You find it persuasive?
+
+613
+00:42:55,150 --> 00:42:57,030
+What do you think?
+Go ahead.
+
+614
+00:42:58,020 --> 00:43:01,600
+I have a question about
+the difference between categoricalism
+
+615
+00:43:02,150 --> 00:43:06,300
+and a hypothesis
+that if you're going to act . . .
+
+616
+00:43:06,400 --> 00:43:08,380
+Between categorical and hypothetical.
+
+617
+00:43:08,560 --> 00:43:09,570
+Hypothetical, yeah.
+
+618
+00:43:09,759 --> 00:43:10,560
+Imperatives.
+
+619
+00:43:10,839 --> 00:43:15,020
+Right. If you're going to act
+with a categorical imperative
+
+620
+00:43:15,680 --> 00:43:18,220
+so that the maxim doesn't
+undermine itself,
+
+621
+00:43:19,080 --> 00:43:23,390
+it sounds like I am going to
+do x because I want y,
+
+622
+00:43:23,990 --> 00:43:30,260
+I'm going to not lie in dire need
+because I want the world to function
+
+623
+00:43:30,540 --> 00:43:33,180
+in such a way that promises are kept.
+
+624
+00:43:33,290 --> 00:43:35,510
+I don't want to liquidate
+the practice of promises.
+
+625
+00:43:35,839 --> 00:43:40,970
+Right, it sounds like
+justifying a means by an ends.
+
+626
+00:43:42,400 --> 00:43:45,170
+It seems like an instance of
+consequentialist reasoning,
+
+627
+00:43:45,330 --> 00:43:46,200
+you're saying.
+-- Right.
+
+628
+00:43:46,680 --> 00:43:48,100
+-- And what's your name?
+-- Tim.
+
+629
+00:43:53,600 --> 00:43:56,620
+Well Tim, John Stewart Mill
+agreed with you.
+
+630
+00:43:57,279 --> 00:44:00,480
+He made this criticism of Kant.
+
+631
+00:44:02,200 --> 00:44:08,260
+He said, "If I universalize the maxim
+and find that the whole practice
+
+632
+00:44:08,370 --> 00:44:11,070
+of promise keeping would be
+destroyed if universalized,
+
+633
+00:44:12,549 --> 00:44:15,940
+I must be appealing somehow
+to consequences
+
+634
+00:44:16,520 --> 00:44:21,200
+if that's the reason not to tell
+a false promise."
+
+635
+00:44:23,490 --> 00:44:27,330
+So, John Stewart Mill agreed
+with that criticism against Kant
+
+636
+00:44:28,089 --> 00:44:29,500
+but John Stewart Mill was wrong.
+
+637
+00:44:32,560 --> 00:44:36,510
+You're in good company though.
+You're in good company, Tim.
+
+638
+00:44:37,210 --> 00:44:41,240
+Kant has often read,
+as Tim just read him,
+
+639
+00:44:43,029 --> 00:44:45,670
+as appealing to consequences.
+
+640
+00:44:46,190 --> 00:44:50,500
+The world would be worse off
+if everybody lied
+
+641
+00:44:50,690 --> 00:44:53,660
+because then no one could rely
+on anybody else's word
+
+642
+00:44:53,960 --> 00:44:55,940
+therefore you shouldn't lie.
+
+643
+00:44:57,450 --> 00:44:59,520
+That's not what Kant
+is saying exactly.
+
+644
+00:45:00,080 --> 00:45:03,440
+Although, it's easy to
+interpret him as saying that.
+
+645
+00:45:05,859 --> 00:45:08,760
+I think what he's saying is
+that this is the test,
+
+646
+00:45:10,720 --> 00:45:14,780
+this is the test of whether
+the maxim corresponds
+
+647
+00:45:15,109 --> 00:45:16,450
+with the categorical imperative.
+
+648
+00:45:16,839 --> 00:45:20,740
+It isn't exactly the reason,
+it's not the reason,
+
+649
+00:45:21,879 --> 00:45:25,640
+the reason you should universalize
+to test your maxim
+
+650
+00:45:26,629 --> 00:45:34,840
+is to see whether you are privileging
+your particular needs and desires
+
+651
+00:45:35,750 --> 00:45:38,240
+over everybody else's.
+
+652
+00:45:38,879 --> 00:45:41,390
+It's a way of pointing
+to this feature,
+
+653
+00:45:41,500 --> 00:45:43,960
+this demand of the
+categorical imperative
+
+654
+00:45:44,529 --> 00:45:48,740
+that the reasons for your action
+shouldn't depend
+
+655
+00:45:49,720 --> 00:45:53,700
+for their justification
+on your interests, your needs,
+
+656
+00:45:54,040 --> 00:45:58,660
+your special circumstances being
+more important than somebody else's.
+
+657
+00:45:59,779 --> 00:46:04,460
+That, I think, is the moral intuition
+lying behind the universalization test.
+
+658
+00:46:05,500 --> 00:46:06,890
+So, let me spell out the second,
+
+659
+00:46:07,560 --> 00:46:10,340
+Kant's second version of
+the categorical imperative,
+
+660
+00:46:11,040 --> 00:46:14,910
+perhaps in a way that's more
+intuitively accessible
+
+661
+00:46:15,160 --> 00:46:18,820
+than the formula of universal law.
+
+662
+00:46:20,080 --> 00:46:24,860
+It's the formula of humanity as an end.
+
+663
+00:46:26,690 --> 00:46:30,590
+Kant introduces the second version
+of the categorical imperative
+
+664
+00:46:31,359 --> 00:46:32,980
+with the following line of argument:
+
+665
+00:46:34,339 --> 00:46:37,480
+"We can't base the
+categorical imperative
+
+666
+00:46:37,640 --> 00:46:40,640
+on any particular interests,
+purposes, or ends
+
+667
+00:46:41,000 --> 00:46:46,080
+because then it would be only relative
+to the person whose ends they were.
+
+668
+00:46:46,670 --> 00:46:52,680
+But suppose, however, there was
+something whose existence has in itself
+
+669
+00:46:53,020 --> 00:46:56,500
+an absolute value . . .
+an end in itself . . .
+
+670
+00:46:56,759 --> 00:47:00,550
+then in it,
+and in it alone,
+
+671
+00:47:01,009 --> 00:47:04,800
+would there be the ground of a
+possible categorical imperative."
+
+672
+00:47:06,080 --> 00:47:10,190
+Well, what is there
+that we can think of
+
+673
+00:47:10,440 --> 00:47:12,750
+as having its end in itself?
+
+674
+00:47:15,299 --> 00:47:18,360
+Kant's answer is this,
+"I say that man,
+
+675
+00:47:19,000 --> 00:47:24,140
+and in general every rational being,
+exists as and end in himself,
+
+676
+00:47:24,440 --> 00:47:28,910
+not merely as a means for arbitrary use
+by this or that will."
+
+677
+00:47:31,000 --> 00:47:34,500
+And here Kant distinguishes between
+persons on the one hand
+
+678
+00:47:35,230 --> 00:47:37,320
+and things on the other.
+
+679
+00:47:37,790 --> 00:47:39,540
+Rational beings are persons,
+
+680
+00:47:40,720 --> 00:47:43,900
+they don't just have a
+relative value for us
+
+681
+00:47:44,680 --> 00:47:47,720
+but if anything has they
+have an absolute value,
+
+682
+00:47:48,319 --> 00:47:52,740
+an intrinsic value,
+that is rational beings have dignity.
+
+683
+00:47:54,170 --> 00:47:55,740
+They're worthy of
+reverence or respect.
+
+684
+00:47:56,520 --> 00:48:01,050
+This line of reasoning leads Kant
+to the second formulation
+
+685
+00:48:01,150 --> 00:48:03,370
+of the categorical imperative
+which is this:
+
+686
+00:48:04,180 --> 00:48:08,520
+"Act in such a way that
+you always treat humanity,
+
+687
+00:48:09,140 --> 00:48:13,220
+whether in your own person
+or in the person of any other,
+
+688
+00:48:13,600 --> 00:48:16,040
+never simply as a means,
+
+689
+00:48:16,440 --> 00:48:20,640
+but always at the same time,
+as an end."
+
+690
+00:48:21,629 --> 00:48:25,810
+So, that's the
+formula of humanity as an end,
+
+691
+00:48:27,690 --> 00:48:32,610
+the idea that human beings as
+rational beings are ends in themselves,
+
+692
+00:48:33,120 --> 00:48:37,770
+not open to use
+merely as a means.
+
+693
+00:48:38,609 --> 00:48:40,700
+When I make a
+false promise to you,
+
+694
+00:48:42,520 --> 00:48:47,880
+I'm using you
+as a means to my ends,
+
+695
+00:48:48,770 --> 00:48:50,340
+to my desire for the $100,
+
+696
+00:48:51,089 --> 00:48:55,800
+and so I'm failing to respect you,
+
+697
+00:48:55,900 --> 00:48:57,760
+I'm failing to respect your dignity,
+
+698
+00:48:58,750 --> 00:48:59,770
+I'm manipulating you.
+
+699
+00:49:01,589 --> 00:49:06,040
+Now, consider the example
+of the duty against suicide.
+
+700
+00:49:07,420 --> 00:49:14,820
+Murder and suicide are at odds
+with the categorical imperative.
+
+701
+00:49:15,080 --> 00:49:16,620
+Why?
+
+702
+00:49:17,609 --> 00:49:22,940
+If I murder someone,
+I'm taking their life for some purpose,
+
+703
+00:49:23,879 --> 00:49:27,340
+either because I'm a hired killer
+
+704
+00:49:28,129 --> 00:49:30,960
+or I'm in the throes of
+some great anger passion,
+
+705
+00:49:31,960 --> 00:49:34,070
+I have some interest,
+some purpose,
+
+706
+00:49:34,870 --> 00:49:39,680
+that's particular for the sake
+which I'm using them as a means.
+
+707
+00:49:40,359 --> 00:49:44,150
+Murder violates the
+categorical imperative.
+
+708
+00:49:46,049 --> 00:49:50,340
+For Kant, morally speaking,
+suicide is on a par with murder.
+
+709
+00:49:51,069 --> 00:49:56,930
+It's on a par with murder because
+what we violate when we take a life,
+
+710
+00:49:57,640 --> 00:50:00,760
+when we take someone's life,
+ours or somebody else's,
+
+711
+00:50:02,040 --> 00:50:05,830
+we use that person,
+we use a rational being,
+
+712
+00:50:06,000 --> 00:50:08,220
+we use humanity
+as a means
+
+713
+00:50:09,770 --> 00:50:13,430
+and so we fail to respect
+humanity as an end.
+
+714
+00:50:14,400 --> 00:50:19,970
+And that capacity for reason,
+that humanity that commands respect,
+
+715
+00:50:21,500 --> 00:50:23,120
+that is the ground of dignity,
+
+716
+00:50:23,830 --> 00:50:26,580
+that humanity,
+that capacity for reason
+
+717
+00:50:28,350 --> 00:50:31,780
+resides undifferentiated in all of us
+
+718
+00:50:32,129 --> 00:50:37,880
+and so I violate that dignity in my
+own person, if I commit suicide,
+
+719
+00:50:39,060 --> 00:50:41,470
+and in murder
+if I take somebody else's life.
+
+720
+00:50:41,640 --> 00:50:44,440
+From a moral point of view
+they're the same
+
+721
+00:50:45,520 --> 00:50:50,980
+and the reason they're the same
+has to do with the universal character
+
+722
+00:50:51,830 --> 00:50:54,340
+and ground of the moral law.
+
+723
+00:50:55,540 --> 00:51:00,140
+The reason that we have to respect
+the dignity of other people
+
+724
+00:51:01,210 --> 00:51:05,030
+has not to do with anything
+in particular about them
+
+725
+00:51:05,490 --> 00:51:11,010
+and so respect, Kantian respect,
+unlike love in this way.
+
+726
+00:51:12,540 --> 00:51:13,930
+It's unlike sympathy.
+
+727
+00:51:14,920 --> 00:51:18,700
+It's unlike solidarity
+or fellow feeling or altruism
+
+728
+00:51:19,520 --> 00:51:23,550
+because love and those
+other particular virtues or reasons
+
+729
+00:51:23,720 --> 00:51:27,780
+for caring about other people have to
+do with who they are in particular.
+
+730
+00:51:28,520 --> 00:51:30,340
+But respect,
+for Kant,
+
+731
+00:51:30,520 --> 00:51:36,090
+respect is respect for humanity
+which is universal,
+
+732
+00:51:36,279 --> 00:51:38,740
+for a rational capacity
+which is universal,
+
+733
+00:51:39,080 --> 00:51:42,300
+and that's why violating it,
+in my own case,
+
+734
+00:51:42,600 --> 00:51:46,770
+is as objectionable as violating it
+in the case of any other.
+
+735
+00:51:47,940 --> 00:51:49,700
+Questions or objections?
+
+736
+00:51:54,879 --> 00:51:56,260
+Go ahead.
+
+737
+00:51:57,819 --> 00:52:05,140
+I guess I'm somewhat worried
+about Kant's statement
+
+738
+00:52:05,440 --> 00:52:07,580
+that you cannot
+use a person as a means
+
+739
+00:52:07,799 --> 00:52:09,760
+because every person
+is an end of themselves,
+
+740
+00:52:10,980 --> 00:52:14,040
+because it seems that everyday,
+
+741
+00:52:14,160 --> 00:52:16,550
+in order to get something
+accomplished for that day,
+
+742
+00:52:16,940 --> 00:52:19,340
+I must use myself
+as a means to some end
+
+743
+00:52:20,569 --> 00:52:24,100
+and I must use the people around me
+as a means to some end as well.
+
+744
+00:52:24,850 --> 00:52:30,030
+For instance, suppose that
+I want to do well in a class
+
+745
+00:52:30,200 --> 00:52:31,490
+and I have to write a paper.
+
+746
+00:52:31,879 --> 00:52:33,900
+I have to use myself
+as a means to write the paper.
+
+747
+00:52:35,120 --> 00:52:38,130
+Suppose I want to buy something,
+food,
+
+748
+00:52:38,770 --> 00:52:41,780
+I must go to the store and use
+the person working behind the counter
+
+749
+00:52:42,000 --> 00:52:43,930
+as a means for me to purchase my food.
+
+750
+00:52:44,040 --> 00:52:47,180
+Right.
+That's true, you do.
+
+751
+00:52:48,000 --> 00:52:48,990
+What's your name?
+
+752
+00:52:49,149 --> 00:52:49,700
+Patrick.
+
+753
+00:52:50,060 --> 00:52:51,620
+Patrick, you're not
+doing anything wrong.
+
+754
+00:52:52,990 --> 00:52:55,110
+You're not violating
+the categorical imperative
+
+755
+00:52:55,359 --> 00:52:57,820
+when you use other people as means,
+
+756
+00:52:58,160 --> 00:52:59,290
+that's not objectionable
+
+757
+00:52:59,490 --> 00:53:04,880
+provided when we deal
+with other people
+
+758
+00:53:05,000 --> 00:53:08,460
+for the sake of advancing
+our projects and purposes and interests,
+
+759
+00:53:09,390 --> 00:53:10,440
+which we all do,
+
+760
+00:53:11,270 --> 00:53:16,030
+provided we treat them
+in a way that is consistent
+
+761
+00:53:16,890 --> 00:53:19,060
+with respect for their dignity
+
+762
+00:53:20,129 --> 00:53:22,590
+and what it means
+to respect them
+
+763
+00:53:24,359 --> 00:53:27,660
+is given by the
+categorical imperative.
+
+764
+00:53:32,170 --> 00:53:33,220
+Are you persuaded?
+
+765
+00:53:34,359 --> 00:53:39,910
+Do you think that Kant
+has given a compelling account,
+
+766
+00:53:40,420 --> 00:53:43,640
+a persuasive account,
+of the supreme principle of morality?
+
+767
+00:53:48,420 --> 00:53:53,280
+Reread the groundwork and we'll
+try to answer that question next time.
+

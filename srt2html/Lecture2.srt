@@ -1,0 +1,3543 @@
+0
+00:00:00,100 --> 00:00:03,000
+Captions proofread by @xiaolai, www.lixiaolai.com
+
+1
+00:00:03,710 --> 00:00:06,250
+Funding for this program
+is provided by:
+
+2
+00:00:07,779 --> 00:00:09,140
+Additional funding provided by:
+
+3
+00:00:29,990 --> 00:00:34,860
+Last time,
+we argued about
+
+4
+00:00:34,960 --> 00:00:37,760
+the case of
+The Queen v. Dudley & Stephens,
+
+5
+00:00:39,600 --> 00:00:42,870
+the lifeboat case,
+the case of cannibalism at sea.
+
+6
+00:00:44,040 --> 00:00:49,820
+And with the arguments
+about the lifeboat in mind,
+
+7
+00:00:50,000 --> 00:00:53,060
+the arguments for and against
+what Dudley and Stephens did in mind,
+
+8
+00:00:53,339 --> 00:01:00,160
+let's turn back to the philosophy,
+the utilitarian philosophy of Jeremy Bentham.
+
+9
+00:01:02,120 --> 00:01:06,780
+Bentham was born in England in 1748.
+At the age of 12, he went to Oxford.
+
+10
+00:01:07,399 --> 00:01:11,700
+At 15, he went to law school.
+He was admitted to the Bar at age 19
+
+11
+00:01:11,920 --> 00:01:14,100
+but he never practiced law.
+
+12
+00:01:14,800 --> 00:01:19,820
+Instead, he devoted his life to
+jurisprudence and moral philosophy.
+
+13
+00:01:21,800 --> 00:01:26,500
+Last time, we began to consider
+Bentham's version of utilitarianism.
+
+14
+00:01:27,880 --> 00:01:30,860
+The main idea is simply stated
+and it's this:
+
+15
+00:01:33,039 --> 00:01:37,540
+The highest principle of morality,
+whether personal or political morality,
+
+16
+00:01:39,000 --> 00:01:45,300
+is to maximize the general welfare,
+or the collective happiness,
+
+17
+00:01:46,679 --> 00:01:48,660
+or the overall balance
+of pleasure over pain;
+
+18
+00:01:50,160 --> 00:01:53,540
+in a phrase, maximize utility.
+
+19
+00:01:56,280 --> 00:01:59,540
+Bentham arrives at this principle
+by the following line of reasoning:
+
+20
+00:02:00,919 --> 00:02:02,420
+We're all governed
+by pain and pleasure,
+
+21
+00:02:03,280 --> 00:02:06,380
+they are our sovereign masters,
+and so any moral system
+
+22
+00:02:06,600 --> 00:02:07,900
+has to take account of them.
+
+23
+00:02:09,120 --> 00:02:11,860
+How best to take account?
+By maximizing.
+
+24
+00:02:13,920 --> 00:02:17,980
+And this leads to the principle of the
+greatest good for the greatest number.
+
+25
+00:02:19,359 --> 00:02:21,610
+What exactly should we maximize?
+
+26
+00:02:23,000 --> 00:02:27,620
+Bentham tells us happiness,
+or more precisely, utility -
+
+27
+00:02:29,079 --> 00:02:32,020
+maximizing utility as a principle
+not only for individuals
+
+28
+00:02:32,440 --> 00:02:34,900
+but also for communities
+and for legislators.
+
+29
+00:02:36,680 --> 00:02:39,350
+"What, after all, is a community?"
+Bentham asks.
+
+30
+00:02:41,359 --> 00:02:44,140
+It's the sum of the individuals
+who comprise it.
+
+31
+00:02:45,429 --> 00:02:47,780
+And that's why in deciding
+the best policy,
+
+32
+00:02:48,160 --> 00:02:51,940
+in deciding what the law should be,
+in deciding what's just,
+
+33
+00:02:52,920 --> 00:02:56,420
+citizens and legislators
+should ask themselves the question
+
+34
+00:02:57,010 --> 00:03:00,670
+if we add up all of the benefits
+of this policy
+
+35
+00:03:03,959 --> 00:03:09,700
+and subtract all of the costs,
+the right thing to do
+
+36
+00:03:10,760 --> 00:03:16,500
+is the one that maximizes the balance
+of happiness over suffering.
+
+37
+00:03:20,959 --> 00:03:22,620
+That's what it means
+to maximize utility.
+
+38
+00:03:22,959 --> 00:03:29,620
+Now, today, I want to see
+whether you agree or disagree with it,
+
+39
+00:03:31,160 --> 00:03:33,460
+and it often goes,
+this utilitarian logic,
+
+40
+00:03:33,799 --> 00:03:36,060
+under the name of
+cost-benefit analysis,
+
+41
+00:03:36,840 --> 00:03:42,380
+which is used by companies
+and by governments all the time.
+
+42
+00:03:43,880 --> 00:03:46,340
+And what it involves
+is placing a value,
+
+43
+00:03:46,760 --> 00:03:51,300
+usually a dollar value,
+to stand for utility on the costs
+
+44
+00:03:51,480 --> 00:03:54,700
+and the benefits
+of various proposals.
+
+45
+00:03:56,359 --> 00:03:59,660
+Recently, in the Czech Republic,
+there was a proposal
+
+46
+00:03:59,839 --> 00:04:05,740
+to increase the excise tax on smoking.
+Philip Morris, the tobacco company,
+
+47
+00:04:07,119 --> 00:04:10,660
+does huge business
+in the Czech Republic.
+
+48
+00:04:11,000 --> 00:04:14,140
+They commissioned a study,
+a cost-benefit analysis
+
+49
+00:04:15,519 --> 00:04:19,820
+of smoking in the Czech Republic,
+and what their cost-benefit
+
+50
+00:04:20,039 --> 00:04:28,780
+analysis found was the government
+gains by having Czech citizens smoke.
+
+51
+00:04:29,800 --> 00:04:32,020
+Now, how do they gain?
+
+52
+00:04:32,640 --> 00:04:37,060
+It's true that there are
+negative effects to the public finance
+
+53
+00:04:37,440 --> 00:04:41,420
+of the Czech government
+because there are increased health care
+
+54
+00:04:41,680 --> 00:04:45,180
+costs for people who develop
+smoking-related diseases.
+
+55
+00:04:47,280 --> 00:04:49,460
+On the other hand,
+there were positive effects
+
+56
+00:04:50,520 --> 00:04:54,340
+and those were added up
+on the other side of the ledger.
+
+57
+00:04:55,520 --> 00:04:57,580
+The positive effects included,
+for the most part,
+
+58
+00:04:57,800 --> 00:05:02,580
+various tax revenues that the
+government derives from the sale
+
+59
+00:05:02,800 --> 00:05:04,940
+of cigarette products,
+but it also included
+
+60
+00:05:05,159 --> 00:05:08,070
+health care savings to the
+government when people die early,
+
+61
+00:05:09,200 --> 00:05:12,740
+pension savings -- you don't have to
+pay pensions for as long -
+
+62
+00:05:13,479 --> 00:05:16,580
+and also, savings in
+housing costs for the elderly.
+
+63
+00:05:19,080 --> 00:05:22,020
+And when all of the costs
+and benefits were added up,
+
+64
+00:05:23,800 --> 00:05:29,860
+the Philip Morris study found
+that there is a net public finance gain
+
+65
+00:05:30,880 --> 00:05:35,220
+in the Czech Republic
+of $147,000,000,
+
+66
+00:05:36,609 --> 00:05:40,420
+and given the savings in housing,
+in health care, and pension costs,
+
+67
+00:05:41,680 --> 00:05:47,660
+the government enjoys savings
+of over $1,200 for each person
+
+68
+00:05:48,000 --> 00:05:50,900
+who dies prematurely due to smoking.
+
+69
+00:05:52,200 --> 00:05:53,580
+Cost-benefit analysis.
+
+70
+00:05:54,560 --> 00:05:59,180
+Now, those among you
+who are defenders of utilitarianism
+
+71
+00:05:59,520 --> 00:06:02,180
+may think that this is an unfair test.
+
+72
+00:06:03,440 --> 00:06:05,460
+Philip Morris was pilloried
+in the press
+
+73
+00:06:05,800 --> 00:06:09,100
+and they issued an apology
+for this heartless calculation.
+
+74
+00:06:11,250 --> 00:06:14,980
+You may say that what's missing here
+is something that the utilitarian
+
+75
+00:06:15,200 --> 00:06:20,500
+can easily incorporate,
+namely the value to the person
+
+76
+00:06:21,039 --> 00:06:23,820
+and to the families of those who die
+from lung cancer.
+
+77
+00:06:25,719 --> 00:06:28,900
+What about the value of life?
+
+78
+00:06:29,240 --> 00:06:35,500
+Some cost-benefit analyses incorporate
+a measure for the value of life.
+
+79
+00:06:36,880 --> 00:06:40,540
+One of the most famous
+of these involved the Ford Pinto case.
+
+80
+00:06:41,120 --> 00:06:42,900
+Did any of you read about that?
+
+81
+00:06:43,440 --> 00:06:44,580
+This was back in the 1970s.
+
+82
+00:06:44,760 --> 00:06:46,180
+Do you remember
+what the Ford Pinto was,
+
+83
+00:06:46,359 --> 00:06:48,300
+a kind of car?
+Anybody?
+
+84
+00:06:51,159 --> 00:06:54,460
+It was a small car,
+subcompact car, very popular,
+
+85
+00:06:55,680 --> 00:06:59,340
+but it had one problem,
+which is the fuel tank
+
+86
+00:06:59,560 --> 00:07:02,860
+was at the back of the car
+and in rear collisions,
+
+87
+00:07:03,039 --> 00:07:08,860
+the fuel tank exploded
+and some people were killed
+
+88
+00:07:09,239 --> 00:07:11,820
+and some severely injured.
+
+89
+00:07:14,039 --> 00:07:17,420
+Victims of these injuries
+took Ford to court to sue.
+
+90
+00:07:18,919 --> 00:07:22,060
+And in the court case,
+it turned out that Ford
+
+91
+00:07:22,239 --> 00:07:26,580
+had long since known about the
+vulnerable fuel tank
+
+92
+00:07:27,440 --> 00:07:31,340
+and had done a cost-benefit analysis
+to determine whether it would be
+
+93
+00:07:31,560 --> 00:07:36,620
+worth it to put in
+a special shield that would
+
+94
+00:07:36,840 --> 00:07:39,020
+protect the fuel tank
+and prevent it from exploding.
+
+95
+00:07:40,640 --> 00:07:42,140
+They did a cost-benefit analysis.
+
+96
+00:07:42,479 --> 00:07:48,780
+The cost per part
+to increase the safety of the Pinto,
+
+97
+00:07:50,560 --> 00:07:52,780
+they calculated at $11.00 per part.
+
+98
+00:07:55,880 --> 00:08:00,940
+And here's -- this was the cost-benefit
+analysis that emerged in the trial.
+
+99
+00:08:03,120 --> 00:08:08,580
+Eleven dollars per part
+at 12.5 million cars and trucks
+
+100
+00:08:10,109 --> 00:08:16,020
+came to a total cost of
+$137 million to improve the safety.
+
+101
+00:08:17,400 --> 00:08:21,340
+But then they calculated the benefits
+of spending all this money
+
+102
+00:08:21,560 --> 00:08:25,140
+on a safer car
+and they counted 180 deaths
+
+103
+00:08:27,090 --> 00:08:30,990
+and they assigned a dollar value,
+$200,000 per death,
+
+104
+00:08:32,470 --> 00:08:38,980
+180 injuries, $67,000,
+and then the costs to repair,
+
+105
+00:08:39,319 --> 00:08:41,100
+the replacement cost
+for 2,000 vehicles,
+
+106
+00:08:41,520 --> 00:08:46,970
+it would be destroyed without
+the safety device $700 per vehicle.
+
+107
+00:08:48,360 --> 00:08:53,180
+So the benefits turned out to be
+only $49.5 million
+
+108
+00:08:53,720 --> 00:08:57,000
+and so they didn't
+install the device.
+
+109
+00:08:58,040 --> 00:09:01,920
+Needless to say,
+when this memo of the
+
+110
+00:09:02,000 --> 00:09:06,020
+Ford Motor Company's cost-benefit
+analysis came out in the trial,
+
+111
+00:09:09,240 --> 00:09:13,020
+it appalled the jurors,
+who awarded a huge settlement.
+
+112
+00:09:16,079 --> 00:09:19,380
+Is this a counterexample to the
+utilitarian idea of calculating?
+
+113
+00:09:20,610 --> 00:09:24,340
+Because Ford included a measure
+of the value of life.
+
+114
+00:09:25,160 --> 00:09:31,100
+Now, who here wants to defend
+cost-benefit analysis
+
+115
+00:09:32,060 --> 00:09:35,380
+from this apparent counterexample?
+
+116
+00:09:35,640 --> 00:09:36,980
+Who has a defense?
+
+117
+00:09:38,640 --> 00:09:41,900
+Or do you think this
+completely destroys the whole
+
+118
+00:09:42,079 --> 00:09:45,820
+utilitarian calculus?
+Yes?
+
+119
+00:09:47,520 --> 00:09:50,020
+Well, I think that once again,
+they've made the same mistake
+
+120
+00:09:50,120 --> 00:09:52,640
+the previous case did,
+that they assigned a dollar value
+
+121
+00:09:52,740 --> 00:09:54,340
+to human life,
+and once again,
+
+122
+00:09:54,600 --> 00:09:56,580
+they failed to take account
+things like suffering
+
+123
+00:09:56,880 --> 00:09:58,220
+and emotional losses by the families.
+
+124
+00:09:58,760 --> 00:10:01,700
+I mean, families lost earnings
+but they also lost a loved one
+
+125
+00:10:01,880 --> 00:10:05,650
+and that is more valued
+than $200,000.
+
+126
+00:10:06,480 --> 00:10:08,620
+Right and -- wait, wait, wait,
+that's good. What's your name?
+
+127
+00:10:08,959 --> 00:10:10,300
+Julie Roteau .
+
+128
+00:10:10,400 --> 00:10:15,060
+So if $200,000, Julie,
+is too low a figure
+
+129
+00:10:15,400 --> 00:10:17,620
+because it doesn't include the
+loss of a loved one
+
+130
+00:10:19,050 --> 00:10:22,140
+and the loss of those years of life,
+what would be -
+
+131
+00:10:22,630 --> 00:10:25,420
+what do you think
+would be a more accurate number?
+
+132
+00:10:27,410 --> 00:10:29,660
+I don't believe I could give a number.
+I think that this sort of analysis
+
+133
+00:10:29,880 --> 00:10:32,420
+shouldn't be applied to issues
+of human life.
+
+134
+00:10:32,959 --> 00:10:34,500
+I think it can't be used monetarily.
+
+135
+00:10:35,360 --> 00:10:39,660
+So they didn't just put
+too low a number, Julie says.
+
+136
+00:10:40,000 --> 00:10:41,980
+They were wrong to try
+to put any number at all.
+
+137
+00:10:44,680 --> 00:10:46,380
+All right, let's hear someone who -
+
+138
+00:10:47,280 --> 00:10:48,940
+You have to adjust for inflation.
+
+139
+00:10:49,870 --> 00:10:51,740
+You have to adjust for inflation.
+
+140
+00:10:57,920 --> 00:10:59,520
+All right, fair enough.
+
+141
+00:11:00,380 --> 00:11:01,900
+So what would the number be now?
+
+142
+00:11:03,010 --> 00:11:05,050
+This was 35 years ago.
+
+143
+00:11:06,329 --> 00:11:07,480
+Two million dollars.
+
+144
+00:11:07,800 --> 00:11:11,660
+Two million dollars?
+You would put two million?
+
+145
+00:11:12,280 --> 00:11:12,940
+And what's your name?
+
+146
+00:11:13,199 --> 00:11:14,020
+Voytek
+
+147
+00:11:14,120 --> 00:11:16,740
+Voytek says we have to
+allow for inflation.
+
+148
+00:11:17,439 --> 00:11:18,740
+We should be more generous.
+
+149
+00:11:19,719 --> 00:11:21,660
+Then would you be satisfied
+that this is the right way of
+
+150
+00:11:21,880 --> 00:11:23,420
+thinking about the question?
+
+151
+00:11:24,160 --> 00:11:27,980
+I guess, unfortunately, it is for -
+
+152
+00:11:29,600 --> 00:11:33,290
+there needs to be a number
+put somewhere, like, I'm not sure
+
+153
+00:11:33,480 --> 00:11:35,380
+what that number would be,
+but I do agree that
+
+154
+00:11:35,640 --> 00:11:40,500
+there could possibly
+be a number put on the human life.
+
+155
+00:11:41,150 --> 00:11:46,260
+All right, so Voytek says,
+and here, he disagrees with Julie.
+
+156
+00:11:46,839 --> 00:11:48,940
+Julie says we can't put a number
+on human life
+
+157
+00:11:49,930 --> 00:11:51,500
+for the purpose of a
+cost-benefit analysis.
+
+158
+00:11:51,839 --> 00:11:55,620
+Voytek says we have to because
+we have to make decisions somehow.
+
+159
+00:12:00,089 --> 00:12:01,740
+What do other people
+think about this?
+
+160
+00:12:02,079 --> 00:12:04,500
+Is there anyone prepared
+to defend cost-benefit analysis
+
+161
+00:12:05,120 --> 00:12:09,820
+here as accurate as desirable?
+Yes? Go ahead.
+
+162
+00:12:10,480 --> 00:12:12,300
+I think that if Ford
+and other car companies
+
+163
+00:12:12,520 --> 00:12:16,220
+didn't use cost-benefit analysis,
+they'd eventually go out of business
+
+164
+00:12:16,560 --> 00:12:19,840
+because they wouldn't be able to be
+profitable and millions of people
+
+165
+00:12:19,939 --> 00:12:21,380
+wouldn't be able to use their cars
+to get to jobs,
+
+166
+00:12:21,640 --> 00:12:23,780
+to put food on the table,
+to feed their children.
+
+167
+00:12:24,670 --> 00:12:27,380
+So I think that if cost-benefit
+analysis isn't employed,
+
+168
+00:12:27,719 --> 00:12:32,340
+the greater good is sacrificed,
+in this case.
+
+169
+00:12:32,959 --> 00:12:34,060
+All right, let me add.
+What's your name?
+
+170
+00:12:34,319 --> 00:12:35,260
+Raul.
+
+171
+00:12:35,360 --> 00:12:40,580
+Raul, there was recently a study done
+about cell phone use by a driver
+
+172
+00:12:40,760 --> 00:12:43,460
+when people are driving a car,
+and there was a debate
+
+173
+00:12:43,849 --> 00:12:44,820
+whether that should be banned.
+
+174
+00:12:45,040 --> 00:12:46,120
+Yeah.
+
+175
+00:12:46,640 --> 00:12:55,300
+And the figure was that
+some 2,000 people die as a result
+
+176
+00:12:55,480 --> 00:12:59,780
+of accidents each year
+using cell phones.
+
+177
+00:13:01,219 --> 00:13:04,420
+And yet, the cost-benefit analysis
+which was done by the
+
+178
+00:13:04,640 --> 00:13:08,300
+Center for Risk Analysis
+at Harvard found that
+
+179
+00:13:08,520 --> 00:13:11,460
+if you look at the benefits
+of the cell phone use
+
+180
+00:13:11,880 --> 00:13:17,840
+and you put some value on the life,
+it comes out about the same
+
+181
+00:13:19,199 --> 00:13:22,260
+because of the enormous
+economic benefit of enabling people
+
+182
+00:13:22,480 --> 00:13:25,300
+to take advantage of their time,
+not waste time, be able to make deals
+
+183
+00:13:25,599 --> 00:13:27,900
+and talk to friends and so on
+while they're driving.
+
+184
+00:13:30,319 --> 00:13:33,140
+Doesn't that suggest that
+it's a mistake to try to put
+
+185
+00:13:33,360 --> 00:13:36,140
+monetary figures on
+questions of human life?
+
+186
+00:13:37,870 --> 00:13:42,030
+Well, I think that if the
+great majority of people try to
+
+187
+00:13:42,130 --> 00:13:44,410
+derive maximum utility
+out of a service,
+
+188
+00:13:44,500 --> 00:13:47,380
+like using cell phones and the
+convenience that cell phones provide,
+
+189
+00:13:47,760 --> 00:13:52,760
+that sacrifice is necessary
+for satisfaction to occur.
+
+190
+00:13:53,280 --> 00:13:55,040
+You're an outright utilitarian.
+
+191
+00:13:55,199 --> 00:13:57,740
+Yes. Okay.
+
+192
+00:13:59,439 --> 00:14:01,220
+All right then, one last question, Raul.
+- Okay.
+
+193
+00:14:03,120 --> 00:14:07,140
+And I put this to Voytek,
+what dollar figure should
+
+194
+00:14:07,319 --> 00:14:10,700
+be put on human life to decide
+whether to ban the use of cell phones?
+
+195
+00:14:13,110 --> 00:14:16,670
+Well, I don't want to
+arbitrarily calculate a figure,
+
+196
+00:14:16,760 --> 00:14:18,800
+I mean, right now.
+I think that -
+
+197
+00:14:21,439 --> 00:14:23,040
+You want to take it under advisement?
+
+198
+00:14:23,719 --> 00:14:25,020
+Yeah, I'll take it under advisement.
+
+199
+00:14:25,120 --> 00:14:28,020
+But what, roughly speaking, would it be?
+You got 2,300 deaths. - Okay.
+
+200
+00:14:29,040 --> 00:14:30,930
+You got to assign a dollar value
+to know whether you want
+
+201
+00:14:31,030 --> 00:14:34,700
+to prevent those deaths by banning
+the use of cell phones in cars. - Okay.
+
+202
+00:14:35,390 --> 00:14:40,490
+So what would your hunch be?
+How much? A million?
+
+203
+00:14:41,010 --> 00:14:44,230
+Two million?
+Two million was Voytek's figure. - Yeah.
+
+204
+00:14:44,319 --> 00:14:46,130
+Is that about right?
+- Maybe a million.
+
+205
+00:14:46,310 --> 00:14:47,280
+A million?
+- Yeah.
+
+206
+00:14:47,510 --> 00:14:52,710
+You know, that's good.
+Thank you. -Okay.
+
+207
+00:14:54,589 --> 00:14:57,910
+So, these are some of the controversies
+that arise these days
+
+208
+00:14:58,010 --> 00:15:02,270
+from cost-benefit analysis,
+especially those that involve placing a
+
+209
+00:15:02,370 --> 00:15:04,960
+dollar value on everything
+to be added up.
+
+210
+00:15:06,719 --> 00:15:09,750
+Well, now I want to turn
+to your objections,
+
+211
+00:15:10,050 --> 00:15:14,210
+to your objections not necessarily to
+cost-benefit analysis specifically,
+
+212
+00:15:14,839 --> 00:15:20,140
+because that's just one version of the
+utilitarian logic in practice today,
+
+213
+00:15:21,939 --> 00:15:27,780
+but to the theory as a whole,
+to the idea that the right thing to do,
+
+214
+00:15:30,300 --> 00:15:35,540
+the just basis for policy and law
+is to maximize utility.
+
+215
+00:15:40,000 --> 00:15:44,540
+How many disagree with the
+utilitarian approach to law
+
+216
+00:15:46,479 --> 00:15:48,180
+and to the common good?
+
+217
+00:15:48,640 --> 00:15:50,060
+How many agree with it?
+
+218
+00:15:52,240 --> 00:15:53,980
+So more agree than disagree.
+
+219
+00:15:55,319 --> 00:15:59,040
+So let's hear from the critics.
+Yes?
+
+220
+00:15:59,719 --> 00:16:03,220
+My main issue with it is
+that I feel like you can't say
+
+221
+00:16:03,560 --> 00:16:07,380
+that just because someone's
+in the minority, what they want
+
+222
+00:16:07,479 --> 00:16:10,380
+and need is less valuable than
+someone who is in the majority.
+
+223
+00:16:11,880 --> 00:16:14,780
+So I guess I have an issue with
+the idea that the greatest good
+
+224
+00:16:15,040 --> 00:16:18,420
+for the greatest number is okay
+because there are still -
+
+225
+00:16:18,760 --> 00:16:21,380
+what about people who
+are in the lesser number?
+
+226
+00:16:21,599 --> 00:16:22,580
+Like, it's not fair to them.
+
+227
+00:16:22,959 --> 00:16:25,020
+They didn't have any say
+in where they wanted to be.
+
+228
+00:16:26,020 --> 00:16:27,260
+All right.
+That's an interesting objection.
+
+229
+00:16:27,520 --> 00:16:29,980
+You're worried about
+the effect on the minority.
+
+230
+00:16:30,439 --> 00:16:31,860
+Yes.
+
+231
+00:16:32,640 --> 00:16:33,420
+What's your name, by the way?
+
+232
+00:16:33,640 --> 00:16:34,460
+Anna.
+
+233
+00:16:35,040 --> 00:16:39,340
+Who has an answer to Anna's worry
+about the effect on the minority?
+
+234
+00:16:39,920 --> 00:16:41,180
+What do you say to Anna?
+
+235
+00:16:41,359 --> 00:16:43,740
+Um, she said that
+the minority is valued less.
+
+236
+00:16:44,240 --> 00:16:46,380
+I don't think that's the case
+because individually,
+
+237
+00:16:46,640 --> 00:16:50,100
+the minority's value is just the same
+as the individual of the majority.
+
+238
+00:16:50,520 --> 00:16:54,500
+It's just that the numbers
+outweigh the minority.
+
+239
+00:16:55,560 --> 00:16:57,980
+And I mean, at a certain point,
+you have to make a decision
+
+240
+00:16:58,199 --> 00:17:01,380
+and I'm sorry for the minority
+but sometimes,
+
+241
+00:17:01,760 --> 00:17:04,260
+it's for the general,
+for the greater good.
+
+242
+00:17:04,720 --> 00:17:06,420
+For the greater good.
+Anna, what do you say?
+
+243
+00:17:06,680 --> 00:17:07,580
+What's your name?
+
+244
+00:17:07,760 --> 00:17:08,990
+Yang-Da.
+
+245
+00:17:09,090 --> 00:17:10,460
+What do you say to Yang-Da?
+
+246
+00:17:11,040 --> 00:17:13,220
+Yang-Da says you just have to
+add up people's preferences
+
+247
+00:17:13,440 --> 00:17:16,020
+and those in the minority do have
+their preferences weighed.
+
+248
+00:17:16,399 --> 00:17:19,380
+Can you give an example
+of the kind of thing
+
+249
+00:17:19,639 --> 00:17:22,900
+you're worried about when you say
+you're worried about utilitarianism
+
+250
+00:17:23,080 --> 00:17:26,940
+violating the concern
+or respect due the minority?
+
+251
+00:17:28,159 --> 00:17:29,180
+And give an example.
+
+252
+00:17:29,879 --> 00:17:31,820
+Okay. So, well, with any of the cases
+that we've talked about,
+
+253
+00:17:32,040 --> 00:17:37,100
+like for the shipwreck one,
+I think the boy who was eaten
+
+254
+00:17:37,360 --> 00:17:41,500
+still had as much of a right to live
+as the other people
+
+255
+00:17:41,960 --> 00:17:48,780
+and just because he was
+the minority in that case,
+
+256
+00:17:49,399 --> 00:17:52,660
+the one who maybe had less of a
+chance to keep living,
+
+257
+00:17:53,740 --> 00:17:56,590
+that doesn't mean
+that the others automatically
+
+258
+00:17:56,690 --> 00:18:00,400
+have a right to eat him
+just because it would give a
+
+259
+00:18:00,500 --> 00:18:02,460
+greater amount
+of people a chance to live.
+
+260
+00:18:03,610 --> 00:18:08,160
+So there may be certain rights
+that the minority members have,
+
+261
+00:18:08,360 --> 00:18:14,260
+that the individual has that shouldn't
+be traded off for the sake of utility?
+
+262
+00:18:14,899 --> 00:18:16,240
+Yes.
+
+263
+00:18:16,360 --> 00:18:19,500
+Yes, Anna? You know,
+this would be a test for you.
+
+264
+00:18:20,149 --> 00:18:26,420
+Back in Ancient Rome,
+they threw Christians to the lions
+
+265
+00:18:26,520 --> 00:18:28,700
+in the Colosseum for sport.
+
+266
+00:18:29,679 --> 00:18:32,580
+If you think how the
+utilitarian calculus would go,
+
+267
+00:18:33,000 --> 00:18:38,020
+yes, the Christian thrown to the lions
+suffers enormous excruciating pain.
+
+268
+00:18:38,899 --> 00:18:41,410
+But look at the collective ecstasy
+of the Romans!
+
+269
+00:18:45,360 --> 00:18:46,140
+Yang-Da.
+
+270
+00:18:46,760 --> 00:18:55,780
+Well, in that time,
+I don't -- if -- in modern day of time,
+
+271
+00:18:56,560 --> 00:18:59,380
+to value the -- to give a number
+to the happiness
+
+272
+00:18:59,480 --> 00:19:04,460
+given to the people watching,
+I don't think any, like,
+
+273
+00:19:04,800 --> 00:19:09,580
+policymaker would say the pain
+of one person, of the suffering
+
+274
+00:19:09,800 --> 00:19:12,540
+of one person is much, much -- is,
+I mean, in comparison
+
+275
+00:19:12,919 --> 00:19:14,340
+to the happiness gained, it's -
+
+276
+00:19:14,800 --> 00:19:17,340
+No, but you have to admit that
+if there were enough Romans
+
+277
+00:19:17,560 --> 00:19:21,740
+delirious enough with happiness,
+it would outweigh even the
+
+278
+00:19:21,919 --> 00:19:26,060
+most excruciating pain of a handful
+of Christians thrown to the lion.
+
+279
+00:19:28,639 --> 00:19:32,420
+So we really have here two
+different objections to utilitarianism.
+
+280
+00:19:33,320 --> 00:19:38,300
+One has to do with whether
+utilitarianism adequately respects
+
+281
+00:19:38,560 --> 00:19:43,780
+individual rights or minority rights,
+and the other has to do with
+
+282
+00:19:44,639 --> 00:19:52,140
+the whole idea of aggregating utility
+or preferences or values.
+
+283
+00:19:53,240 --> 00:19:58,980
+Is it possible to aggregate all values
+to translate them into dollar terms?
+
+284
+00:20:00,480 --> 00:20:09,620
+There was, in the 1930s,
+a psychologist who tried
+
+285
+00:20:10,879 --> 00:20:13,380
+to address this second question.
+
+286
+00:20:13,760 --> 00:20:17,500
+He tried to prove
+what utilitarianism assumes,
+
+287
+00:20:18,560 --> 00:20:24,460
+that it is possible
+to translate all goods, all values,
+
+288
+00:20:25,040 --> 00:20:28,100
+all human concerns
+into a single uniform measure,
+
+289
+00:20:29,120 --> 00:20:34,100
+and he did this by conducting a survey
+of young recipients of relief,
+
+290
+00:20:34,720 --> 00:20:38,540
+this was in the 1930s,
+and he asked them,
+
+291
+00:20:38,760 --> 00:20:42,700
+he gave them a list of unpleasant
+experiences and he asked them,
+
+292
+00:20:42,840 --> 00:20:46,700
+"How much would you have to be paid
+to undergo the following experiences?"
+
+293
+00:20:47,320 --> 00:20:49,050
+and he kept track.
+
+294
+00:20:50,169 --> 00:20:52,470
+For example,
+how much would you have to be paid
+
+295
+00:20:52,570 --> 00:20:54,480
+to have one upper front
+tooth pulled out?
+
+296
+00:20:57,530 --> 00:21:01,970
+Or how much would you have to be
+paid to have one little toe cut off?
+
+297
+00:21:05,159 --> 00:21:08,460
+Or to eat a live earthworm
+six inches long?
+
+298
+00:21:11,090 --> 00:21:14,670
+Or to live the rest of your life
+on a farm in Kansas?
+
+299
+00:21:19,870 --> 00:21:22,510
+Or to choke a stray cat to death
+with your bare hands?
+
+300
+00:21:24,679 --> 00:21:31,300
+Now, what do you suppose was the most
+expensive item on that list? - Kansas!
+
+301
+00:21:32,679 --> 00:21:33,940
+Kansas?
+
+302
+00:21:37,520 --> 00:21:40,880
+You're right, it was Kansas.
+
+303
+00:21:43,679 --> 00:21:47,340
+For Kansas, people said
+they'd have to pay them -
+
+304
+00:21:47,919 --> 00:21:50,220
+they have to be paid $300,000.
+
+305
+00:21:57,770 --> 00:22:01,670
+What do you think was the
+next most expensive?
+
+306
+00:22:03,159 --> 00:22:03,940
+Not the cat.
+
+307
+00:22:06,419 --> 00:22:06,980
+Not the tooth.
+
+308
+00:22:08,399 --> 00:22:09,140
+Not the toe.
+
+309
+00:22:11,480 --> 00:22:12,020
+The worm!
+
+310
+00:22:16,760 --> 00:22:21,310
+People said you'd have to pay them
+$100,000 to eat the worm.
+
+311
+00:22:23,600 --> 00:22:25,960
+What do you think was
+the least expensive item?
+
+312
+00:22:28,050 --> 00:22:29,140
+Not the cat.
+
+313
+00:22:30,240 --> 00:22:31,380
+The tooth.
+
+314
+00:22:31,760 --> 00:22:33,340
+During the Depression,
+people were willing to have their
+
+315
+00:22:33,560 --> 00:22:36,940
+tooth pulled for only $4,500.
+
+316
+00:22:37,760 --> 00:22:39,380
+What?
+
+317
+00:22:40,000 --> 00:22:45,920
+Now, here's what Thorndike
+concluded from his study.
+
+318
+00:22:48,159 --> 00:22:52,180
+Any want or a satisfaction which exists
+exists in some amount
+
+319
+00:22:52,399 --> 00:22:54,740
+and is therefore measurable.
+
+320
+00:22:54,960 --> 00:23:00,240
+The life of a dog or a cat
+or a chicken consists of appetites,
+
+321
+00:23:00,480 --> 00:23:03,020
+cravings, desires,
+and their gratifications.
+
+322
+00:23:04,080 --> 00:23:07,580
+So does the life of human beings,
+though the appetites
+
+323
+00:23:07,919 --> 00:23:10,950
+and desires are more complicated.
+
+324
+00:23:11,960 --> 00:23:14,940
+But what about Thorndike's study?
+
+325
+00:23:16,040 --> 00:23:22,180
+Does it support
+Bentham's idea that all goods,
+
+326
+00:23:22,520 --> 00:23:27,300
+all values can be captured according
+to a single uniform measure of value?
+
+327
+00:23:28,360 --> 00:23:31,950
+Or does the preposterous character
+of those different items on the list
+
+328
+00:23:32,990 --> 00:23:37,580
+suggest the opposite conclusion
+that maybe,
+
+329
+00:23:38,200 --> 00:23:42,540
+whether we're talking about
+life or Kansas or the worm,
+
+330
+00:23:44,080 --> 00:23:50,160
+maybe the things we value
+and cherish can't be captured
+
+331
+00:23:51,120 --> 00:23:53,380
+according to a single uniform
+measure of value?
+
+332
+00:23:54,399 --> 00:23:57,020
+And if they can't,
+what are the consequences
+
+333
+00:23:57,879 --> 00:24:01,380
+for the utilitarian theory
+of morality?
+
+334
+00:24:02,200 --> 00:24:04,500
+That's a question we'll
+continue with next time.
+
+335
+00:24:13,760 --> 00:24:16,420
+All right, now, let's take the
+other part of the poll,
+
+336
+00:24:17,800 --> 00:24:22,420
+which is the highest
+experience or pleasure.
+
+337
+00:24:23,520 --> 00:24:25,940
+How many say Shakespeare?
+
+338
+00:24:31,919 --> 00:24:34,830
+How many say Fear Factor?
+
+339
+00:24:38,200 --> 00:24:40,780
+No, you can't be serious.
+Really?
+
+340
+00:24:46,159 --> 00:24:53,660
+Last time, we began to consider
+some objections to
+
+341
+00:24:53,879 --> 00:24:57,860
+Jeremy Bentham's
+version of utilitarianism.
+
+342
+00:25:04,030 --> 00:25:05,370
+People raised two objections
+in the discussion we had.
+
+343
+00:25:08,679 --> 00:25:13,740
+The first was the objection,
+the claim that utilitarianism,
+
+344
+00:25:15,050 --> 00:25:18,950
+by concerning itself with the greatest
+good for the greatest number,
+
+345
+00:25:19,960 --> 00:25:24,090
+fails adequately to
+respect individual rights.
+
+346
+00:25:25,679 --> 00:25:30,860
+Today, we have debates
+about torture and terrorism.
+
+347
+00:25:33,480 --> 00:25:38,670
+Suppose a suspected terrorist was
+apprehended on September 10th
+
+348
+00:25:41,560 --> 00:25:48,020
+and you had reason to believe that
+the suspect had crucial information
+
+349
+00:25:48,240 --> 00:25:51,260
+about an impending terrorist attack
+that would kill over 3,000 people
+
+350
+00:25:52,379 --> 00:25:53,820
+and you couldn't extract
+the information.
+
+351
+00:25:55,669 --> 00:26:01,940
+Would it be just to torture the suspect
+to get the information
+
+352
+00:26:03,169 --> 00:26:09,860
+or do you say no,
+there is a categorical moral duty
+
+353
+00:26:10,510 --> 00:26:12,680
+of respect for individual rights?
+
+354
+00:26:14,949 --> 00:26:17,750
+In a way, we're back to the
+questions we started with
+
+355
+00:26:18,110 --> 00:26:19,920
+about Charlie Carson
+organ transplant.
+
+356
+00:26:20,149 --> 00:26:21,930
+So that's the first issue.
+
+357
+00:26:24,139 --> 00:26:26,550
+And you remember,
+we considered some examples
+
+358
+00:26:26,879 --> 00:26:30,810
+of cost-benefit analysis,
+but a lot of people were unhappy
+
+359
+00:26:31,040 --> 00:26:34,940
+with cost-benefit analysis
+when it came to placing
+
+360
+00:26:35,080 --> 00:26:37,100
+a dollar value on human life.
+
+361
+00:26:40,120 --> 00:26:43,350
+And so that led us
+to the second objection.
+
+362
+00:26:44,720 --> 00:26:48,820
+It questioned whether it's possible
+to translate all values into
+
+363
+00:26:49,040 --> 00:26:51,810
+a single uniform measure of value.
+
+364
+00:26:53,060 --> 00:26:56,420
+It asks, in other words,
+whether all values are commensurable.
+
+365
+00:26:57,720 --> 00:27:02,260
+Let me give you one other
+example of an experience.
+
+366
+00:27:02,620 --> 00:27:04,430
+This actually is a true story.
+
+367
+00:27:04,530 --> 00:27:08,500
+It comes from personal experience
+that raises a question
+
+368
+00:27:08,720 --> 00:27:12,900
+at least about whether all values
+can be translated without loss
+
+369
+00:27:14,000 --> 00:27:16,500
+into utilitarian terms.
+
+370
+00:27:20,199 --> 00:27:23,630
+Some years ago,
+when I was a graduate student,
+
+371
+00:27:23,800 --> 00:27:28,360
+I was at Oxford in England and
+they had men's and women's colleges.
+
+372
+00:27:28,720 --> 00:27:30,580
+They weren't yet mixed
+and the women's colleges
+
+373
+00:27:31,080 --> 00:27:34,340
+had rules against overnight
+male guests.
+
+374
+00:27:37,720 --> 00:27:42,620
+By the 1970s, these rules were
+rarely enforced and easily violated,
+
+375
+00:27:44,179 --> 00:27:45,800
+or so I was told.
+
+376
+00:27:50,689 --> 00:27:53,910
+By the late 1970s,
+when I was there,
+
+377
+00:27:54,080 --> 00:27:58,110
+pressure grew to relax these rules
+and it became the subject of debate
+
+378
+00:27:58,210 --> 00:28:01,220
+among the faculty
+at St. Anne's College,
+
+379
+00:28:01,419 --> 00:28:03,460
+which was one of these
+all-women's colleges.
+
+380
+00:28:03,840 --> 00:28:07,880
+The older women on the faculty
+were traditionalists.
+
+381
+00:28:07,980 --> 00:28:11,720
+They were opposed to change
+unconventional moral grounds.
+
+382
+00:28:13,070 --> 00:28:15,900
+But times have changed
+and they were embarrassed
+
+383
+00:28:16,159 --> 00:28:21,020
+to give the true grounds for their
+objection and so they translated
+
+384
+00:28:21,250 --> 00:28:24,180
+their arguments into
+utilitarian terms.
+
+385
+00:28:25,980 --> 00:28:27,820
+"If men stay overnight",
+they argued,
+
+386
+00:28:28,490 --> 00:28:30,270
+"the costs to the college
+will increase."
+
+387
+00:28:31,750 --> 00:28:32,900
+"How?" you might wonder.
+
+388
+00:28:33,840 --> 00:28:35,310
+"Well, they'll want
+to take baths
+
+389
+00:28:35,570 --> 00:28:37,170
+and that'll use up hot water,"
+they said.
+
+390
+00:28:39,220 --> 00:28:40,460
+Furthermore, they argued,
+
+391
+00:28:40,800 --> 00:28:43,410
+"We'll have to replace
+the mattresses more often."
+
+392
+00:28:46,020 --> 00:28:51,170
+The reformers met these arguments
+by adopting the following compromise.
+
+393
+00:28:52,199 --> 00:28:57,070
+Each woman could have a maximum of
+three overnight male guests each week.
+
+394
+00:29:01,320 --> 00:29:03,860
+They didn't say whether it had to be
+the same one or three different
+
+395
+00:29:04,800 --> 00:29:07,900
+provided, and this was
+the compromise,
+
+396
+00:29:08,159 --> 00:29:13,540
+provided the guest paid 50 pence
+to defray the cost to the college.
+
+397
+00:29:15,520 --> 00:29:20,220
+The next day, the national headline
+in the national newspaper read,
+
+398
+00:29:20,760 --> 00:29:22,740
+"St. Anne's Girls, 50 Pence A Night."
+
+399
+00:29:29,320 --> 00:29:35,220
+Another illustration of the
+difficulty of translating all values,
+
+400
+00:29:36,280 --> 00:29:40,580
+in this case, a certain idea of virtue,
+into utilitarian terms.
+
+401
+00:29:42,439 --> 00:29:49,860
+So, that's all to illustrate the
+second objection to utilitarianism,
+
+402
+00:29:50,429 --> 00:29:55,860
+at least the part of that objection,
+that questions whether utilitarianism
+
+403
+00:29:56,080 --> 00:30:02,380
+is right to assume that we can assume
+the uniformity of value,
+
+404
+00:30:02,959 --> 00:30:06,780
+the commensurability of all values
+and translate all moral considerations
+
+405
+00:30:08,120 --> 00:30:10,940
+into dollars or money.
+
+406
+00:30:12,360 --> 00:30:15,540
+But there is a second aspect
+to this worry about
+
+407
+00:30:15,760 --> 00:30:18,020
+aggregating values and preferences.
+
+408
+00:30:19,679 --> 00:30:28,020
+Why should we weigh all preferences
+that people have without assessing
+
+409
+00:30:28,760 --> 00:30:31,180
+whether they're good preferences
+or bad preferences?
+
+410
+00:30:32,520 --> 00:30:38,980
+Shouldn't we distinguish between
+higher pleasures and lower pleasures?
+
+411
+00:30:40,199 --> 00:30:46,060
+Now, part of the appeal of not
+making any qualitative distinctions
+
+412
+00:30:46,639 --> 00:30:48,420
+about the worth
+of people's preferences,
+
+413
+00:30:48,679 --> 00:30:54,140
+part of the appeal is that it is
+nonjudgmental and egalitarian.
+
+414
+00:30:55,399 --> 00:30:59,260
+The Benthamite utilitarian says
+everybody's preferences count
+
+415
+00:31:00,000 --> 00:31:03,700
+and they count regardless
+of what people want,
+
+416
+00:31:04,679 --> 00:31:07,540
+regardless of what makes
+different people happy.
+
+417
+00:31:08,320 --> 00:31:11,540
+For Bentham, all that matters,
+you'll remember,
+
+418
+00:31:13,120 --> 00:31:17,300
+are the intensity
+and the duration of a pleasure or pain.
+
+419
+00:31:18,439 --> 00:31:21,100
+The so-called
+"higher pleasures or nobler virtues"
+
+420
+00:31:21,679 --> 00:31:23,460
+are simply those,
+according to Bentham,
+
+421
+00:31:24,199 --> 00:31:27,700
+that produce stronger,
+longer pleasure.
+
+422
+00:31:29,520 --> 00:31:31,900
+Yet a famous phrase
+to express this idea,
+
+423
+00:31:33,000 --> 00:31:38,020
+the quantity of pleasure being equal,
+pushpin is as good as poetry.
+
+424
+00:31:39,679 --> 00:31:40,900
+What was pushpin?
+
+425
+00:31:41,679 --> 00:31:43,620
+It was some kind of a child's game,
+like tiddlywinks.
+
+426
+00:31:44,240 --> 00:31:47,220
+"Pushpin is as good as poetry",
+Bentham says.
+
+427
+00:31:48,879 --> 00:31:53,100
+And lying behind this idea, I think,
+is the claim, the intuition,
+
+428
+00:31:53,840 --> 00:31:58,260
+that it's a presumption to judge
+whose pleasures
+
+429
+00:31:59,080 --> 00:32:02,170
+are intrinsically higher
+or worthier or better.
+
+430
+00:32:04,080 --> 00:32:07,300
+And there is something attractive
+in this refusal to judge.
+
+431
+00:32:08,159 --> 00:32:11,700
+After all, some people like Mozart,
+others Madonna.
+
+432
+00:32:12,830 --> 00:32:16,700
+Some people like ballet,
+others bowling.
+
+433
+00:32:17,439 --> 00:32:19,740
+Who's to say,
+a Benthamite might argue,
+
+434
+00:32:20,320 --> 00:32:24,620
+who is to say which of these pleasures,
+whose pleasures are higher,
+
+435
+00:32:25,000 --> 00:32:28,380
+worthier, nobler than others?
+
+436
+00:32:30,679 --> 00:32:38,420
+But is that right, this refusal
+to make qualitative distinctions?
+
+437
+00:32:40,439 --> 00:32:44,660
+Can we altogether dispense
+with the idea that
+
+438
+00:32:45,360 --> 00:32:50,980
+certain things we take pleasure in
+are better or worthier than others?
+
+439
+00:32:52,110 --> 00:32:55,700
+Think back to the case of the
+Romans in the Colosseum.
+
+440
+00:32:56,360 --> 00:32:59,460
+One thing that troubled people about
+that practice is that it seemed
+
+441
+00:32:59,719 --> 00:33:02,380
+to violate the rights
+of the Christian.
+
+442
+00:33:04,320 --> 00:33:06,460
+Another way of objection
+to what's going on there
+
+443
+00:33:07,320 --> 00:33:11,860
+is that the pleasure that the Romans
+take in this bloody spectacle,
+
+444
+00:33:13,480 --> 00:33:19,980
+should that pleasure, which is abased,
+kind of corrupt, degrading pleasure,
+
+445
+00:33:20,480 --> 00:33:24,980
+should that even be valorized
+or weighed in deciding
+
+446
+00:33:25,320 --> 00:33:28,950
+what the general welfare is?
+
+447
+00:33:33,959 --> 00:33:37,020
+So here are the objections
+to Bentham's utilitarianism
+
+448
+00:33:38,719 --> 00:33:43,580
+and now, we turn to someone who
+tried to respond to those objections,
+
+449
+00:33:45,679 --> 00:33:48,660
+a latter-day utilitarian,
+John Stuart Mill.
+
+450
+00:33:50,280 --> 00:33:56,010
+So what we need to examine now
+is whether John Stuart Mill
+
+451
+00:33:56,120 --> 00:34:01,210
+had a convincing reply
+to these objections to utilitarianism.
+
+452
+00:34:05,040 --> 00:34:08,340
+John Stuart Mill was born in 1806.
+
+453
+00:34:08,839 --> 00:34:12,860
+His father, James Mill,
+was a disciple of Bentham's,
+
+454
+00:34:14,319 --> 00:34:18,220
+and James Mill set about
+giving his son, John Stuart Mill,
+
+455
+00:34:18,610 --> 00:34:20,180
+a model education.
+
+456
+00:34:20,520 --> 00:34:23,300
+He was a child prot¨¦g¨¦,
+John Stuart Mill.
+
+457
+00:34:23,839 --> 00:34:27,490
+He knew Greek at the age of three,
+Latin at eight,
+
+458
+00:34:28,110 --> 00:34:31,220
+and age 10, he wrote
+"A History of Roman Law."
+
+459
+00:34:33,990 --> 00:34:38,260
+At age 20, he had a nervous breakdown.
+
+460
+00:34:39,480 --> 00:34:44,580
+This left him in a depression
+for five years, but at age 25,
+
+461
+00:34:44,799 --> 00:34:46,590
+what helped lift him out
+of this depression
+
+462
+00:34:47,000 --> 00:34:48,580
+is that he met Harriet Taylor.
+
+463
+00:34:50,110 --> 00:34:51,900
+She and Mill got married,
+they lived happily ever after,
+
+464
+00:34:52,640 --> 00:34:57,380
+and it was under her influence
+that John Stuart Mill
+
+465
+00:34:57,680 --> 00:35:00,420
+tried to humanize utilitarianism.
+
+466
+00:35:01,799 --> 00:35:05,180
+What Mill tried to do
+was to see whether the
+
+467
+00:35:05,400 --> 00:35:11,180
+utilitarian calculus could be
+enlarged and modified to
+
+468
+00:35:11,400 --> 00:35:18,100
+accommodate humanitarian concerns,
+like the concern to
+
+469
+00:35:18,279 --> 00:35:21,900
+respect individual rights,
+and also to address the distinction
+
+470
+00:35:22,080 --> 00:35:25,220
+between higher
+and lower pleasures.
+
+471
+00:35:26,360 --> 00:35:29,500
+In 1859, Mill wrote
+a famous book on liberty,
+
+472
+00:35:30,520 --> 00:35:32,660
+the main point of which
+was the importance
+
+473
+00:35:32,880 --> 00:35:35,460
+of defending individual rights
+and minority rights,
+
+474
+00:35:36,360 --> 00:35:39,100
+and in 1861,
+toward the end of his life,
+
+475
+00:35:40,319 --> 00:35:44,180
+he wrote the book we read as part
+of this course, "Utilitarianism."
+
+476
+00:35:45,440 --> 00:35:48,460
+He makes it clear that utility
+is the only standard of morality,
+
+477
+00:35:49,880 --> 00:35:53,260
+in his view, so he's not challenging
+Bentham's premise.
+
+478
+00:35:54,270 --> 00:35:55,140
+He's affirming it.
+
+479
+00:35:55,680 --> 00:35:59,140
+He says very explicitly,
+"The sole evidence it is possible
+
+480
+00:35:59,880 --> 00:36:05,000
+to produce that anything is desirable
+is that people actually do desire it."
+
+481
+00:36:06,000 --> 00:36:10,700
+So he stays with the idea that
+our de facto actual empirical desires
+
+482
+00:36:10,799 --> 00:36:13,780
+are the only basis for moral judgment.
+
+483
+00:36:15,870 --> 00:36:19,980
+But then, page eight,
+also in chapter two,
+
+484
+00:36:20,360 --> 00:36:23,730
+he argues that it is possible
+for a utilitarian to distinguish
+
+485
+00:36:24,830 --> 00:36:26,530
+higher from lower pleasures.
+
+486
+00:36:28,069 --> 00:36:31,100
+Now, for those of you
+who have read Mill already,
+
+487
+00:36:32,480 --> 00:36:35,910
+how, according to him, is it
+possible to draw that distinction?
+
+488
+00:36:37,000 --> 00:36:41,990
+How can a utilitarian distinguish
+qualitatively higher pleasures
+
+489
+00:36:42,520 --> 00:36:48,080
+from lesser ones, base ones,
+unworthy ones? Yes?
+
+490
+00:36:49,040 --> 00:36:52,450
+If you've tried both of them
+and you prefer the higher one,
+
+491
+00:36:52,600 --> 00:36:54,170
+naturally, always.
+
+492
+00:36:55,390 --> 00:36:56,800
+That's great.
+That's right.
+
+493
+00:36:57,160 --> 00:36:57,980
+What's your name?
+- John.
+
+494
+00:36:58,560 --> 00:37:03,060
+So as John points out,
+Mill says here's the test.
+
+495
+00:37:05,080 --> 00:37:08,180
+Since we can't step
+outside actual desires,
+
+496
+00:37:08,960 --> 00:37:13,400
+actual preferences that would
+violate utilitarian premises,
+
+497
+00:37:13,799 --> 00:37:20,060
+the only test of whether a pleasure
+is higher or lower
+
+498
+00:37:20,759 --> 00:37:26,860
+is whether someone who has
+experienced both would prefer it.
+
+499
+00:37:27,960 --> 00:37:33,040
+And here, in chapter two,
+we see the passage where
+
+500
+00:37:33,140 --> 00:37:35,500
+Mill makes the point that
+John just described.
+
+501
+00:37:37,600 --> 00:37:39,100
+"Of two pleasures,
+if there be one to which
+
+502
+00:37:39,359 --> 00:37:44,620
+all or almost all who have experience
+of both give a decided preference,
+
+503
+00:37:45,779 --> 00:37:49,100
+irrespective of any feeling
+of moral obligation to prefer it --
+
+504
+00:37:49,279 --> 00:37:53,420
+in other words, no outside,
+no independent standard -- then,
+
+505
+00:37:53,960 --> 00:37:56,390
+that is the more desirable pleasure."
+
+506
+00:37:56,759 --> 00:37:59,420
+What do people think
+about that argument?
+
+507
+00:37:59,940 --> 00:38:02,660
+Does it succeed?
+
+508
+00:38:03,890 --> 00:38:07,000
+How many think that it
+does succeed of arguing
+
+509
+00:38:07,100 --> 00:38:09,770
+within utilitarian terms
+for a distinction between
+
+510
+00:38:09,870 --> 00:38:11,180
+higher and lower pleasures?
+
+511
+00:38:11,680 --> 00:38:13,400
+How many think it doesn't succeed?
+
+512
+00:38:17,920 --> 00:38:19,660
+I want to hear your reasons.
+
+513
+00:38:20,960 --> 00:38:23,260
+But before we give the reasons
+
+514
+00:38:24,040 --> 00:38:28,740
+let's do an experiment of Mill's claim.
+
+515
+00:38:31,720 --> 00:38:36,500
+In order to do this experiment,
+we're going to look at
+
+516
+00:38:36,759 --> 00:38:42,740
+three short excerpts
+of popular entertainment.
+
+517
+00:38:45,290 --> 00:38:47,690
+The first one is a Hamlet soliloquy.
+
+518
+00:38:48,580 --> 00:38:53,300
+It'll be followed by
+two other experiences.
+
+519
+00:38:55,520 --> 00:38:56,540
+See what you think.
+
+520
+00:38:57,640 --> 00:39:02,900
+What a piece of work is a man,
+how noble in reason,
+
+521
+00:39:04,880 --> 00:39:08,260
+how infinite in faculties,
+in form and moving
+
+522
+00:39:08,560 --> 00:39:12,300
+how express and admirable,
+in action how like an angel,
+
+523
+00:39:12,560 --> 00:39:15,180
+in apprehension how like a god!
+
+524
+00:39:15,400 --> 00:39:17,700
+The beauty of the world,
+the paragon of animals -
+
+525
+00:39:18,400 --> 00:39:22,900
+and yet, to me,
+what is this quintessence of dust?
+
+526
+00:39:24,680 --> 00:39:26,020
+Man delights not me.
+
+527
+00:39:42,279 --> 00:39:45,180
+Imagine a world where your greatest
+fears become reality.
+
+528
+00:39:45,839 --> 00:39:47,260
+Ahh! They're biting me!
+
+529
+00:39:47,640 --> 00:39:49,340
+Each show, six contestants
+from around the country
+
+530
+00:39:49,640 --> 00:39:51,620
+battle each other in
+three extreme stunts.
+
+531
+00:39:51,880 --> 00:39:52,860
+Ow!
+
+532
+00:39:53,040 --> 00:39:54,500
+These stunts are designed
+to challenge the contestants
+
+533
+00:39:54,759 --> 00:39:58,180
+both physically and mentally.
+
+534
+00:39:59,160 --> 00:40:02,220
+Six contestants,
+three stunts, one winner.
+
+535
+00:40:02,440 --> 00:40:03,940
+Yes! Whooo!
+
+536
+00:40:04,120 --> 00:40:05,300
+Fear Factor.
+
+537
+00:40:16,160 --> 00:40:18,180
+Hi-diddily-ho,
+pedal-to-the-metal-o-philes.
+
+538
+00:40:18,400 --> 00:40:20,700
+Flanders, since when
+do you like anything cool?
+
+539
+00:40:21,040 --> 00:40:23,580
+Well, I don't care
+for the speed but I can't get enough
+
+540
+00:40:23,680 --> 00:40:26,580
+of that safety gear.
+Helmets, roll bars, caution flags...
+
+541
+00:40:27,200 --> 00:40:28,340
+I like the fresh air...
+
+542
+00:40:28,640 --> 00:40:30,620
+and looking at the poor people
+in the infield.
+
+543
+00:40:34,799 --> 00:40:37,140
+Dang, Cletus, why'd you have to
+park by my parents?
+
+544
+00:40:37,720 --> 00:40:40,020
+Now, Honey,
+they's my parents too.
+
+545
+00:40:55,920 --> 00:40:58,340
+I don't even have to ask
+which one you liked most.
+
+546
+00:41:00,759 --> 00:41:03,140
+The Simpsons,
+how many liked The Simpsons most?
+
+547
+00:41:05,279 --> 00:41:06,420
+How many Shakespeare?
+
+548
+00:41:10,240 --> 00:41:11,660
+What about Fear Factor?
+
+549
+00:41:12,359 --> 00:41:14,180
+How many preferred Fear Factor?
+
+550
+00:41:16,000 --> 00:41:17,480
+Really?
+
+551
+00:41:21,580 --> 00:41:29,180
+People overwhelmingly like The Simpsons
+better than Shakespeare.
+
+552
+00:41:29,560 --> 00:41:33,060
+All right, now,
+let's take the other part of the poll,
+
+553
+00:41:33,880 --> 00:41:38,540
+which is the highest experience
+or pleasure.
+
+554
+00:41:39,520 --> 00:41:42,800
+How many say Shakespeare?
+
+555
+00:41:47,880 --> 00:41:50,780
+How many say Fear Factor?
+
+556
+00:41:54,359 --> 00:41:59,340
+No, you can't be serious.
+Really? What?
+
+557
+00:42:01,200 --> 00:42:02,180
+All right, go ahead.
+You can say it.
+
+558
+00:42:03,040 --> 00:42:04,300
+I found that one the most entertaining.
+
+559
+00:42:05,040 --> 00:42:07,260
+I know, but which do you think
+was the worthiest,
+
+560
+00:42:07,480 --> 00:42:08,860
+the noblest experience?
+
+561
+00:42:09,040 --> 00:42:10,420
+I know you found it
+the most entertaining.
+
+562
+00:42:11,000 --> 00:42:13,830
+If something is good
+just because it is pleasurable,
+
+563
+00:42:13,930 --> 00:42:15,380
+what does it matter
+whether you have sort of an
+
+564
+00:42:15,600 --> 00:42:20,470
+abstract idea of whether it is
+good by someone else's sense or not?
+
+565
+00:42:21,040 --> 00:42:23,620
+All right, so you come down
+in the straight Benthamite side.
+
+566
+00:42:24,560 --> 00:42:27,500
+Who is to judge
+and why should we judge,
+
+567
+00:42:29,160 --> 00:42:32,620
+apart from just registering
+and aggregating de facto preference?
+
+568
+00:42:32,799 --> 00:42:34,260
+All right, that's fair enough.
+And what's your name?
+
+569
+00:42:35,509 --> 00:42:36,720
+Nate, okay, fair enough.
+
+570
+00:42:37,400 --> 00:42:40,080
+All right, so how many think
+The Simpsons is actually,
+
+571
+00:42:41,180 --> 00:42:44,060
+apart from liking it,
+is actually the higher experience?
+
+572
+00:42:46,270 --> 00:42:47,480
+Higher than Shakespeare?
+
+573
+00:42:47,859 --> 00:42:49,250
+All right, let's see the vote
+for Shakespeare again.
+
+574
+00:42:49,799 --> 00:42:51,140
+How many think Shakespeare is higher?
+
+575
+00:42:52,220 --> 00:42:55,700
+All right.
+So why is it -- ideally,
+
+576
+00:42:55,799 --> 00:42:59,040
+I'd like to hear from someone,
+is there someone who thinks
+
+577
+00:42:59,240 --> 00:43:04,420
+Shakespeare is highest but who
+preferred watching The Simpsons?
+
+578
+00:43:06,799 --> 00:43:07,900
+Yes?
+
+579
+00:43:08,640 --> 00:43:10,100
+Like, I guess just sitting
+and watching The Simpsons,
+
+580
+00:43:10,319 --> 00:43:12,460
+it's entertaining because they make
+jokes and they make us laugh.
+
+581
+00:43:12,560 --> 00:43:16,100
+But like, someone has to tell us that
+Shakespeare was this great writer.
+
+582
+00:43:16,359 --> 00:43:18,460
+We had to be taught how to read him,
+how to understand him.
+
+583
+00:43:18,680 --> 00:43:21,700
+We had to be taught how to kind of
+take in Rembrandt,
+
+584
+00:43:21,799 --> 00:43:22,940
+how to analyze a painting.
+
+585
+00:43:23,470 --> 00:43:24,220
+But let me -- what's your name?
+
+586
+00:43:24,440 --> 00:43:25,340
+Anisha.
+
+587
+00:43:25,880 --> 00:43:29,180
+Anisha, when you say someone
+told you that Shakespeare is better --
+
+588
+00:43:29,400 --> 00:43:30,420
+Right.
+
+589
+00:43:30,759 --> 00:43:33,060
+Are you accepting it on blind faith?
+
+590
+00:43:33,240 --> 00:43:34,700
+You voted that Shakespeare is higher
+
+591
+00:43:34,920 --> 00:43:37,540
+only because the culture
+tells you that
+
+592
+00:43:37,759 --> 00:43:43,100
+or teachers tell you that or do you
+actually agree with that yourself?
+
+593
+00:43:43,560 --> 00:43:46,360
+Well, in the sense that Shakespeare no,
+
+594
+00:43:46,640 --> 00:43:49,320
+but earlier you made
+an example of Rembrandt.
+
+595
+00:43:50,160 --> 00:43:51,900
+I feel like I would enjoy
+reading a comic book
+
+596
+00:43:52,200 --> 00:43:54,580
+more than I would enjoy
+kind of analyzing Rembrandt
+
+597
+00:43:54,799 --> 00:43:57,020
+because someone told me
+it was great, you know. - Right.
+
+598
+00:43:57,529 --> 00:44:00,340
+So some of this seems to be,
+you're suggesting,
+
+599
+00:44:01,660 --> 00:44:03,420
+a kind of a cultural convention
+and pressure.
+
+600
+00:44:03,680 --> 00:44:07,340
+We're told what books,
+what works of art are great. - Right.
+
+601
+00:44:08,640 --> 00:44:09,660
+Who else?
+
+602
+00:44:12,600 --> 00:44:13,700
+Yes?
+
+603
+00:44:15,240 --> 00:44:17,140
+Although I enjoyed watching
+The Simpsons more
+
+604
+00:44:17,359 --> 00:44:20,680
+in this particular moment,
+in justice, if I were to spend
+
+605
+00:44:20,779 --> 00:44:26,260
+the rest of my life considering
+the three different video clips shown,
+
+606
+00:44:26,799 --> 00:44:30,100
+I would not want to spend
+that remainder of my life
+
+607
+00:44:30,319 --> 00:44:33,460
+considering the latter two clips.
+
+608
+00:44:34,040 --> 00:44:38,740
+I think I would derive more pleasure
+from being able to branch out in my
+
+609
+00:44:38,960 --> 00:44:43,500
+own mind sort of considering more
+deep pleasures, more deep thoughts.
+
+610
+00:44:44,400 --> 00:44:45,780
+And tell me your name.
+
+611
+00:44:46,120 --> 00:44:47,140
+Joe.
+
+612
+00:44:47,319 --> 00:44:52,460
+Joe, so if you had to spend
+the rest of your life on a farm
+
+613
+00:44:52,680 --> 00:44:58,820
+in Kansas with only Shakespeare
+or the collected episodes
+
+614
+00:44:59,279 --> 00:45:04,460
+of The Simpsons,
+you would prefer Shakespeare?
+
+615
+00:45:04,680 --> 00:45:12,580
+What do you conclude from that about
+John Stuart Mill's test that the test
+
+616
+00:45:12,799 --> 00:45:19,740
+of a higher pleasure is whether people
+who have experienced both prefer it?
+
+617
+00:45:20,879 --> 00:45:22,740
+Can I cite another example briefly?
+
+618
+00:45:22,960 --> 00:45:23,700
+Yeah.
+
+619
+00:45:24,040 --> 00:45:27,020
+In Neurobiology last year,
+we were told of a rat
+
+620
+00:45:27,240 --> 00:45:32,140
+who was tested a particular center
+in the brain where the rat was able
+
+621
+00:45:32,359 --> 00:45:35,260
+to stimulate his brain and caused
+itself intense pleasure repeatedly.
+
+622
+00:45:35,960 --> 00:45:37,980
+The rat did not eat
+or drink until it died.
+
+623
+00:45:38,319 --> 00:45:41,220
+So the rat was clearly
+experiencing intense pleasure.
+
+624
+00:45:42,240 --> 00:45:43,980
+Now, if you ask me right now
+if I would rather experience
+
+625
+00:45:44,080 --> 00:45:48,900
+intense pleasure or have a
+full lifetime of higher pleasure,
+
+626
+00:45:49,910 --> 00:45:51,900
+I would consider
+intense pleasure to be low pleasure.
+
+627
+00:45:52,240 --> 00:45:54,940
+I would right now enjoy
+intense pleasure but
+
+628
+00:45:55,720 --> 00:45:56,780
+-- yes, I would.
+
+629
+00:45:57,480 --> 00:45:59,540
+I certainly would.
+
+630
+00:46:01,200 --> 00:46:04,400
+But over a lifetime,
+I think I would think almost
+a complete majority here
+would agree that they would rather
+
+631
+00:46:04,480 --> 00:46:07,640
+a complete majority here would agree
+that they would rather
+
+632
+00:46:07,799 --> 00:46:12,400
+be a human with higher pleasure
+than be that rat with intense pleasure
+
+633
+00:46:12,850 --> 00:46:14,620
+for a momentary period of time.
+
+634
+00:46:15,240 --> 00:46:19,380
+Now, in answer to your question,
+I think this proves that -
+
+635
+00:46:20,000 --> 00:46:21,160
+or I won't say "proves."
+
+636
+00:46:21,759 --> 00:46:26,780
+I think the conclusion is that
+Mill's theory that when a majority
+
+637
+00:46:27,160 --> 00:46:29,420
+of people are asked
+what they would rather do,
+
+638
+00:46:29,640 --> 00:46:35,700
+they will answer that they would
+rather engage in a higher pleasure.
+
+639
+00:46:36,400 --> 00:46:39,300
+So you think that this support Mill's
+you think Mill is onto something here?
+
+640
+00:46:39,560 --> 00:46:40,960
+I do.
+
+641
+00:46:41,060 --> 00:46:44,700
+All right, Is there anyone who
+disagrees with Joe and who thinks
+
+642
+00:46:44,879 --> 00:46:50,020
+that our experiment
+disproves Mill's test,
+
+643
+00:46:51,000 --> 00:46:54,260
+shows that that's not an adequate way,
+that you can't distinguish
+
+644
+00:46:54,359 --> 00:46:57,540
+higher pleasures
+within the utilitarian framework?
+
+645
+00:47:01,160 --> 00:47:02,900
+Yes?
+
+646
+00:47:03,120 --> 00:47:08,100
+If whatever is good is truly just
+whatever people prefer,
+
+647
+00:47:08,319 --> 00:47:10,660
+it's truly relative
+and there's no objective definition,
+
+648
+00:47:11,319 --> 00:47:14,900
+then there will be some society
+where people prefer Simpsons more.
+
+649
+00:47:15,640 --> 00:47:19,780
+Anyone can appreciate The Simpsons
+but I think it does take education
+
+650
+00:47:20,000 --> 00:47:21,260
+to appreciate Shakespeare as much.
+
+651
+00:47:21,680 --> 00:47:23,140
+All right, you're saying
+it takes education
+
+652
+00:47:23,240 --> 00:47:25,980
+to appreciate higher true things.
+
+653
+00:47:27,359 --> 00:47:31,700
+Mill's point is that the
+higher pleasures do require
+
+654
+00:47:32,520 --> 00:47:34,780
+cultivation and appreciation
+and education.
+
+655
+00:47:35,120 --> 00:47:36,940
+He doesn't dispute that.
+
+656
+00:47:37,640 --> 00:47:44,740
+But once having been cultivated
+and educated, people will see,
+
+657
+00:47:45,120 --> 00:47:48,340
+not only see the difference
+between higher and lower pleasures,
+
+658
+00:47:49,080 --> 00:47:54,060
+but will actually prefer
+the higher to the lower.
+
+659
+00:47:55,680 --> 00:47:58,380
+You find this famous passage
+from John Stuart Mill.
+
+660
+00:47:58,680 --> 00:48:04,980
+"It is better to be a human being
+dissatisfied than a pig satisfied;
+
+661
+00:48:06,080 --> 00:48:09,340
+better to be Socrates
+dissatisfied than a fool satisfied.
+
+662
+00:48:10,600 --> 00:48:14,380
+And if the fool, or the pig,
+are of a different opinion,
+
+663
+00:48:15,859 --> 00:48:19,380
+it is because they only know
+their side of the question."
+
+664
+00:48:20,839 --> 00:48:23,740
+So here, you have an attempt
+to distinguish
+
+665
+00:48:24,200 --> 00:48:27,140
+higher from lower pleasures.
+
+666
+00:48:28,839 --> 00:48:31,100
+So going to an art museum
+or being a couch potato
+
+667
+00:48:31,609 --> 00:48:34,140
+and swilling beer,
+watching television at home.
+
+668
+00:48:35,080 --> 00:48:38,820
+Sometimes, Mill agrees,
+we might succumb to the temptation
+
+669
+00:48:39,400 --> 00:48:42,820
+to do the latter,
+to be couch potatoes.
+
+670
+00:48:44,759 --> 00:48:50,060
+But even when we do that
+out of indolence and sloth,
+
+671
+00:48:50,839 --> 00:48:56,060
+we know that the pleasure we get
+gazing at Rembrandts in the museum
+
+672
+00:48:57,200 --> 00:49:01,460
+is actually higher
+because we've experienced both,
+
+673
+00:49:03,420 --> 00:49:06,330
+and it is a higher pleasure
+gazing at Rembrandts
+
+674
+00:49:06,960 --> 00:49:09,580
+because it engages our
+higher human faculties.
+
+675
+00:49:11,600 --> 00:49:16,780
+What about Mill's attempt to reply to
+the objection about individual rights?
+
+676
+00:49:19,040 --> 00:49:22,420
+In a way, he uses the same kind
+of argument,
+
+677
+00:49:25,480 --> 00:49:27,540
+and this comes out in chapter five.
+
+678
+00:49:28,160 --> 00:49:31,780
+He says, "I dispute the pretensions
+of any theory which sets up
+
+679
+00:49:31,879 --> 00:49:36,180
+an imaginary standard
+of justice not grounded on utility."
+
+680
+00:49:39,879 --> 00:49:46,620
+But still, he considers justice
+grounded on utility to be what he calls
+
+681
+00:49:46,839 --> 00:49:50,540
+"the chief part and incomparably,
+the most sacred
+
+682
+00:49:50,879 --> 00:49:53,540
+and binding part of all morality."
+
+683
+00:49:54,640 --> 00:49:58,420
+So justice is higher,
+individual rights are privileged,
+
+684
+00:50:00,120 --> 00:50:04,540
+but not for reasons that depart
+from utilitarian assumptions.
+
+685
+00:50:04,720 --> 00:50:08,060
+Justice is a name,
+for certain moral requirements,
+
+686
+00:50:09,160 --> 00:50:12,300
+which, regarded collectively,
+stand higher in the scale
+
+687
+00:50:12,700 --> 00:50:19,540
+of social utility and are,
+therefore, of more paramount
+
+688
+00:50:19,720 --> 00:50:22,620
+obligation than any others.
+
+689
+00:50:23,240 --> 00:50:25,020
+So justice, it is sacred.
+
+690
+00:50:25,279 --> 00:50:26,620
+It's prior.
+It's privileged.
+
+691
+00:50:26,839 --> 00:50:29,980
+It isn't something that can easily
+be traded off against lesser things.
+
+692
+00:50:30,879 --> 00:50:37,140
+But the reason is ultimately,
+Mill claims, a utilitarian reason
+
+693
+00:50:38,000 --> 00:50:41,740
+once you consider
+the long-run interests of humankind,
+
+694
+00:50:43,720 --> 00:50:46,380
+of all of us as progressive beings.
+
+695
+00:50:47,799 --> 00:50:49,980
+If we do justice
+and if we respect rights,
+
+696
+00:50:50,640 --> 00:50:54,160
+society as a whole will be
+better off in the long run.
+
+697
+00:50:55,879 --> 00:51:00,900
+Well, is that convincing or is Mill
+actually, without admitting it,
+
+698
+00:51:01,520 --> 00:51:06,900
+stepping outside utilitarian
+considerations in arguing for
+
+699
+00:51:08,200 --> 00:51:13,500
+qualitatively higher pleasures
+and for sacred
+
+700
+00:51:13,720 --> 00:51:17,660
+or especially important
+individual rights?
+
+701
+00:51:18,680 --> 00:51:23,210
+We haven't fully answered that question
+because to answer that question,
+
+702
+00:51:23,560 --> 00:51:25,700
+in the case of rights and justice,
+
+703
+00:51:26,399 --> 00:51:29,300
+will require that
+we explore other ways,
+
+704
+00:51:30,279 --> 00:51:34,460
+non-utilitarian ways
+of accounting for the basis
+
+705
+00:51:34,680 --> 00:51:39,260
+of rights and then asking
+whether they succeed.
+
+706
+00:51:40,480 --> 00:51:45,260
+As for Jeremy Bentham,
+who launched utilitarianism
+
+707
+00:51:46,279 --> 00:51:48,900
+as a doctrine in moral
+and legal philosophy,
+
+708
+00:51:50,120 --> 00:51:53,200
+Bentham died in 1832
+at the age of 85.
+
+709
+00:51:54,000 --> 00:51:57,620
+But if you go to London,
+you can visit him today literally.
+
+710
+00:51:58,879 --> 00:52:03,140
+He provided in his will
+that his body be preserved,
+
+711
+00:52:03,640 --> 00:52:06,940
+embalmed, and displayed
+in the University of London,
+
+712
+00:52:07,560 --> 00:52:11,860
+where he still presides
+in a glass case with a wax head,
+
+713
+00:52:12,520 --> 00:52:14,740
+dressed in his actual clothing.
+
+714
+00:52:15,120 --> 00:52:17,980
+You see, before he died,
+Bentham addressed himself
+
+715
+00:52:18,359 --> 00:52:21,100
+to a question consistent
+with his philosophy.
+
+716
+00:52:22,000 --> 00:52:25,980
+Of what use could a dead man
+be to the living?
+
+717
+00:52:26,720 --> 00:52:29,740
+One use, he said,
+would be to make one's corpse
+
+718
+00:52:29,960 --> 00:52:32,340
+available to the study of anatomy.
+
+719
+00:52:32,899 --> 00:52:38,760
+In the case of great philosophers,
+however, better yet to preserve
+
+720
+00:52:38,859 --> 00:52:43,580
+one's physical presence in order to
+inspire future generations of thinkers.
+
+721
+00:52:44,879 --> 00:52:47,180
+You want to see
+what Bentham looks like stuffed?
+
+722
+00:52:47,720 --> 00:52:49,700
+Here is what he looks like.
+
+723
+00:52:50,399 --> 00:52:52,100
+There he is.
+
+724
+00:52:52,359 --> 00:52:59,180
+Now, if you look closely,
+you will notice that the embalming
+
+725
+00:52:59,359 --> 00:53:02,270
+of his actual head
+was not a success,
+
+726
+00:53:02,629 --> 00:53:09,020
+so they substituted a waxed head
+and at the bottom, for verisimilitude,
+
+727
+00:53:09,240 --> 00:53:14,180
+you can actually see
+his actual head on a plate.
+
+728
+00:53:16,680 --> 00:53:18,540
+You see it?
+Right there.
+
+729
+00:53:21,520 --> 00:53:24,030
+So, what's the moral of the story?
+
+730
+00:53:26,140 --> 00:53:29,780
+The moral of the story -
+and by the way,
+
+731
+00:53:30,160 --> 00:53:32,130
+they bring him out
+during meetings of the board
+
+732
+00:53:32,220 --> 00:53:34,650
+at University College London
+and the minutes record him
+
+733
+00:53:34,920 --> 00:53:37,170
+as present but not voting.
+
+734
+00:53:40,799 --> 00:53:43,460
+Here is a philosopher in life
+and in death
+
+735
+00:53:45,500 --> 00:53:49,400
+who adhered to the principles
+of his philosophy.
+
+736
+00:53:49,960 --> 00:53:51,800
+We'll continue with rights next time.
+
+737
+00:53:57,620 --> 00:54:00,380
+Don't miss the chance to interact
+online with other viewers of Justice.
+
+738
+00:54:00,960 --> 00:54:02,780
+Join the conversation,
+take a pop quiz,
+
+739
+00:54:03,279 --> 00:54:05,500
+watch lectures you've missed,
+and learn a lot more.
+
+740
+00:54:05,799 --> 00:54:08,540
+It's at justiceharvard.org.
+It's the right thing to do.
+

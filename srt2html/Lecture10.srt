@@ -1,0 +1,4242 @@
+0
+00:00:00,100 --> 00:00:03,000
+Captions proofread by @xiaolai, www.lixiaolai.com
+
+1
+00:00:24,640 --> 00:00:27,610
+THE GOOD CITIZEN
+
+2
+00:00:30,000 --> 00:00:31,140
+We turn to Aristotle
+
+3
+00:00:32,940 --> 00:00:37,150
+after examining theories,
+
+4
+00:00:40,910 --> 00:00:42,980
+modern theories, of justice
+
+5
+00:00:45,190 --> 00:00:46,870
+that try to detach
+
+6
+00:00:49,140 --> 00:00:51,050
+considerations of
+justice and rights
+
+7
+00:00:51,160 --> 00:00:53,630
+from questions of
+moral desert and virtue.
+
+8
+00:00:55,589 --> 00:01:00,660
+Aristotle disagrees
+with Kant and Rawls.
+
+9
+00:01:03,760 --> 00:01:08,940
+Aristotle argues that justice is a matter
+of giving people what they deserve.
+
+10
+00:01:10,060 --> 00:01:14,020
+And the central idea of
+Aristotle's theory of justice
+
+11
+00:01:15,490 --> 00:01:18,500
+is that in reasoning
+about justice and rights
+
+12
+00:01:20,330 --> 00:01:21,770
+we have,
+unavoidably,
+
+13
+00:01:22,780 --> 00:01:26,310
+to reason about the purpose,
+or the end, or the telos,
+
+14
+00:01:27,080 --> 00:01:29,660
+of social practices in institutions.
+
+15
+00:01:31,560 --> 00:01:35,410
+Yes, justice requires giving equal things
+to equal persons,
+
+16
+00:01:35,500 --> 00:01:38,430
+but the question immediately arises,
+in any debate about justice,
+
+17
+00:01:38,720 --> 00:01:41,070
+equal in what respect?
+
+18
+00:01:43,000 --> 00:01:45,960
+And Aristotle says we need to fill in
+the answer to that question
+
+19
+00:01:46,339 --> 00:01:51,380
+by looking to the
+characteristic end,
+
+20
+00:01:52,140 --> 00:01:53,540
+or the essential nature,
+
+21
+00:01:53,800 --> 00:01:56,560
+or the purpose,
+of the thing we're distributing.
+
+22
+00:01:56,720 --> 00:01:59,260
+And so we discussed
+Aristotle's example of flutes;
+
+23
+00:01:59,640 --> 00:02:00,980
+who should get the best flutes.
+
+24
+00:02:01,440 --> 00:02:04,140
+And Aristotle's answer was
+the best flute-players.
+
+25
+00:02:05,280 --> 00:02:07,060
+The best flute-player
+should get the best flute
+
+26
+00:02:07,240 --> 00:02:10,960
+because that's the way
+of honoring
+
+27
+00:02:15,130 --> 00:02:16,060
+the excellence
+
+28
+00:02:18,709 --> 00:02:19,680
+of flute playing.
+
+29
+00:02:20,750 --> 00:02:26,320
+It's a way of rewarding the virtue
+of the great flute-player.
+
+30
+00:02:29,260 --> 00:02:30,700
+What's interesting though,
+
+31
+00:02:32,079 --> 00:02:33,900
+and this is what we are
+going to explore today,
+
+32
+00:02:36,000 --> 00:02:41,660
+is that it's not quite so easy
+to dispense with teleological reasoning
+
+33
+00:02:42,640 --> 00:02:45,960
+when we're thinking
+about social institutions
+
+34
+00:02:46,760 --> 00:02:49,360
+and political practices.
+
+35
+00:02:51,910 --> 00:02:54,000
+In general it's hard
+to do without teleology
+
+36
+00:02:54,120 --> 00:03:00,640
+when we're thinking about
+ethics, justice, and moral argument.
+
+37
+00:03:01,109 --> 00:03:02,700
+At least that is Aristotle's claim.
+
+38
+00:03:03,720 --> 00:03:06,360
+And I would like to bring out
+the force in Aristotle's claim
+
+39
+00:03:06,459 --> 00:03:08,340
+by considering two examples.
+
+40
+00:03:09,750 --> 00:03:14,060
+One is an example that Aristotle
+spends quite a bit of time discussing;
+
+41
+00:03:14,560 --> 00:03:16,220
+the case of politics.
+
+42
+00:03:16,560 --> 00:03:19,420
+How should political offices
+and honors,
+
+43
+00:03:19,640 --> 00:03:22,010
+how should political rule
+be distributed?
+
+44
+00:03:23,230 --> 00:03:29,260
+The second example is a
+contemporary debate about golf
+
+45
+00:03:29,840 --> 00:03:34,500
+and whether the
+Professional Golfers Association
+
+46
+00:03:35,720 --> 00:03:38,140
+should be required
+to allow Casey Martin,
+
+47
+00:03:39,530 --> 00:03:41,220
+a golfer with a disability,
+
+48
+00:03:41,750 --> 00:03:43,190
+to ride in a golf cart.
+
+49
+00:03:44,910 --> 00:03:48,570
+Both cases
+bring out
+
+50
+00:03:49,929 --> 00:03:52,810
+a further feature
+
+51
+00:03:53,850 --> 00:03:57,170
+of Aristotle's teleological way
+of thinking about justice.
+
+52
+00:03:57,600 --> 00:04:01,860
+And that is that when we attend
+to the telos, or the purpose,
+
+53
+00:04:03,640 --> 00:04:06,830
+sometimes we disagree and argue
+about what the purpose
+
+54
+00:04:08,079 --> 00:04:11,010
+of a social practice
+really consists in.
+
+55
+00:04:11,299 --> 00:04:13,220
+And when we have
+those disagreements
+
+56
+00:04:13,750 --> 00:04:15,860
+part of what's at stake
+in those disagreements
+
+57
+00:04:17,979 --> 00:04:20,310
+is not just who will get what,
+
+58
+00:04:23,520 --> 00:04:25,120
+not just a distributive question,
+
+59
+00:04:25,330 --> 00:04:29,300
+but also an honorific question.
+
+60
+00:04:31,280 --> 00:04:34,820
+What qualities,
+what excellences,
+
+61
+00:04:35,960 --> 00:04:39,670
+of persons
+will be honored?
+
+62
+00:04:41,919 --> 00:04:44,420
+Debates about
+purpose and telos
+
+63
+00:04:44,840 --> 00:04:48,450
+are often, simultaneously,
+debates about honor.
+
+64
+00:04:49,380 --> 00:04:50,380
+Now, let's see
+how that works
+
+65
+00:04:51,479 --> 00:04:54,930
+in the case of Aristotle's
+account of politics.
+
+66
+00:04:55,630 --> 00:04:58,060
+When we discuss
+distributive justice these days
+
+67
+00:05:00,669 --> 00:05:05,060
+we're mainly concerned with the distribution
+of income and wealth and opportunity.
+
+68
+00:05:06,479 --> 00:05:08,420
+Aristotle took
+distributive justice
+
+69
+00:05:09,159 --> 00:05:12,260
+to be mainly not
+about income and wealth
+
+70
+00:05:13,039 --> 00:05:14,960
+but about offices and honors.
+
+71
+00:05:15,900 --> 00:05:17,240
+Who should have
+the right to rule?
+
+72
+00:05:17,490 --> 00:05:18,770
+Who should be a citizen?
+
+73
+00:05:19,760 --> 00:05:21,830
+How should political authority
+be distributed?
+
+74
+00:05:22,400 --> 00:05:23,900
+Those were his questions.
+
+75
+00:05:25,620 --> 00:05:27,510
+How did he go about
+answering those questions?
+
+76
+00:05:30,289 --> 00:05:34,190
+Well, in line with his
+teleological account of justice,
+
+77
+00:05:35,310 --> 00:05:39,180
+Aristotle argues that to know how
+political authority should be distributed
+
+78
+00:05:40,240 --> 00:05:43,620
+we have, first, to inquire
+into the purpose, the point,
+
+79
+00:05:45,020 --> 00:05:47,010
+the telos,
+of politics.
+
+80
+00:05:48,320 --> 00:05:51,250
+So, what is politics about?
+
+81
+00:05:53,020 --> 00:05:55,320
+And, how does this help us
+decide who should rule?
+
+82
+00:05:56,320 --> 00:05:58,540
+Well, for Aristotle the answer
+to that question is,
+
+83
+00:05:58,960 --> 00:06:00,860
+politics is about
+
+84
+00:06:02,659 --> 00:06:04,300
+forming character,
+
+85
+00:06:04,620 --> 00:06:06,530
+forming good character.
+
+86
+00:06:06,719 --> 00:06:09,870
+It's about cultivating
+the virtue of citizens.
+
+87
+00:06:11,070 --> 00:06:12,590
+It's about the good life.
+
+88
+00:06:14,880 --> 00:06:17,540
+The end of the State,
+the end of the political community,
+
+89
+00:06:17,859 --> 00:06:20,500
+he tells us in
+Book Three of the Politics,
+
+90
+00:06:21,150 --> 00:06:25,980
+is not mere life,
+it's not economic exchange only,
+
+91
+00:06:26,359 --> 00:06:28,860
+it's not security only,
+
+92
+00:06:29,460 --> 00:06:31,860
+it's realizing the good life.
+
+93
+00:06:32,650 --> 00:06:35,540
+That's what politics is for
+according to Aristotle.
+
+94
+00:06:36,539 --> 00:06:38,180
+Now, you might worry about this.
+
+95
+00:06:39,359 --> 00:06:44,660
+You might say, "Well, maybe this shows us
+why those modern theorists of justice,
+
+96
+00:06:46,440 --> 00:06:47,340
+and of politics,
+
+97
+00:06:47,599 --> 00:06:48,820
+are right".
+
+98
+00:06:49,000 --> 00:06:51,770
+Because remember,
+for Kant and for Rawls,
+
+99
+00:06:52,479 --> 00:06:56,940
+the point of politics is not to shape
+the moral character of citizens.
+
+100
+00:06:57,200 --> 00:06:59,340
+It's not to make us good.
+
+101
+00:07:00,310 --> 00:07:03,790
+It's to respect our freedom
+to choose our goods,
+
+102
+00:07:04,830 --> 00:07:06,540
+our values,
+our ends,
+
+103
+00:07:07,940 --> 00:07:09,820
+consistent with
+a similar liberty for others.
+
+104
+00:07:12,799 --> 00:07:14,110
+Aristotle disagrees.
+
+105
+00:07:14,989 --> 00:07:16,900
+"Any polis which is truly so called,
+
+106
+00:07:17,880 --> 00:07:19,250
+and is not merely one in name,
+
+107
+00:07:19,460 --> 00:07:22,960
+must devote itself to the end
+of encouraging goodness.
+
+108
+00:07:24,659 --> 00:07:28,270
+Otherwise political association
+sinks into a mere alliance.
+
+109
+00:07:29,150 --> 00:07:30,910
+Law becomes a mere covenant,
+
+110
+00:07:31,000 --> 00:07:32,990
+a guarantor of man's rights
+against one another,
+
+111
+00:07:33,200 --> 00:07:34,540
+instead of being -
+as it should be -
+
+112
+00:07:34,680 --> 00:07:39,420
+a way of life such as will make
+the members of a polis good and just."
+
+113
+00:07:39,760 --> 00:07:40,860
+That's Aristotle's view.
+
+114
+00:07:41,500 --> 00:07:45,290
+"A polis is not an association
+for residents on a common site,
+
+115
+00:07:46,000 --> 00:07:48,940
+or for the sake of
+preventing mutual injustice
+
+116
+00:07:49,210 --> 00:07:51,540
+and easing exchange."
+Aristotle writes.
+
+117
+00:07:52,520 --> 00:07:55,900
+"The end and purpose
+of a polis is the good life,
+
+118
+00:07:56,239 --> 00:08:00,400
+and the institutions of social life
+are means to that end."
+
+119
+00:08:03,469 --> 00:08:06,110
+Now, if that's the purpose of politics,
+of the polis,
+
+120
+00:08:06,679 --> 00:08:10,920
+then, Aristotle says,
+we can derive from that
+
+121
+00:08:11,440 --> 00:08:13,400
+the principles of
+distributive justice;
+
+122
+00:08:14,940 --> 00:08:17,500
+the principles that tell us
+who should have the greatest say,
+
+123
+00:08:18,229 --> 00:08:21,020
+who should have the greatest measure
+of political authority.
+
+124
+00:08:23,380 --> 00:08:25,780
+And what's his answer
+to that question?
+
+125
+00:08:26,200 --> 00:08:28,290
+Well, those who contribute the most
+
+126
+00:08:29,200 --> 00:08:31,610
+to an association of this character,
+
+127
+00:08:31,840 --> 00:08:33,910
+namely an association
+that aims at the good,
+
+128
+00:08:34,680 --> 00:08:40,420
+should have a greater share in political rule
+and in the honors of the polis.
+
+129
+00:08:40,520 --> 00:08:42,270
+And the reasoning is,
+
+130
+00:08:42,800 --> 00:08:47,080
+they are in a position
+to contribute most
+
+131
+00:08:47,319 --> 00:08:50,970
+to what political community
+is essentially about.
+
+132
+00:08:56,840 --> 00:08:59,720
+Well, so you can see
+the link that he draws
+
+133
+00:09:00,439 --> 00:09:04,420
+between the principle of distribution
+for citizenship and political authority
+
+134
+00:09:04,880 --> 00:09:06,980
+and the purpose of politics.
+
+135
+00:09:07,630 --> 00:09:08,900
+"But why,"
+you'll quickly ask,
+
+136
+00:09:09,620 --> 00:09:11,220
+"Why does he claim
+
+137
+00:09:12,650 --> 00:09:15,500
+that political life,
+participation in politics,
+
+138
+00:09:15,680 --> 00:09:16,820
+is somehow essential
+
+139
+00:09:19,230 --> 00:09:20,460
+to living a good life?"
+
+140
+00:09:21,740 --> 00:09:23,180
+"Why isn't it possible
+
+141
+00:09:24,350 --> 00:09:26,980
+for people to live
+perfectly good lives,
+
+142
+00:09:27,329 --> 00:09:28,500
+decent lives,
+moral lives,
+
+143
+00:09:29,600 --> 00:09:32,060
+without participating in politics?"
+
+144
+00:09:34,720 --> 00:09:36,840
+Well, he gives two answers
+to that question.
+
+145
+00:09:37,800 --> 00:09:40,680
+He gives a partial answer,
+a preliminary answer,
+
+146
+00:09:40,959 --> 00:09:43,340
+in Book One of the Politics
+
+147
+00:09:45,250 --> 00:09:49,620
+where he tells us
+that only by living in a polis,
+
+148
+00:09:50,260 --> 00:09:51,700
+and participating in politics,
+
+149
+00:09:52,280 --> 00:09:55,740
+do we fully realize our nature
+as human beings.
+
+150
+00:09:59,430 --> 00:10:01,620
+Human beings are,
+by nature,
+
+151
+00:10:03,319 --> 00:10:05,420
+meant to live in a polis.
+
+152
+00:10:06,199 --> 00:10:07,320
+Why?
+
+153
+00:10:07,680 --> 00:10:12,990
+It's only in political life
+that we can actually exercise
+
+154
+00:10:13,760 --> 00:10:16,810
+our distinctly human capacity
+for language,
+
+155
+00:10:17,040 --> 00:10:22,690
+which Aristotle understands is this capacity
+to deliberate about right and wrong,
+
+156
+00:10:23,319 --> 00:10:24,640
+the just and the unjust.
+
+157
+00:10:25,949 --> 00:10:28,700
+And so, Aristotle writes
+in Book One of the Politics,
+
+158
+00:10:28,839 --> 00:10:31,990
+that the polis,
+the political community,
+
+159
+00:10:32,079 --> 00:10:35,410
+exists by nature
+and is prior to the individual.
+
+160
+00:10:35,980 --> 00:10:37,550
+Not prior in time,
+
+161
+00:10:37,959 --> 00:10:40,420
+but prior in its purpose.
+
+162
+00:10:40,520 --> 00:10:42,380
+Human beings
+are not self-sufficient,
+
+163
+00:10:43,600 --> 00:10:44,890
+living by themselves,
+
+164
+00:10:45,720 --> 00:10:48,700
+outside a political community.
+
+165
+00:10:50,500 --> 00:10:54,450
+"Man who is isolated, who is unable to share
+in the benefits of political association,
+
+166
+00:10:55,199 --> 00:10:57,010
+or who has no need to share,
+
+167
+00:10:57,480 --> 00:10:58,980
+because he's already self-sufficient,
+
+168
+00:10:59,640 --> 00:11:03,990
+such a person must be
+either a beast or a god."
+
+169
+00:11:07,530 --> 00:11:08,970
+So we only fully
+realize our nature,
+
+170
+00:11:09,160 --> 00:11:12,340
+we only fully unfold
+our human capacities,
+
+171
+00:11:12,680 --> 00:11:16,580
+when we exercise our
+faculty of language,
+
+172
+00:11:17,160 --> 00:11:20,740
+which means when we deliberate
+with our fellow citizens
+
+173
+00:11:21,000 --> 00:11:23,540
+about good and evil,
+
+174
+00:11:24,120 --> 00:11:27,130
+right and wrong,
+just and the unjust.
+
+175
+00:11:30,829 --> 00:11:37,420
+"But why can we only exercise our capacity
+for language in political community?"
+
+176
+00:11:37,800 --> 00:11:39,140
+you might ask.
+
+177
+00:11:41,699 --> 00:11:45,220
+Aristotle gives a second part,
+a fuller part,
+
+178
+00:11:45,480 --> 00:11:48,860
+of his answer in the
+Nichomachean Ethics;
+
+179
+00:11:49,079 --> 00:11:53,490
+an excerpt of which
+we have among the readings.
+
+180
+00:11:55,490 --> 00:12:01,660
+And there he explains
+that political deliberation,
+
+181
+00:12:03,750 --> 00:12:05,190
+living the life of a citizen,
+
+182
+00:12:05,520 --> 00:12:09,020
+ruling and being ruled in turn,
+sharing in rule,
+
+183
+00:12:09,240 --> 00:12:14,860
+all of this is necessary to virtue.
+
+184
+00:12:19,209 --> 00:12:20,970
+Aristotle defines happiness
+
+185
+00:12:22,060 --> 00:12:24,890
+not as maximizing the balance
+of pleasure over pain
+
+186
+00:12:26,920 --> 00:12:30,740
+but as an activity,
+an activity of the soul
+
+187
+00:12:31,620 --> 00:12:33,100
+in accordance with virtue.
+
+188
+00:12:35,199 --> 00:12:39,180
+And he says that every student
+of politics must study the soul
+
+189
+00:12:40,900 --> 00:12:45,430
+because shaping the soul
+is one of the objects of legislation
+
+190
+00:12:46,380 --> 00:12:47,780
+in a good city.
+
+191
+00:12:50,900 --> 00:12:53,340
+But why is it necessary
+to live in a good city
+
+192
+00:12:53,719 --> 00:12:56,020
+in order to live
+a virtuous life?
+
+193
+00:12:57,770 --> 00:13:01,220
+Why can't we just learn
+good moral principles at home
+
+194
+00:13:02,969 --> 00:13:05,040
+or in a philosophy class
+or from a book,
+
+195
+00:13:07,410 --> 00:13:08,820
+live according to those principles,
+
+196
+00:13:09,079 --> 00:13:10,420
+those rules,
+those precepts,
+
+197
+00:13:10,640 --> 00:13:12,380
+and leave it at that?
+
+198
+00:13:13,910 --> 00:13:17,340
+Aristotle says virtue
+isn't acquired that way.
+
+199
+00:13:18,640 --> 00:13:19,980
+Virtue
+
+200
+00:13:22,770 --> 00:13:26,850
+is only something
+we can acquire by practicing,
+
+201
+00:13:27,760 --> 00:13:30,250
+by exercising the virtues.
+
+202
+00:13:30,480 --> 00:13:33,420
+It's the kind of thing
+we can only learn by doing.
+
+203
+00:13:35,120 --> 00:13:36,690
+It doesn't come
+from book learning.
+
+204
+00:13:38,439 --> 00:13:41,220
+In this respect,
+it's like flute playing;
+
+205
+00:13:41,810 --> 00:13:44,780
+you couldn't learn how to play
+a musical instrument well
+
+206
+00:13:45,079 --> 00:13:46,830
+just by reading a book about it.
+
+207
+00:13:47,280 --> 00:13:48,660
+You have to practice,
+
+208
+00:13:48,839 --> 00:13:51,900
+and you have to listen
+to other accomplished flute-players.
+
+209
+00:13:52,560 --> 00:13:55,510
+There are other practices
+and skills of this type.
+
+210
+00:13:56,120 --> 00:13:57,410
+Cooking;
+
+211
+00:13:58,430 --> 00:13:59,870
+there are cookbooks
+
+212
+00:14:00,040 --> 00:14:04,020
+but no great chef ever learns how to cook
+by reading a cookbook only.
+
+213
+00:14:04,829 --> 00:14:07,290
+It's the kind of thing
+you only learn by doing.
+
+214
+00:14:10,550 --> 00:14:13,430
+Joke-telling is probably
+another example of this kind.
+
+215
+00:14:13,520 --> 00:14:16,530
+No great comedian learns to be a comedian
+just by reading a book
+
+216
+00:14:16,719 --> 00:14:18,300
+on the principles of comedy.
+
+217
+00:14:19,120 --> 00:14:19,900
+It wouldn't work.
+
+218
+00:14:20,120 --> 00:14:21,180
+Now, why not?
+
+219
+00:14:21,920 --> 00:14:23,690
+What do joke-telling
+and cooking
+
+220
+00:14:24,939 --> 00:14:27,820
+and playing a musical instrument
+have in common
+
+221
+00:14:28,990 --> 00:14:33,250
+such that we can't learn them
+just by grasping a precept or a rule
+
+222
+00:14:33,599 --> 00:14:35,890
+that we might learn
+from a book or a lecture?
+
+223
+00:14:36,040 --> 00:14:39,100
+What they have in common is
+that they are all concerned with
+
+224
+00:14:41,709 --> 00:14:43,520
+getting the hang of it.
+
+225
+00:14:43,680 --> 00:14:47,580
+But also what is it we get the hang of
+when we learn how to cook,
+
+226
+00:14:47,920 --> 00:14:50,380
+or play a musical instrument,
+or tell jokes well?
+
+227
+00:14:51,870 --> 00:14:56,180
+Discerning particulars,
+particular features of a situation.
+
+228
+00:14:56,439 --> 00:14:58,780
+And no rule,
+no precept,
+
+229
+00:14:59,400 --> 00:15:04,470
+could tell the comedian or the cook
+or the great musician
+
+230
+00:15:06,000 --> 00:15:10,910
+how to get in the habit of,
+the practice of,
+
+231
+00:15:12,510 --> 00:15:17,030
+discerning the particular features
+of a situation.
+
+232
+00:15:17,199 --> 00:15:20,060
+Aristotle says virtue
+is that way too.
+
+233
+00:15:21,550 --> 00:15:23,700
+Now, how does this
+connect to politics?
+
+234
+00:15:25,650 --> 00:15:31,500
+The only way we can acquire the virtues
+that constitute the good life
+
+235
+00:15:32,040 --> 00:15:39,190
+is to exercise the virtues,
+to have certain habits inculcated in us,
+
+236
+00:15:40,640 --> 00:15:45,420
+and then to engage in the practice
+of deliberating with citizens
+
+237
+00:15:45,530 --> 00:15:48,060
+about the nature of the good.
+
+238
+00:15:48,719 --> 00:15:50,860
+That's what politics
+is ultimately about.
+
+239
+00:15:52,660 --> 00:15:54,900
+The acquisition of civic virtue,
+
+240
+00:15:57,069 --> 00:16:00,940
+of this capacity
+to deliberate among equals,
+
+241
+00:16:01,719 --> 00:16:05,700
+that's something we couldn't get
+living a life alone outside of politics.
+
+242
+00:16:09,040 --> 00:16:13,560
+And so, that's why,
+in order to realize our nature,
+
+243
+00:16:14,050 --> 00:16:15,810
+we have to engage in politics.
+
+244
+00:16:16,000 --> 00:16:18,900
+And that's why those
+who are greatest in civic virtue,
+
+245
+00:16:19,199 --> 00:16:21,790
+like Pericles,
+are the ones
+
+246
+00:16:22,319 --> 00:16:26,180
+who properly have the greatest measure
+of offices and honors.
+
+247
+00:16:27,160 --> 00:16:31,930
+So, the argument about the
+distribution of offices and honors
+
+248
+00:16:32,030 --> 00:16:33,700
+has this teleological character,
+
+249
+00:16:33,959 --> 00:16:36,600
+but also an honorific dimension.
+
+250
+00:16:37,199 --> 00:16:41,560
+Because part of the point of politics
+is to honor people like Pericles.
+
+251
+00:16:43,160 --> 00:16:48,070
+It isn't just that Pericles
+should have the dominant say
+
+252
+00:16:51,750 --> 00:16:53,030
+because he has
+the best judgment,
+
+253
+00:16:53,160 --> 00:16:54,860
+and that will lead to
+the best outcomes,
+
+254
+00:16:55,000 --> 00:16:56,900
+to the best consequences
+for the citizens.
+
+255
+00:16:57,240 --> 00:17:00,100
+That's true,
+and that's important.
+
+256
+00:17:01,469 --> 00:17:04,840
+But a further reason
+people like Pericles
+
+257
+00:17:05,399 --> 00:17:07,030
+should have
+the greatest measure
+
+258
+00:17:09,480 --> 00:17:11,820
+of offices, and honors,
+and political authority,
+
+259
+00:17:12,080 --> 00:17:14,220
+and sway in the polis,
+
+260
+00:17:14,360 --> 00:17:18,420
+is that part of the point of politics
+is to single out and honor
+
+261
+00:17:19,389 --> 00:17:21,420
+those who posses
+the relevant virtue,
+
+262
+00:17:21,639 --> 00:17:24,380
+in this case civic virtue,
+civic excellence, practical wisdom,
+
+263
+00:17:24,870 --> 00:17:26,590
+to the fullest extent.
+
+264
+00:17:28,010 --> 00:17:29,550
+That's the honorific dimension
+
+265
+00:17:29,970 --> 00:17:32,260
+bound up with Aristotle's
+account of politics.
+
+266
+00:17:35,530 --> 00:17:37,260
+Here's an example
+
+267
+00:17:37,360 --> 00:17:40,700
+that shows the link
+
+268
+00:17:41,680 --> 00:17:43,790
+in a contemporary controversy;
+
+269
+00:17:44,780 --> 00:17:48,150
+the link to which Aristotle
+draws our attention
+
+270
+00:17:48,409 --> 00:17:54,340
+between arguments about
+justice and rights on the one hand
+
+271
+00:17:55,000 --> 00:17:58,940
+and figuring out the telos or the purpose
+of a social practice on the other.
+
+272
+00:17:59,960 --> 00:18:04,840
+Not only that, the case of
+Casey Martin and his golf cart
+
+273
+00:18:05,080 --> 00:18:08,420
+also brings out
+the link between
+
+274
+00:18:08,720 --> 00:18:11,540
+debates about
+what the purpose
+
+275
+00:18:12,960 --> 00:18:14,700
+of a social practice
+or a game
+
+276
+00:18:15,399 --> 00:18:16,980
+is, on the one hand
+
+277
+00:18:18,320 --> 00:18:23,940
+and the question of what qualities
+should be honored on the other;
+
+278
+00:18:25,320 --> 00:18:27,260
+the link between teleology
+
+279
+00:18:27,399 --> 00:18:28,820
+and honor-based
+
+280
+00:18:29,500 --> 00:18:32,040
+principles of distributive justice.
+
+281
+00:18:32,320 --> 00:18:33,760
+Who was Casey Martin?
+
+282
+00:18:34,080 --> 00:18:36,500
+Well, Casey Martin
+is a very good golfer.
+
+283
+00:18:38,330 --> 00:18:41,290
+Able to compete
+at the highest levels of golf
+
+284
+00:18:41,520 --> 00:18:43,300
+but for one thing;
+
+285
+00:18:44,780 --> 00:18:45,900
+he has a rare
+
+286
+00:18:48,120 --> 00:18:50,000
+circulatory problem in his leg
+
+287
+00:18:50,159 --> 00:18:52,300
+that makes it very difficult
+for him to walk;
+
+288
+00:18:52,560 --> 00:18:54,400
+not only difficult but dangerous.
+
+289
+00:18:56,850 --> 00:18:58,900
+And so he asked the PGA,
+
+290
+00:19:01,210 --> 00:19:03,440
+which governs the pro tour in golf,
+
+291
+00:19:05,570 --> 00:19:07,220
+to be able to use a golf cart
+
+292
+00:19:08,600 --> 00:19:11,940
+when he competed in
+professional tournaments.
+
+293
+00:19:13,020 --> 00:19:14,780
+PGA said no,
+
+294
+00:19:15,600 --> 00:19:18,540
+and he sued under the
+Americans for Disabilities Act;
+
+295
+00:19:18,870 --> 00:19:23,580
+he sued in a case that went all the way
+to the United States Supreme Court.
+
+296
+00:19:24,520 --> 00:19:28,700
+The question the Supreme Court
+had to answer was,
+
+297
+00:19:29,530 --> 00:19:34,100
+does Casey Martin have a right
+
+298
+00:19:34,879 --> 00:19:37,620
+that the PGA provide him,
+allow him,
+
+299
+00:19:38,080 --> 00:19:39,460
+to use a golf cart on the tour,
+
+300
+00:19:40,280 --> 00:19:41,300
+or not?
+
+301
+00:19:42,010 --> 00:19:43,160
+How many here
+
+302
+00:19:44,040 --> 00:19:45,940
+think that,
+
+303
+00:19:47,960 --> 00:19:49,140
+from a moral point of view,
+
+304
+00:19:51,080 --> 00:19:53,660
+Casey Martin should
+
+305
+00:19:55,720 --> 00:19:57,300
+have a right to
+use a golf cart?
+
+306
+00:20:00,320 --> 00:20:04,660
+And how many think that he should not
+have a right to a golf cart,
+
+307
+00:20:05,000 --> 00:20:06,100
+in the tournaments?
+
+308
+00:20:08,440 --> 00:20:11,780
+So the majority are sympathetic
+to Casey Martin's right,
+
+309
+00:20:12,600 --> 00:20:17,020
+though a substantial minority disagree.
+
+310
+00:20:17,399 --> 00:20:18,900
+Let's first hear from those of you
+
+311
+00:20:19,450 --> 00:20:21,700
+who would rule against Casey Martin.
+
+312
+00:20:22,360 --> 00:20:27,100
+Why would you not say that
+the PGA must give him a golf cart?
+
+313
+00:20:31,720 --> 00:20:32,780
+Yes.
+
+314
+00:20:33,120 --> 00:20:34,620
+Since the inception of golf,
+
+315
+00:20:34,879 --> 00:20:37,140
+because it has been part of the sport
+
+316
+00:20:37,399 --> 00:20:40,170
+it is now intrinsically part of golf;
+
+317
+00:20:40,360 --> 00:20:41,660
+walking the course.
+
+318
+00:20:41,879 --> 00:20:43,420
+And thus,
+because it's intrinsic to golf,
+
+319
+00:20:43,679 --> 00:20:46,220
+I'd argue that not being able
+to walk the course
+
+320
+00:20:46,540 --> 00:20:49,660
+is just not being able to perform
+an aspect of the sport,
+
+321
+00:20:49,960 --> 00:20:52,940
+which is necessary to performing
+at a professional level.
+
+322
+00:20:53,399 --> 00:20:54,540
+Good.
+Stay there for a minute.
+
+323
+00:20:54,800 --> 00:20:55,420
+What's your name?
+
+324
+00:20:55,800 --> 00:20:56,420
+Tommy.
+
+325
+00:20:56,679 --> 00:20:57,940
+Are you a golfer,
+by the way, Tom?
+
+326
+00:20:58,320 --> 00:21:00,300
+Not so much but, yeah,
+
+327
+00:21:00,600 --> 00:21:01,100
+a little bit.
+
+328
+00:21:01,720 --> 00:21:04,340
+Are there any golfers
+here,
+
+329
+00:21:04,440 --> 00:21:05,660
+I mean, real golfers?
+
+330
+00:21:07,760 --> 00:21:08,700
+Thank you, professor,
+that was...
+
+331
+00:21:08,960 --> 00:21:09,820
+No, no.
+
+332
+00:21:10,879 --> 00:21:11,980
+I'm just taking your word for it.
+
+333
+00:21:13,919 --> 00:21:16,020
+Is there someone here
+on the golf team?
+
+334
+00:21:18,560 --> 00:21:19,660
+Yes?
+
+335
+00:21:20,120 --> 00:21:20,780
+Tell us your name,
+
+336
+00:21:21,040 --> 00:21:22,960
+and tell us what you think.
+
+337
+00:21:23,550 --> 00:21:24,740
+My name is Michael
+
+338
+00:21:25,040 --> 00:21:27,740
+and I usually take a cart.
+
+339
+00:21:28,080 --> 00:21:29,900
+So . . .
+
+340
+00:21:33,659 --> 00:21:34,820
+I'm probably the wrong
+person to ask.
+
+341
+00:21:36,399 --> 00:21:38,380
+Is that why your hand
+went up slowly when I asked?
+
+342
+00:21:38,679 --> 00:21:39,460
+Yes.
+
+343
+00:21:40,280 --> 00:21:42,600
+Alright, but Tom is saying,
+
+344
+00:21:42,840 --> 00:21:48,060
+Tom said a minute ago
+that at least at the professional level
+
+345
+00:21:49,600 --> 00:21:52,580
+walking the course is
+essential to the game.
+
+346
+00:21:52,879 --> 00:21:53,580
+Do you agree?
+
+347
+00:21:53,800 --> 00:21:54,740
+I would, yes.
+
+348
+00:21:56,080 --> 00:21:57,460
+You do?
+Then why do you take a cart?
+
+349
+00:21:58,840 --> 00:21:59,900
+And you call yourself
+a golfer?
+
+350
+00:22:00,000 --> 00:22:01,780
+No, no, no.
+
+351
+00:22:01,879 --> 00:22:02,900
+I'm kidding,
+I'm kidding.
+
+352
+00:22:03,240 --> 00:22:04,540
+What do you say to that?
+
+353
+00:22:04,800 --> 00:22:05,900
+When I have walked the course
+
+354
+00:22:06,210 --> 00:22:08,780
+it does add tremendously to the game.
+
+355
+00:22:09,080 --> 00:22:10,820
+It makes it a lot harder.
+It really does.
+
+356
+00:22:11,280 --> 00:22:12,090
+Yeah?
+
+357
+00:22:12,360 --> 00:22:16,340
+Alright let's hear,
+Michael and Tom stay there,
+
+358
+00:22:16,439 --> 00:22:18,740
+let's hear from people who
+
+359
+00:22:20,000 --> 00:22:22,780
+say that he should have
+a right to a golf cart.
+
+360
+00:22:24,290 --> 00:22:26,300
+Why? Who is prepared
+to defend that position?
+
+361
+00:22:28,050 --> 00:22:28,820
+Yes.
+
+362
+00:22:29,980 --> 00:22:31,460
+Well, I think the PGA
+should definitely
+
+363
+00:22:31,760 --> 00:22:33,380
+be required to give
+him a golf cart
+
+364
+00:22:33,679 --> 00:22:36,440
+because they argue in the decision
+that it's not just a matter of,
+
+365
+00:22:37,000 --> 00:22:38,780
+he's not experiencing fatigue.
+
+366
+00:22:39,040 --> 00:22:40,620
+For him he's still walking
+about a mile,
+
+367
+00:22:40,840 --> 00:22:42,540
+the cart can't go
+everywhere with him,
+
+368
+00:22:42,919 --> 00:22:46,620
+and in that mile he is still experiencing
+more fatigue and pain
+
+369
+00:22:47,040 --> 00:22:48,620
+than a healthy player would.
+
+370
+00:22:48,720 --> 00:22:51,340
+So, it's not as if you're
+removing the disadvantage.
+
+371
+00:22:51,689 --> 00:22:52,900
+What's your name?
+
+372
+00:22:53,159 --> 00:22:53,860
+Riva.
+
+373
+00:22:54,200 --> 00:22:56,180
+Riva, what do you say
+to Tom's point
+
+374
+00:22:56,520 --> 00:22:58,590
+that walking the course
+is essential to the game?
+
+375
+00:22:58,800 --> 00:23:00,500
+It would be as if
+
+376
+00:23:00,830 --> 00:23:04,490
+a disabled player could
+play in the NBA
+
+377
+00:23:05,040 --> 00:23:08,340
+but not have to run
+up and down the court.
+
+378
+00:23:09,379 --> 00:23:12,260
+Well, I think there are
+two responses to that.
+
+379
+00:23:12,560 --> 00:23:14,620
+First, I don't think it's
+essential to the game,
+
+380
+00:23:15,230 --> 00:23:18,060
+because most golfers who play,
+particularly recreationally,
+
+381
+00:23:18,260 --> 00:23:20,070
+play with a cart.
+-- Like Michael.
+
+382
+00:23:20,290 --> 00:23:22,820
+And on several of the tours
+
+383
+00:23:23,120 --> 00:23:24,560
+you can play with a cart;
+
+384
+00:23:24,720 --> 00:23:25,990
+on the Senior PGA Tour,
+
+385
+00:23:26,200 --> 00:23:27,220
+on the Nike Tour,
+
+386
+00:23:27,600 --> 00:23:29,020
+in a lot of the college events.
+
+387
+00:23:29,310 --> 00:23:30,520
+And those events
+are just as competitive
+
+388
+00:23:30,740 --> 00:23:32,940
+and just as high level
+as the PGA Tour.
+
+389
+00:23:33,240 --> 00:23:35,660
+So, really it's just a matter
+of selective reasoning
+
+390
+00:23:35,860 --> 00:23:39,050
+if you argue it as an
+important part of the sport.
+
+391
+00:23:39,280 --> 00:23:41,490
+But, even if it is he
+still does have to walk,
+
+392
+00:23:41,600 --> 00:23:42,890
+he still plays golf standing up,
+
+393
+00:23:43,040 --> 00:23:44,570
+it's not as if he's playing golf
+from a wheelchair.
+
+394
+00:23:44,720 --> 00:23:45,450
+Alright.
+
+395
+00:23:46,120 --> 00:23:47,650
+Who else?
+
+396
+00:23:48,110 --> 00:23:48,740
+Go ahead.
+
+397
+00:23:49,000 --> 00:23:50,860
+I think the whole point
+of a competition
+
+398
+00:23:51,200 --> 00:23:54,180
+is that it calls out the best, you know,
+from the second best or from the third best.
+
+399
+00:23:54,560 --> 00:23:56,190
+And when we're talking
+about the national level,
+
+400
+00:23:56,360 --> 00:23:58,100
+we're talking about the
+highest of the highest.
+
+401
+00:23:58,320 --> 00:24:02,930
+I think what they're arguing about here
+is the purpose of competition.
+
+402
+00:24:03,120 --> 00:24:05,540
+And I think in the sake of competition
+you can't change the rules.
+
+403
+00:24:06,159 --> 00:24:09,380
+So, the purpose of the
+competition includes walking?
+
+404
+00:24:09,840 --> 00:24:12,540
+That's an essential,
+you agree with Tom.
+
+405
+00:24:12,760 --> 00:24:13,820
+And what's your name?
+
+406
+00:24:13,960 --> 00:24:15,130
+David.
+
+407
+00:24:15,990 --> 00:24:17,140
+The Supreme Court
+ruled
+
+408
+00:24:17,840 --> 00:24:21,030
+that the PGA did have to
+accommodate Casey Martin
+
+409
+00:24:22,340 --> 00:24:25,420
+and they did it on grounds
+that Riva mentioned,
+
+410
+00:24:26,700 --> 00:24:30,750
+that walking isn't really part of,
+an essential part of the game.
+
+411
+00:24:31,629 --> 00:24:33,460
+They cited testimony saying
+that walking the court
+
+412
+00:24:33,750 --> 00:24:36,550
+consumes no more calories
+than you get eating a Big Mac.
+
+413
+00:24:37,330 --> 00:24:38,780
+That's what walking is in golf,
+
+414
+00:24:39,600 --> 00:24:43,260
+according to the majority.
+
+415
+00:24:44,120 --> 00:24:45,340
+Scalia was in dissent.
+
+416
+00:24:47,050 --> 00:24:48,670
+Justice Scalia agreed with David.
+
+417
+00:24:49,740 --> 00:24:50,620
+He said
+
+418
+00:24:53,550 --> 00:24:55,670
+there is no purpose,
+
+419
+00:24:57,080 --> 00:25:01,810
+and it's certainly not your course to try to
+figure out the essential purpose of golf.
+
+420
+00:25:02,879 --> 00:25:05,700
+Golf is like any game,
+it's strictly for amusement.
+
+421
+00:25:07,200 --> 00:25:09,380
+And if there's a group that wants
+to have one version of the game
+
+422
+00:25:09,600 --> 00:25:11,500
+they can have that
+version of the game.
+
+423
+00:25:12,600 --> 00:25:14,700
+And the market can decide
+whether people are amused
+
+424
+00:25:14,879 --> 00:25:18,890
+and like and show up for that
+and watch the television broadcasts.
+
+425
+00:25:20,899 --> 00:25:25,260
+Scalia's dissent was an
+anti-Aristotelian dissent,
+
+426
+00:25:27,720 --> 00:25:29,820
+because notice two things
+about the argument;
+
+427
+00:25:30,520 --> 00:25:34,830
+first we're thrust into a discussion
+about what the essential nature,
+
+428
+00:25:34,960 --> 00:25:37,020
+or purpose,
+or telos of golf really is.
+
+429
+00:25:37,320 --> 00:25:38,780
+Does it include walking?
+
+430
+00:25:39,040 --> 00:25:44,570
+And, here's something I think is rumbling
+beneath the surface of this debate,
+
+431
+00:25:45,460 --> 00:25:51,210
+whether walking partly determines whether
+golf is really an athletic competition.
+
+432
+00:25:52,929 --> 00:25:54,550
+After all, the ball sits still.
+
+433
+00:25:55,720 --> 00:25:57,000
+You have to put it in a hole.
+
+434
+00:25:57,110 --> 00:25:59,750
+Is it more like basketball,
+baseball, and football?
+
+435
+00:26:00,240 --> 00:26:02,230
+Golf, an athletic competition?
+
+436
+00:26:02,750 --> 00:26:04,160
+Or is it more like billiards?
+
+437
+00:26:06,480 --> 00:26:07,980
+The ball sits still
+there too.
+
+438
+00:26:08,080 --> 00:26:10,670
+You can be out of shape
+and succeed.
+
+439
+00:26:10,960 --> 00:26:12,060
+It involves skill
+
+440
+00:26:12,159 --> 00:26:13,930
+but not athletic skill.
+
+441
+00:26:14,820 --> 00:26:16,540
+Could it be that those
+professional golfers,
+
+442
+00:26:16,800 --> 00:26:19,810
+who excel at golf,
+
+443
+00:26:19,909 --> 00:26:25,620
+have a stake in golf being honored
+and recognized as an athletic event,
+
+444
+00:26:26,840 --> 00:26:29,290
+not just a game of skill like billiards?
+
+445
+00:26:31,429 --> 00:26:35,140
+And if that's what's at stake,
+then we have a debate about the purpose,
+
+446
+00:26:36,320 --> 00:26:37,580
+the teleological dimension,
+
+447
+00:26:37,960 --> 00:26:40,500
+and also a debate about honor.
+
+448
+00:26:40,909 --> 00:26:42,180
+What virtues,
+
+449
+00:26:42,600 --> 00:26:44,020
+really,
+
+450
+00:26:45,199 --> 00:26:49,380
+does the game of golf
+honor and recognize?
+
+451
+00:26:50,110 --> 00:26:53,350
+Two questions to which
+Aristotle directs our attention.
+
+452
+00:26:53,870 --> 00:26:55,730
+We'll continue
+on this case next time.
+
+453
+00:27:03,399 --> 00:27:06,490
+What's strange
+and seems paradoxical to me
+
+454
+00:27:06,600 --> 00:27:08,450
+about Aristotle's view point
+
+455
+00:27:09,100 --> 00:27:12,180
+is that if you walk like a pirate
+and you talk like a pirate
+
+456
+00:27:12,439 --> 00:27:14,020
+you shouldn't be
+an investment banker,
+
+457
+00:27:14,679 --> 00:27:18,740
+because that's not what
+you're inherently supposed to do.
+
+458
+00:27:18,919 --> 00:27:20,570
+If you have a peg leg
+and an eye patch
+
+459
+00:27:20,800 --> 00:27:23,500
+and a disgruntled disposition,
+you know,
+
+460
+00:27:23,730 --> 00:27:26,100
+you should be on a pirate ship
+on the high seas.
+
+461
+00:27:26,679 --> 00:27:28,150
+So he doesn't . . .
+
+462
+00:27:28,520 --> 00:27:30,790
+Some would say
+
+463
+00:27:31,590 --> 00:27:33,890
+that the distinction
+between the two vocations
+
+464
+00:27:34,040 --> 00:27:35,670
+is not as clear as you suggest.
+
+465
+00:27:40,320 --> 00:27:42,020
+When we ended last time
+we were talking about
+
+466
+00:27:42,280 --> 00:27:45,460
+whether Casey Martin
+has a right to ride in a golf cart
+
+467
+00:27:45,750 --> 00:27:47,790
+in the PGA Tournament.
+
+468
+00:27:49,220 --> 00:27:52,060
+And it's worth remembering
+how we got into this debate
+
+469
+00:27:52,240 --> 00:27:56,020
+and what's at stake for an
+understanding of political philosophy.
+
+470
+00:27:58,710 --> 00:28:01,690
+Remember, we were looking
+at Aristotle's theory of justice
+
+471
+00:28:01,960 --> 00:28:04,580
+and one way of describing
+his approach to justice,
+
+472
+00:28:04,840 --> 00:28:06,890
+we've called it 'teleological'.
+
+473
+00:28:08,610 --> 00:28:10,980
+Teleological, because he says
+to allocate rights
+
+474
+00:28:11,300 --> 00:28:15,480
+we first have to figure out
+the purpose, or the end,
+
+475
+00:28:16,600 --> 00:28:17,940
+of the social practice in question.
+
+476
+00:28:19,629 --> 00:28:23,620
+Another way of describing
+Aristotle's account of Justice
+
+477
+00:28:23,840 --> 00:28:27,080
+is that justice is,
+for him, a matter of fit;
+
+478
+00:28:28,020 --> 00:28:33,880
+it's a matter of fitting persons
+with their virtues and excellences
+
+479
+00:28:34,679 --> 00:28:36,620
+to the appropriate roles.
+
+480
+00:28:38,149 --> 00:28:40,320
+Now, I want to finish our discussion
+
+481
+00:28:41,629 --> 00:28:44,980
+about Casey Martin
+and his claim for a golf cart,
+
+482
+00:28:45,679 --> 00:28:51,020
+and then go back to one more
+consequential application in Aristotle,
+
+483
+00:28:51,290 --> 00:28:52,860
+namely, the question of slavery.
+
+484
+00:28:53,750 --> 00:28:58,140
+What do you think about
+Casey Martin's request?
+
+485
+00:28:58,720 --> 00:29:00,700
+Should there be an
+accommodation or not,
+
+486
+00:29:00,919 --> 00:29:05,090
+given the nature of the game
+and of the tournament
+
+487
+00:29:05,240 --> 00:29:06,820
+and its purposes?
+
+488
+00:29:07,720 --> 00:29:12,500
+"Isn't it discrimination if he's not provided
+the golf cart as an accommodation",
+
+489
+00:29:13,129 --> 00:29:14,340
+say some.
+
+490
+00:29:14,600 --> 00:29:18,720
+Others reply, "No, if he got a cart
+it would be unfair to the other golfers
+
+491
+00:29:18,919 --> 00:29:20,400
+because they exert themselves,
+
+492
+00:29:20,500 --> 00:29:23,800
+become winded, fatigued,
+walking the course".
+
+493
+00:29:24,959 --> 00:29:26,060
+That's where we left it.
+
+494
+00:29:30,189 --> 00:29:32,780
+What about the fairness argument?
+
+495
+00:29:35,260 --> 00:29:36,140
+OK, Jenny.
+
+496
+00:29:37,290 --> 00:29:38,370
+My question was
+
+497
+00:29:38,480 --> 00:29:41,580
+why doesn't the PGA
+just make the option of a cart
+
+498
+00:29:42,040 --> 00:29:43,620
+available to all golfers?
+
+499
+00:29:44,080 --> 00:29:47,740
+From our readings I learned that
+there are many golf tournaments,
+
+500
+00:29:47,850 --> 00:29:51,140
+other than the PGA,
+where using a cart is not prohibited.
+
+501
+00:29:51,240 --> 00:29:56,470
+For instance, the Seniors Tournament
+it's even allowed and encouraged.
+
+502
+00:29:56,939 --> 00:29:58,620
+So why doesn't the PGA just do that?
+
+503
+00:29:59,720 --> 00:30:00,860
+Let everybody use
+a cart?
+
+504
+00:30:01,429 --> 00:30:03,300
+Give everyone
+the option of using a cart
+
+505
+00:30:03,520 --> 00:30:04,860
+and let them pick.
+
+506
+00:30:05,159 --> 00:30:06,890
+So then the traditionalists
+can then still say,
+
+507
+00:30:07,040 --> 00:30:08,250
+"Well, I still choose
+to walk the course
+
+508
+00:30:08,399 --> 00:30:12,280
+but I do that knowing that I
+will be more tired at the end
+
+509
+00:30:12,379 --> 00:30:13,580
+than the people
+who took the cart."
+
+510
+00:30:14,800 --> 00:30:15,540
+Good.
+
+511
+00:30:15,800 --> 00:30:18,940
+Alright, so what about Jenny's solution?
+
+512
+00:30:19,480 --> 00:30:20,660
+For the sake of fairness,
+
+513
+00:30:20,970 --> 00:30:23,250
+don't give Casey Martin
+an advantage,
+
+514
+00:30:23,840 --> 00:30:26,170
+if indeed there is an
+advantage to riding in a cart.
+
+515
+00:30:26,270 --> 00:30:28,210
+Let everyone who wants to
+
+516
+00:30:31,939 --> 00:30:33,040
+use a cart.
+
+517
+00:30:34,919 --> 00:30:36,440
+Is everyone happy
+with that solution?
+
+518
+00:30:37,689 --> 00:30:39,970
+Does it put to rest
+this whole dilemma?
+
+519
+00:30:42,159 --> 00:30:43,370
+Who has an answer for Jenny?
+
+520
+00:30:45,260 --> 00:30:46,050
+Yes.
+
+521
+00:30:47,080 --> 00:30:48,620
+As was brought up last time,
+
+522
+00:30:48,919 --> 00:30:53,240
+if you do that you kind of
+ruin some of the spirit of golf
+
+523
+00:30:53,360 --> 00:30:54,880
+as a lot of people like to see it.
+
+524
+00:30:55,000 --> 00:30:56,580
+If you let everybody take a cart.
+
+525
+00:30:57,330 --> 00:31:00,340
+Even though it gives everybody
+the same playing field now,
+
+526
+00:31:00,560 --> 00:31:04,620
+it sort of makes golf less
+of an athletic game,
+
+527
+00:31:04,840 --> 00:31:06,020
+like people pointed out last class.
+
+528
+00:31:06,580 --> 00:31:09,980
+It's just like if someone decides
+to go into another sport
+
+529
+00:31:10,340 --> 00:31:11,380
+and they want an advantage.
+
+530
+00:31:11,679 --> 00:31:13,690
+Like, if you have swimming
+
+531
+00:31:13,800 --> 00:31:15,620
+and then you say,
+"OK, he wants flippers
+
+532
+00:31:15,800 --> 00:31:18,050
+so why don't we just allow everyone
+to have flippers when they're swimming?"
+
+533
+00:31:18,439 --> 00:31:22,180
+And what would that do to the
+Olympic Swimming Competition,
+
+534
+00:31:22,570 --> 00:31:23,850
+if people were free to use,
+
+535
+00:31:24,399 --> 00:31:26,340
+Jenny, we better
+let Jenny reply to this.
+
+536
+00:31:27,000 --> 00:31:31,860
+Da says it would sort of spoil
+the spirit of the athletic competition
+
+537
+00:31:32,260 --> 00:31:35,620
+as if in Olympic swimming
+you let anyone who wanted to
+
+538
+00:31:35,879 --> 00:31:37,460
+swim with flippers.
+
+539
+00:31:39,179 --> 00:31:40,860
+Alright, Jenny,
+what do you say to Da?
+
+540
+00:31:41,820 --> 00:31:43,130
+It would spoil the spirit of it.
+
+541
+00:31:44,010 --> 00:31:46,020
+You're also ruining
+the spirit of golf
+
+542
+00:31:46,320 --> 00:31:49,840
+by not letting people who are
+really passionate about the game,
+
+543
+00:31:50,000 --> 00:31:50,980
+and very good at it,
+
+544
+00:31:51,399 --> 00:31:55,620
+compete simply because
+of an aspect of golf which is not,
+
+545
+00:31:56,199 --> 00:32:00,300
+the main point of golf is you
+use the club to make strokes
+
+546
+00:32:00,520 --> 00:32:01,500
+and hit it into a hole.
+
+547
+00:32:01,919 --> 00:32:03,010
+I'm sorry, I'm not a golfer
+
+548
+00:32:03,120 --> 00:32:07,340
+but that's basically the gist
+of the game from what I see it.
+
+549
+00:32:07,560 --> 00:32:10,300
+And I was reading the
+PGA versus Casey Martin decision
+
+550
+00:32:10,399 --> 00:32:13,670
+that was one of the
+sentences that they said
+
+551
+00:32:13,840 --> 00:32:17,300
+is because walking the course
+is not an inherent part of golf,
+
+552
+00:32:17,629 --> 00:32:19,150
+only swinging the club is.
+
+553
+00:32:19,320 --> 00:32:22,820
+Good. So, Jenny replies
+to Da,
+
+554
+00:32:25,629 --> 00:32:28,580
+well, it isn't really essential
+anyhow to walk the course.
+
+555
+00:32:28,959 --> 00:32:30,500
+So, we're back to the purpose.
+
+556
+00:32:30,919 --> 00:32:33,310
+I mean, I'm sure there are,
+like wheelchair basketball,
+
+557
+00:32:33,409 --> 00:32:37,120
+there are certain
+different competitions
+
+558
+00:32:37,320 --> 00:32:41,220
+that can be made for people
+who may only be able to use their arms.
+
+559
+00:32:41,879 --> 00:32:43,140
+Right. Yes.
+
+560
+00:32:43,919 --> 00:32:44,900
+Michael what do you think?
+
+561
+00:32:45,199 --> 00:32:48,040
+Jenny just said that there is
+stuff like wheelchair basketball
+
+562
+00:32:48,240 --> 00:32:50,130
+where if you can't play basketball
+there is another option.
+
+563
+00:32:50,419 --> 00:32:52,650
+I think there are other options
+in the PGA Tour.
+
+564
+00:32:52,740 --> 00:32:55,880
+But the PGA Tour is the best,
+is the pinnacle,
+
+565
+00:32:56,040 --> 00:32:59,540
+and you have to have certain
+requirements fulfilled to perform.
+
+566
+00:32:59,980 --> 00:33:03,090
+Alright, Michael, you want
+to say to Casey Martin
+
+567
+00:33:03,320 --> 00:33:05,880
+there is such a thing
+as a Special Olympics
+
+568
+00:33:07,260 --> 00:33:08,570
+for those who are disabled.
+
+569
+00:33:09,199 --> 00:33:12,860
+Go play in the golfing version
+of the Special Olympics.
+
+570
+00:33:13,040 --> 00:33:14,840
+That's what you would say Michael?
+-- Yeah.
+
+571
+00:33:15,840 --> 00:33:18,030
+I think that walking is part
+of the sport of golf.
+
+572
+00:33:18,159 --> 00:33:20,590
+And Casey Martin, you know
+if he can't walk the course
+
+573
+00:33:20,760 --> 00:33:22,340
+then I don't think he should
+be able to play in the PGA.
+
+574
+00:33:22,830 --> 00:33:24,110
+Alright, well thank you very much
+
+575
+00:33:24,240 --> 00:33:25,430
+for that exchange.
+
+576
+00:33:26,260 --> 00:33:27,730
+What comes out
+of this exchange
+
+577
+00:33:28,419 --> 00:33:30,980
+that goes back to Aristotle's
+theory of justice?
+
+578
+00:33:33,600 --> 00:33:34,980
+Well, one thing is the question,
+
+579
+00:33:35,320 --> 00:33:37,540
+is walking an essential part of golf?
+
+580
+00:33:38,610 --> 00:33:44,300
+And the very fact that deciding
+whether there is a right
+
+581
+00:33:45,560 --> 00:33:48,070
+for Casey Martin
+that the PGA must respect,
+
+582
+00:33:48,280 --> 00:33:52,860
+seems to depend,
+as Aristotle suggests it must,
+
+583
+00:33:54,100 --> 00:33:58,520
+on debating and
+resolving the question,
+
+584
+00:33:59,510 --> 00:34:02,830
+is walking essential
+to the game of golf?
+
+585
+00:34:03,080 --> 00:34:05,030
+That's one moral of the story.
+
+586
+00:34:06,560 --> 00:34:09,260
+But there's a second moral
+to the story
+
+587
+00:34:09,440 --> 00:34:11,300
+from an Aristotelian point of view.
+
+588
+00:34:12,470 --> 00:34:15,620
+What's at stake here,
+this is the second Aristotelian
+
+589
+00:34:17,660 --> 00:34:19,730
+stake in this debate,
+
+590
+00:34:20,220 --> 00:34:21,790
+is honor.
+
+591
+00:34:22,680 --> 00:34:26,660
+Casey Martin wants the accommodation
+so that he can compete
+
+592
+00:34:27,779 --> 00:34:28,910
+for the honor
+
+593
+00:34:30,440 --> 00:34:32,060
+of winning the best tournaments.
+
+594
+00:34:33,130 --> 00:34:34,780
+Now, why is it
+
+595
+00:34:36,190 --> 00:34:38,890
+that the professional golfers,
+the great golfers,
+
+596
+00:34:39,000 --> 00:34:42,540
+testified in this case -
+Jack Nicklaus, Tom Kite -
+
+597
+00:34:43,890 --> 00:34:44,860
+in the readings,
+
+598
+00:34:45,430 --> 00:34:47,100
+against letting him use a cart
+
+599
+00:34:47,440 --> 00:34:50,500
+and they, I would suspect,
+would be equally vehement, Jenny,
+
+600
+00:34:51,940 --> 00:34:56,020
+in opposing your suggestion
+of letting everyone ride in a cart,
+
+601
+00:34:56,670 --> 00:34:59,310
+and this goes back, in a way,
+to Da's point.
+
+602
+00:35:03,120 --> 00:35:05,860
+How to put this gently?
+
+603
+00:35:06,440 --> 00:35:11,170
+Professional golfers are sensitive
+
+604
+00:35:12,180 --> 00:35:15,180
+about whether their
+sport is really a sport.
+
+605
+00:35:18,770 --> 00:35:21,100
+Because if everyone rode
+around in a cart, or could,
+
+606
+00:35:23,020 --> 00:35:25,400
+then it would become clear,
+
+607
+00:35:26,370 --> 00:35:28,330
+or clearer, depending
+on your point of view,
+
+608
+00:35:28,560 --> 00:35:31,570
+that golf is not really
+an athletic competition
+
+609
+00:35:31,799 --> 00:35:32,700
+but rather a game;
+
+610
+00:35:32,920 --> 00:35:35,280
+a game of skill
+but not a sport.
+
+611
+00:35:39,240 --> 00:35:42,300
+And so not only the question
+of debating the purpose,
+
+612
+00:35:43,660 --> 00:35:45,130
+the teleological feature,
+
+613
+00:35:47,130 --> 00:35:51,310
+but also from the standpoint of viewing
+debates about the purpose of golf.
+
+614
+00:35:51,520 --> 00:35:52,660
+What's essential to golf?
+
+615
+00:35:52,960 --> 00:35:55,500
+Those debates,
+Aristotle suggests,
+
+616
+00:35:56,120 --> 00:36:00,660
+inevitably are also debates
+about the allocation of honor.
+
+617
+00:36:02,000 --> 00:36:04,380
+Because part of
+the purpose of golf
+
+618
+00:36:05,339 --> 00:36:07,510
+is not just to
+amuse spectators;
+
+619
+00:36:09,160 --> 00:36:10,550
+Scalia's wrong about that,
+
+620
+00:36:12,580 --> 00:36:13,780
+from Aristotle's point of view.
+
+621
+00:36:14,350 --> 00:36:16,000
+It's not just to
+provide entertainment,
+
+622
+00:36:16,160 --> 00:36:17,740
+it's not just to make people happy.
+
+623
+00:36:18,430 --> 00:36:20,190
+It's not a mere amusement.
+
+624
+00:36:21,040 --> 00:36:22,790
+It's honoring,
+it's rewarding,
+
+625
+00:36:22,920 --> 00:36:26,420
+it's recognizing a certain
+kind of athletic excellence,
+
+626
+00:36:26,720 --> 00:36:30,180
+at least those who have
+achieved the highest honors
+
+627
+00:36:30,549 --> 00:36:35,140
+have a powerful stake
+in maintaining that view.
+
+628
+00:36:36,040 --> 00:36:40,220
+Now, some of you took
+the position the Scalia position.
+
+629
+00:36:41,100 --> 00:36:44,820
+"This is an incredibly difficult
+and silly question", Scalia said.
+
+630
+00:36:46,120 --> 00:36:47,460
+"What is the essential nature of golf?"
+
+631
+00:36:47,600 --> 00:36:50,800
+It's not the kind of thing that
+the United States Supreme Court
+
+632
+00:36:50,920 --> 00:36:53,820
+is equipped to decide,
+or should decide.
+
+633
+00:36:55,310 --> 00:36:56,600
+That's Scalia.
+
+634
+00:36:58,839 --> 00:37:00,410
+But he only he says that
+
+635
+00:37:01,430 --> 00:37:04,940
+because he takes a very strong,
+and as it happens,
+
+636
+00:37:05,160 --> 00:37:07,570
+anti-Aristotelian position
+
+637
+00:37:08,920 --> 00:37:10,100
+on what a game is.
+
+638
+00:37:11,509 --> 00:37:13,080
+"It is the very nature of a game
+
+639
+00:37:13,200 --> 00:37:16,580
+to have no object,"
+no point,
+
+640
+00:37:16,680 --> 00:37:20,340
+"except amusement"
+says Scalia,
+
+641
+00:37:20,630 --> 00:37:24,290
+"That is what distinguishes games"
+he says, "From productive activity."
+
+642
+00:37:25,640 --> 00:37:28,700
+You can just imagine what kind
+of sports fan Scalia must be.
+
+643
+00:37:30,140 --> 00:37:34,170
+"And so", he says, "It's impossible to say
+that any of the game's arbitrary rules
+
+644
+00:37:35,150 --> 00:37:36,380
+is essential."
+
+645
+00:37:38,759 --> 00:37:42,370
+And then he quotes Mark Twain's
+disparaging remark
+
+646
+00:37:42,560 --> 00:37:43,860
+about golf.
+
+647
+00:37:44,160 --> 00:37:47,380
+He says, "Many consider walking
+to be the central feature of golf.
+
+648
+00:37:47,799 --> 00:37:50,800
+Hence, Mark Twain's
+classic criticism of the sport
+
+649
+00:37:51,200 --> 00:37:53,470
+'a good walk spoiled'."
+
+650
+00:37:58,710 --> 00:38:01,070
+But Scalia misses
+
+651
+00:38:03,359 --> 00:38:05,850
+an important feature of games
+
+652
+00:38:07,200 --> 00:38:09,340
+and the arguments
+about rights and fairness
+
+653
+00:38:09,640 --> 00:38:11,300
+that arise from games,
+
+654
+00:38:12,430 --> 00:38:18,130
+when he casts games,
+sports, athletic competitions,
+
+655
+00:38:18,359 --> 00:38:21,020
+as solely for the
+sake of amusement;
+
+656
+00:38:23,710 --> 00:38:26,740
+as solely an utilitarian activity.
+
+657
+00:38:27,080 --> 00:38:28,940
+But an Aristotelian
+view of sports says,
+
+658
+00:38:29,040 --> 00:38:31,630
+no it's not just about amusement,
+
+659
+00:38:32,750 --> 00:38:34,620
+real sports,
+real athletic events,
+
+660
+00:38:34,839 --> 00:38:38,560
+are also about appreciation,
+not just amusement.
+
+661
+00:38:40,140 --> 00:38:42,680
+And people who follow sports
+and care about sports
+
+662
+00:38:42,839 --> 00:38:44,780
+and play sports
+know this.
+
+663
+00:38:46,339 --> 00:38:47,680
+Which is another way of saying,
+
+664
+00:38:48,279 --> 00:38:51,740
+there's a difference between
+a sport and a mere spectacle.
+
+665
+00:38:52,319 --> 00:38:55,610
+And the difference is
+that a sport is a practice
+
+666
+00:38:56,910 --> 00:38:59,920
+that calls forth
+and honors and prizes
+
+667
+00:39:00,440 --> 00:39:03,420
+certain excellences,
+certain virtues.
+
+668
+00:39:03,720 --> 00:39:07,130
+And the people who
+appreciate those virtues
+
+669
+00:39:08,670 --> 00:39:11,980
+are the true fans,
+the informed fans,
+
+670
+00:39:12,560 --> 00:39:15,220
+and for them watching the sport
+is not mere amusement.
+
+671
+00:39:15,480 --> 00:39:19,850
+But that means that it's always
+possible to make sense
+
+672
+00:39:20,000 --> 00:39:21,500
+of the debate about
+
+673
+00:39:23,400 --> 00:39:27,140
+what feature of a sport
+is essential to it.
+
+674
+00:39:27,279 --> 00:39:28,920
+We can make sense
+of these arguments.
+
+675
+00:39:29,120 --> 00:39:31,100
+Never mind the question whether
+the court should decide.
+
+676
+00:39:32,600 --> 00:39:35,180
+The PGA in its own
+internal deliberations
+
+677
+00:39:35,400 --> 00:39:37,280
+can make sense
+of that debate,
+
+678
+00:39:37,680 --> 00:39:39,600
+which is why they
+cared very much
+
+679
+00:39:41,190 --> 00:39:43,740
+about their view,
+insisting on their view,
+
+680
+00:39:44,040 --> 00:39:47,020
+that walking,
+an exertion, and fatigue
+
+681
+00:39:47,240 --> 00:39:50,940
+are essential, not peripheral,
+parts of sport.
+
+682
+00:39:52,799 --> 00:39:55,540
+Well, this is all to illustrate
+
+683
+00:39:57,730 --> 00:40:01,460
+the teleological and
+the honorific feature
+
+684
+00:40:01,680 --> 00:40:03,380
+of debates about rights,
+
+685
+00:40:04,160 --> 00:40:07,420
+which Aristotle says
+we need to take account of
+
+686
+00:40:07,970 --> 00:40:09,360
+in thinking about justice.
+
+687
+00:40:11,549 --> 00:40:15,260
+Now, I want to begin
+for us to consider
+
+688
+00:40:16,540 --> 00:40:18,110
+whether Aristotle's theory of justice
+
+689
+00:40:19,040 --> 00:40:20,270
+is right or wrong;
+
+690
+00:40:20,380 --> 00:40:22,190
+whether it's persuasive
+or unpersuasive.
+
+691
+00:40:22,799 --> 00:40:24,580
+I want to get your
+thoughts about that.
+
+692
+00:40:27,109 --> 00:40:32,260
+But I want to anticipate one obvious
+and important objection.
+
+693
+00:40:33,700 --> 00:40:37,740
+If justice is about fit,
+fitting persons to roles,
+
+694
+00:40:41,509 --> 00:40:42,860
+matching virtues
+
+695
+00:40:43,549 --> 00:40:45,740
+to the appropriate honors
+and recognition.
+
+696
+00:40:46,120 --> 00:40:47,860
+If that's what justice is,
+
+697
+00:40:48,430 --> 00:40:50,890
+does it leave room for freedom?
+
+698
+00:40:51,520 --> 00:40:53,820
+And this is one of the
+main objections
+
+699
+00:40:54,180 --> 00:40:58,260
+to Aristotle's teleological
+account of justice.
+
+700
+00:41:00,120 --> 00:41:02,140
+If certain roles,
+social roles,
+
+701
+00:41:02,400 --> 00:41:04,780
+are fitting,
+or appropriate, to me
+
+702
+00:41:06,509 --> 00:41:08,420
+where does that leave my right
+
+703
+00:41:10,140 --> 00:41:12,420
+to choose my social roles,
+
+704
+00:41:13,299 --> 00:41:16,180
+my life purposes,
+for myself?
+
+705
+00:41:18,160 --> 00:41:21,220
+What room does teleology
+leave for freedom?
+
+706
+00:41:21,420 --> 00:41:23,540
+And in fact,
+you may remember,
+
+707
+00:41:24,319 --> 00:41:28,580
+Rawls rejects teleological
+accounts of justice
+
+708
+00:41:30,100 --> 00:41:32,060
+because he says that
+
+709
+00:41:34,140 --> 00:41:36,600
+teleological theories of justice
+
+710
+00:41:39,160 --> 00:41:40,370
+threaten
+
+711
+00:41:42,560 --> 00:41:44,920
+the equal basic rights of citizens.
+
+712
+00:41:46,500 --> 00:41:49,140
+So, let's begin to examine
+
+713
+00:41:53,740 --> 00:41:56,150
+whether Aristotle is right,
+and in particular,
+
+714
+00:41:57,240 --> 00:42:00,270
+whether his teleological way
+of thinking about justice
+
+715
+00:42:00,520 --> 00:42:02,260
+is at odds with freedom.
+
+716
+00:42:03,580 --> 00:42:08,910
+Now, one obvious reason to worry
+
+717
+00:42:11,640 --> 00:42:13,860
+is Aristotle's defense of slavery.
+
+718
+00:42:15,890 --> 00:42:18,110
+He defends slavery,
+
+719
+00:42:19,759 --> 00:42:23,680
+which existed as an institution
+in the Athens of his day.
+
+720
+00:42:25,270 --> 00:42:27,030
+Well, what is his defense of slavery?
+
+721
+00:42:30,990 --> 00:42:35,040
+Two things, two conditions,
+have to be met
+
+722
+00:42:35,870 --> 00:42:37,210
+for slavery to be just.
+
+723
+00:42:38,799 --> 00:42:41,420
+First, it has to be necessary.
+
+724
+00:42:42,740 --> 00:42:45,020
+and Aristotle says,
+at least in our society,
+
+725
+00:42:45,200 --> 00:42:47,020
+slavery is necessary.
+
+726
+00:42:49,120 --> 00:42:50,340
+Why is it necessary?
+
+727
+00:42:51,569 --> 00:42:53,340
+If there are to be citizens
+
+728
+00:42:55,390 --> 00:42:59,130
+who are freed from manual
+and menial and household chores
+
+729
+00:43:00,109 --> 00:43:03,260
+to go to the assembly,
+to deliberate about politics,
+
+730
+00:43:06,380 --> 00:43:09,540
+there have to be some who
+look after those menial tasks;
+
+731
+00:43:10,089 --> 00:43:11,660
+the mere necessities of life.
+
+732
+00:43:13,200 --> 00:43:17,020
+He says, unless you could invent
+in some science-fiction
+
+733
+00:43:19,339 --> 00:43:20,740
+a technological fix
+
+734
+00:43:23,150 --> 00:43:25,690
+then there are going to be
+those who have to do
+
+735
+00:43:26,810 --> 00:43:28,980
+the hard and difficult
+and menial labor
+
+736
+00:43:29,160 --> 00:43:31,580
+if there are going to be citizens
+deliberating about the good
+
+737
+00:43:32,200 --> 00:43:33,870
+and realizing their nature.
+
+738
+00:43:34,670 --> 00:43:36,620
+So slavery is necessary
+
+739
+00:43:37,730 --> 00:43:38,940
+for the life of the polis
+
+740
+00:43:39,040 --> 00:43:41,390
+for there to be open to citizens.
+
+741
+00:43:44,779 --> 00:43:46,350
+The life of deliberation,
+of argument,
+
+742
+00:43:46,560 --> 00:43:47,700
+of practical wisdom.
+
+743
+00:43:47,960 --> 00:43:49,940
+But there's a further condition
+that has to be met.
+
+744
+00:43:51,629 --> 00:43:55,700
+Slavery has not only to be necessary
+for the community as a whole to function,
+
+745
+00:43:58,940 --> 00:44:03,420
+but it also has to be the case,
+remember the criterion of fit?
+
+746
+00:44:04,040 --> 00:44:06,290
+It also has to be the case
+that there are some people
+
+747
+00:44:06,440 --> 00:44:09,580
+for whom being a slave
+is the just, or the fitting,
+
+748
+00:44:09,839 --> 00:44:11,300
+or the appropriate condition.
+
+749
+00:44:13,540 --> 00:44:17,580
+Now, Aristotle agrees
+that by his own standards,
+
+750
+00:44:17,759 --> 00:44:20,140
+both of those conditions
+must be met, must be true,
+
+751
+00:44:20,440 --> 00:44:21,900
+if slavery is to be just.
+
+752
+00:44:23,759 --> 00:44:26,400
+And then,
+in a deplorable passage,
+
+753
+00:44:27,319 --> 00:44:29,090
+he says, well, it is true
+
+754
+00:44:29,500 --> 00:44:31,260
+that there are some people
+who are fit by nature
+
+755
+00:44:31,359 --> 00:44:33,450
+who are cut out to be slaves.
+
+756
+00:44:35,040 --> 00:44:37,620
+These are people who differ
+from ordinary people
+
+757
+00:44:38,730 --> 00:44:41,950
+in the same way that the
+body differs from the soul.
+
+758
+00:44:42,040 --> 00:44:43,580
+These are people who
+are meant to be ruled,
+
+759
+00:44:43,799 --> 00:44:45,020
+and for them
+
+760
+00:44:46,220 --> 00:44:48,860
+their nature is best realized
+if they're slaves.
+
+761
+00:44:49,359 --> 00:44:51,460
+They can recognize reason in others
+
+762
+00:44:52,940 --> 00:44:57,650
+but they can't partake of it,
+they can't exercise it.
+
+763
+00:44:58,759 --> 00:44:59,820
+And somehow we can know this.
+
+764
+00:45:02,339 --> 00:45:06,020
+Now, Aristotle must have known
+that there was something dodgy,
+
+765
+00:45:06,310 --> 00:45:09,780
+something strained
+about this claim,
+
+766
+00:45:12,839 --> 00:45:17,260
+because he quickly acknowledges
+that those who disagree may have a point.
+
+767
+00:45:19,400 --> 00:45:21,340
+And what those who
+disagree point out is
+
+768
+00:45:21,490 --> 00:45:24,130
+that there are a lot
+of people in Athens
+
+769
+00:45:24,279 --> 00:45:25,510
+who are slaves
+
+770
+00:45:26,640 --> 00:45:29,390
+not because they
+were born to be slaves,
+
+771
+00:45:30,319 --> 00:45:31,100
+or fit to be slaves,
+
+772
+00:45:31,480 --> 00:45:34,180
+but because they were captured,
+they were losers in a war.
+
+773
+00:45:36,609 --> 00:45:39,860
+And so, Aristotle admits that
+as practiced in ancient Athens,
+
+774
+00:45:41,549 --> 00:45:45,940
+slavery didn't necessarily line up
+with who actually is fit
+
+775
+00:45:46,200 --> 00:45:47,560
+or born to be a slave,
+
+776
+00:45:48,640 --> 00:45:52,080
+because some actual slaves
+just were slaves by bad luck,
+
+777
+00:45:52,440 --> 00:45:54,020
+by being captured in a war.
+
+778
+00:45:54,930 --> 00:45:56,180
+And on Aristotle's own account
+
+779
+00:45:56,400 --> 00:46:00,340
+even if it's necessary to have slavery
+for the sake of citizenship
+
+780
+00:46:01,200 --> 00:46:04,420
+it's unjust if people
+who aren't properly slaves
+
+781
+00:46:04,640 --> 00:46:06,140
+are cast in that role.
+
+782
+00:46:06,480 --> 00:46:07,900
+There is a misfit.
+
+783
+00:46:09,890 --> 00:46:12,820
+Aristotle recognizes that slavery
+for those who aren't fit for the task
+
+784
+00:46:13,080 --> 00:46:14,420
+is a kind of coercion.
+
+785
+00:46:14,799 --> 00:46:18,390
+The reason slavery is wrong
+is not because it's coerced.
+
+786
+00:46:18,850 --> 00:46:20,780
+Coercion is an indicator
+that it's wrong,
+
+787
+00:46:21,750 --> 00:46:22,780
+because it's not natural.
+
+788
+00:46:23,560 --> 00:46:25,130
+If you have to coerce
+someone into a role
+
+789
+00:46:25,560 --> 00:46:28,860
+that's a pretty good indication
+that they don't belong there,
+
+790
+00:46:29,120 --> 00:46:30,780
+that that role isn't fitting for them.
+
+791
+00:46:32,330 --> 00:46:33,740
+And Aristotle recognized this.
+
+792
+00:46:35,859 --> 00:46:38,100
+So, all of this is to say
+the example of slavery,
+
+793
+00:46:38,400 --> 00:46:39,470
+Aristotle's defense of it,
+
+794
+00:46:39,680 --> 00:46:42,810
+doesn't show that there isn't
+anything wrong in principle
+
+795
+00:46:43,200 --> 00:46:46,630
+with teleological argument,
+with the idea of justice as fit
+
+796
+00:46:47,040 --> 00:46:48,480
+between persons and roles,
+
+797
+00:46:49,160 --> 00:46:51,880
+because it's perfectly possible
+within Aristotle's own terms,
+
+798
+00:46:54,120 --> 00:46:57,940
+to explain what's wrong
+with this application,
+
+799
+00:46:58,560 --> 00:46:59,540
+this practical application
+
+800
+00:46:59,870 --> 00:47:01,730
+that he made of his theory.
+
+801
+00:47:03,680 --> 00:47:07,580
+I want to turn to the larger challenge
+to Aristotle in the name of freedom.
+
+802
+00:47:07,680 --> 00:47:09,350
+But before I do that
+
+803
+00:47:10,259 --> 00:47:12,070
+I want to see what people think
+
+804
+00:47:12,960 --> 00:47:15,620
+of Aristotle's account
+of justice as fit,
+
+805
+00:47:17,180 --> 00:47:20,110
+his teleological way of
+reasoning about justice
+
+806
+00:47:20,400 --> 00:47:24,060
+and the honorific
+dimension of rights
+
+807
+00:47:24,400 --> 00:47:25,740
+and of distributive justice
+
+808
+00:47:26,020 --> 00:47:31,230
+that immerged in our discussion
+of flutes and politics and golf.
+
+809
+00:47:31,879 --> 00:47:34,580
+Questions of clarification
+about Aristotle
+
+810
+00:47:35,319 --> 00:47:40,700
+or objections to his overall account.
+
+811
+00:47:42,129 --> 00:47:43,380
+Yes.
+
+812
+00:47:43,859 --> 00:47:45,900
+My objection to Aristotle
+
+813
+00:47:46,000 --> 00:47:48,960
+is that he wants to match
+a person to a role.
+
+814
+00:47:49,240 --> 00:47:51,660
+And, you know, if you walk like
+a pirate and you talk like a pirate,
+
+815
+00:47:51,930 --> 00:47:55,410
+you know, you should be a pirate.
+And that is what is right.
+
+816
+00:47:55,839 --> 00:48:01,180
+And so what's strange
+and seems paradoxical to me
+
+817
+00:48:01,279 --> 00:48:03,160
+about Aristotle's view point
+
+818
+00:48:03,279 --> 00:48:06,860
+is that if you walk like a pirate
+and you talk like a pirate
+
+819
+00:48:07,240 --> 00:48:08,740
+you shouldn't be
+an investment banker,
+
+820
+00:48:09,400 --> 00:48:13,330
+because that's not what you're
+inherently supposed to do.
+
+821
+00:48:13,520 --> 00:48:15,290
+If you have a peg leg
+and an eye patch
+
+822
+00:48:15,520 --> 00:48:18,220
+and a disgruntled disposition,
+you know,
+
+823
+00:48:18,480 --> 00:48:20,820
+you should be on a pirate ship
+on the high seas.
+
+824
+00:48:21,160 --> 00:48:23,740
+So he doesn't...
+
+
+825
+00:48:24,120 --> 00:48:25,700
+Some would say
+
+826
+00:48:26,299 --> 00:48:28,600
+that the distinction
+between the two vocations
+
+827
+00:48:28,759 --> 00:48:30,180
+is not as clear as you suggest.
+
+828
+00:48:34,379 --> 00:48:35,020
+Alright, but that's
+good.
+
+829
+00:48:35,279 --> 00:48:36,110
+I take your point.
+
+830
+00:48:36,420 --> 00:48:37,940
+Yes, go ahead.
+
+831
+00:48:38,359 --> 00:48:40,260
+It just seems to ignore
+individual rights.
+
+832
+00:48:40,799 --> 00:48:44,880
+So, I might be the perfect
+janitor in the whole world
+
+833
+00:48:45,040 --> 00:48:47,220
+and I can do that job
+the most efficiently
+
+834
+00:48:47,520 --> 00:48:49,380
+out of anybody
+that exists right now,
+
+835
+00:48:49,600 --> 00:48:50,860
+but I might not
+want to do that.
+
+836
+00:48:51,359 --> 00:48:54,500
+I might want to do any
+other number of pursuits
+
+837
+00:48:54,859 --> 00:48:57,940
+and it seems to say that
+that isn't really a good option for me.
+
+838
+00:48:58,319 --> 00:49:00,560
+Alright,
+and what's your name?
+
+839
+00:49:00,879 --> 00:49:02,230
+-- Mary-Kate.
+-- Good.
+
+840
+00:49:02,960 --> 00:49:04,580
+Alright, let's take a couple more.
+
+841
+00:49:05,120 --> 00:49:06,400
+Yes.
+
+842
+00:49:06,720 --> 00:49:09,900
+I think that the
+golf cart exchange
+
+843
+00:49:10,430 --> 00:49:13,390
+sort of brought up what
+I see as my main objection
+
+844
+00:49:13,560 --> 00:49:16,900
+to this teleological
+mode of reasoning.
+
+845
+00:49:17,160 --> 00:49:20,310
+I mean, Michael,
+I think that's your name, right?
+
+846
+00:49:21,080 --> 00:49:24,580
+Believes that walking is
+an inherent part of golf.
+
+847
+00:49:25,730 --> 00:49:29,260
+Myself, I believe that walking
+is not an inherent part of golf.
+
+848
+00:49:30,250 --> 00:49:32,620
+And I feel that
+no matter how long
+
+849
+00:49:33,259 --> 00:49:36,240
+we debate this particular
+point of contention
+
+850
+00:49:37,020 --> 00:49:38,280
+we're never going
+to reach an accord.
+
+851
+00:49:38,520 --> 00:49:42,140
+The teleological framework of reasoning,
+I believe,
+
+852
+00:49:42,279 --> 00:49:46,450
+doesn't really allow us to come
+to any sort of agreement.
+
+853
+00:49:47,160 --> 00:49:48,440
+Alright,
+and what's your name?
+
+854
+00:49:48,680 --> 00:49:49,940
+-- Patrick.
+-- Patrick.
+
+855
+00:49:50,319 --> 00:49:55,050
+Alright, let me try to address
+this set of objections to Aristotle.
+
+856
+00:49:56,900 --> 00:49:58,580
+Let me start with Patrick's;
+
+857
+00:50:00,350 --> 00:50:01,370
+it's an important objection.
+
+858
+00:50:02,980 --> 00:50:06,220
+We had a debate about whether
+walking is essential to golf,
+
+859
+00:50:06,520 --> 00:50:10,780
+and even in so seemingly trivial,
+or at least contained, a case as that,
+
+860
+00:50:11,160 --> 00:50:12,370
+we couldn't agree.
+
+861
+00:50:12,920 --> 00:50:14,930
+How can we possibly
+hope to agree?
+
+862
+00:50:16,589 --> 00:50:17,900
+When the stakes are higher
+
+863
+00:50:18,200 --> 00:50:20,700
+and when we're debating the
+fundamental purposes, or ends,
+
+864
+00:50:21,120 --> 00:50:22,320
+of political community.
+
+865
+00:50:24,120 --> 00:50:25,500
+And so, if we can't agree
+
+866
+00:50:26,620 --> 00:50:28,720
+in what the ends or the goods
+
+867
+00:50:29,839 --> 00:50:32,380
+of our shared public life consist in,
+
+868
+00:50:33,310 --> 00:50:35,900
+how can we base
+justice and rights
+
+869
+00:50:36,890 --> 00:50:38,940
+on some notion
+of what the end,
+
+870
+00:50:39,220 --> 00:50:41,920
+or the purpose,
+or the good consists in?
+
+871
+00:50:43,399 --> 00:50:44,580
+That's an important objection.
+
+872
+00:50:45,589 --> 00:50:51,000
+So much so that much modern
+political theory takes that worry
+
+873
+00:50:51,120 --> 00:50:53,860
+about disagreement over the good
+as its starting point,
+
+874
+00:50:54,399 --> 00:51:04,900
+and concludes that justice
+and rights and constitutions
+
+875
+00:51:05,120 --> 00:51:08,140
+should not be based on any
+particular conception of the good
+
+876
+00:51:08,359 --> 00:51:10,940
+or the purposes of political life,
+
+877
+00:51:12,420 --> 00:51:14,980
+but should, instead,
+provide a framework of rights
+
+878
+00:51:15,259 --> 00:51:18,900
+that leaves people free to choose
+their conceptions of the good,
+
+879
+00:51:19,370 --> 00:51:21,860
+their own conceptions
+of the purposes of life.
+
+880
+00:51:22,480 --> 00:51:28,940
+Now, Mary-Kate said, "What if a person is
+very well suited to having a certain role,
+
+881
+00:51:29,160 --> 00:51:30,660
+like the role of being a janitor,
+
+882
+00:51:31,490 --> 00:51:33,770
+but wants something else,
+wants to reach higher,
+
+883
+00:51:34,040 --> 00:51:35,540
+wants to choose another way of life?"
+
+884
+00:51:37,390 --> 00:51:39,430
+So, that goes back to
+this question about freedom.
+
+885
+00:51:40,660 --> 00:51:42,700
+If we take our bearing as persons
+
+886
+00:51:44,000 --> 00:51:46,770
+from roles that are
+said to fit our nature,
+
+887
+00:51:48,649 --> 00:51:51,790
+shouldn't it at least be up to us
+to decide what those roles are?
+
+888
+00:51:53,799 --> 00:51:58,430
+In fact, shouldn't it be up to us to
+define what roles are suitable to us?
+
+889
+00:51:59,240 --> 00:52:00,620
+And that's going to take us back
+
+890
+00:52:01,160 --> 00:52:03,490
+to the confrontation between
+Aristotle on the one hand
+
+891
+00:52:03,640 --> 00:52:05,140
+and Kant and Rawls on the other.
+
+892
+00:52:06,990 --> 00:52:10,020
+Kant and Rawls think
+Patrick has a point.
+
+893
+00:52:10,930 --> 00:52:14,310
+They say precisely
+because people disagree
+
+894
+00:52:14,879 --> 00:52:16,140
+in pluralist societies
+
+895
+00:52:17,750 --> 00:52:19,220
+about the nature
+of the good life,
+
+896
+00:52:20,620 --> 00:52:24,180
+we shouldn't try to base justice on
+any particular answer to that question.
+
+897
+00:52:25,509 --> 00:52:27,060
+So they reject teleology,
+
+898
+00:52:27,990 --> 00:52:31,860
+they reject the idea of tying justice
+to some conception of the good.
+
+899
+00:52:33,210 --> 00:52:35,090
+What's at stake in the
+debate about teleology,
+
+900
+00:52:35,640 --> 00:52:38,240
+say Rawlsian and Kantian liberals,
+
+901
+00:52:38,600 --> 00:52:39,780
+is this;
+
+902
+00:52:40,660 --> 00:52:43,780
+if you tie justice to a particular
+conception of the good,
+
+903
+00:52:44,290 --> 00:52:48,620
+if you see justice as a matter of fit
+between a person and his or her roles,
+
+904
+00:52:49,720 --> 00:52:51,240
+you don't leave room for freedom,
+
+905
+00:52:51,710 --> 00:52:55,980
+and to be free is to
+be independent of
+
+906
+00:52:56,359 --> 00:53:00,100
+any particular roles,
+or traditions,
+
+907
+00:53:01,220 --> 00:53:04,700
+or conventions that may be
+handed down by my parents
+
+908
+00:53:05,560 --> 00:53:07,200
+or my society.
+
+909
+00:53:07,799 --> 00:53:11,780
+So, in order to decide as between
+these two broad traditions,
+
+910
+00:53:12,279 --> 00:53:15,460
+whether Aristotle is right,
+or whether Kant and Rawls are right,
+
+911
+00:53:16,040 --> 00:53:20,080
+we need to investigate whether
+the right is prior to the good,
+
+912
+00:53:20,180 --> 00:53:21,380
+question one,
+
+913
+00:53:21,700 --> 00:53:26,100
+and we need to investigate what
+it means to be a free person,
+
+914
+00:53:26,520 --> 00:53:27,920
+a free moral agent.
+
+915
+00:53:28,799 --> 00:53:32,700
+Does freedom require that
+I stand for toward my roles,
+
+916
+00:53:32,879 --> 00:53:36,120
+my ends, and my purposes
+as an agent of choice?
+
+917
+00:53:37,480 --> 00:53:42,110
+Or as someone trying to discover
+what my nature really is?
+
+918
+00:53:42,680 --> 00:53:46,620
+Two big questions
+and we'll take them up next time.
+

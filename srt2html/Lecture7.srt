@@ -1,0 +1,3035 @@
+0
+00:00:00,100 --> 00:00:03,000
+Captions proofread by @xiaolai, www.lixiaolai.com
+
+1
+00:00:01,520 --> 00:00:05,390
+Funding for this program is provided by
+
+2
+00:00:07,370 --> 00:00:09,020
+Additional funding provided by
+
+3
+00:00:29,259 --> 00:00:34,960
+Last time we began trying to
+we began by trying to navigate
+
+4
+00:00:35,160 --> 00:00:38,250
+our way through Kant's moral theory.
+
+5
+00:00:40,000 --> 00:00:46,740
+Now, fully to make sense of Kant
+moral theory in the groundwork
+
+6
+00:00:48,640 --> 00:00:53,840
+requires that we be able to answer
+three questions.
+
+7
+00:00:55,250 --> 00:00:58,860
+How can duty and autonomy go together?
+
+8
+00:00:59,220 --> 00:01:03,060
+What's the great dignity
+in answering to duty?
+
+9
+00:01:07,119 --> 00:01:10,140
+It would seem that these two ideas
+are opposed duty and autonomy.
+
+10
+00:01:10,970 --> 00:01:12,310
+What's Kant's answer to that?
+
+11
+00:01:13,140 --> 00:01:15,550
+Need someone here to speak up
+on Kant's behalf.
+
+12
+00:01:16,490 --> 00:01:17,820
+Does he have an answer?
+
+13
+00:01:22,360 --> 00:01:24,430
+Yes, go ahead, stand up.
+
+14
+00:01:25,259 --> 00:01:29,470
+Kant believes you the only act
+autonomously when you are pursuing
+
+15
+00:01:30,119 --> 00:01:32,900
+something only the name of duty and
+not because of your own circumstances
+
+16
+00:01:33,130 --> 00:01:37,820
+such as 每 like you're only doing
+something good and moral
+
+17
+00:01:38,039 --> 00:01:40,240
+if you're doing it because of duty
+and not because something
+
+18
+00:01:40,440 --> 00:01:41,670
+of your own personal gain.
+
+19
+00:01:41,770 --> 00:01:43,340
+Now why is that acting＃
+what's your name?
+
+20
+00:01:43,649 --> 00:01:44,670
+My name is Matt.
+
+21
+00:01:44,880 --> 00:01:48,140
+Matt, why is that acting on a freedom?
+I hear what you're saying about duty?
+
+22
+00:01:48,360 --> 00:01:50,210
+Because you choose to accept those
+moral laws in yourself
+
+23
+00:01:50,399 --> 00:01:52,510
+and not brought on
+from outside upon onto you.
+
+24
+00:01:52,899 --> 00:01:55,310
+Okay, good.
+Because acting out of duty 每
+
+25
+00:01:55,780 --> 00:01:58,550
+Yeah.
+- is following a moral law
+
+26
+00:01:58,880 --> 00:02:00,710
+That you impose on yourself.
+
+27
+00:02:00,820 --> 00:02:03,360
+That you impose on yourself.
+That's what makes duty
+
+28
+00:02:03,559 --> 00:02:05,520
+compatible with freedom.
+- Yeah.
+
+29
+00:02:05,759 --> 00:02:08,920
+Okay, that's good Matt.
+That is Kant's answer. That's great.
+
+30
+00:02:09,239 --> 00:02:17,430
+Thank you. So, Kant's answer is
+it is not in so far as I am subject
+
+31
+00:02:17,640 --> 00:02:21,640
+to the law that I have dignity
+but rather in so far as with regard
+
+32
+00:02:21,840 --> 00:02:27,260
+to that very same law,
+I'm the author and I am subordinated
+
+33
+00:02:27,489 --> 00:02:34,340
+to that law on that ground that I took
+it as much as at I took it upon myself.
+
+34
+00:02:35,010 --> 00:02:40,020
+I willed that law.
+So that's why for Kant acting according
+
+35
+00:02:40,260 --> 00:02:46,020
+to duty and acting freely in the sense
+of autonomously are one and the same.
+
+36
+00:02:46,239 --> 00:02:50,140
+But that raises the question,
+how many moral laws are there?
+
+37
+00:02:52,239 --> 00:02:56,980
+Because if dignity consists and be
+governed by a law that I give myself,
+
+38
+00:02:57,530 --> 00:03:02,370
+what's to guarantee that
+my conscience will be
+
+39
+00:03:02,519 --> 00:03:09,380
+the same as your conscience?
+Who has Kant's answer to that? Yes?
+
+40
+00:03:09,730 --> 00:03:14,670
+Because a moral law trend is not
+contingent upon seductive conditions.
+
+41
+00:03:15,000 --> 00:03:18,020
+It would transcend all particular
+differences between people
+
+42
+00:03:18,720 --> 00:03:22,920
+and so would be a universal law
+and in this respect there'd only be
+
+43
+00:03:23,049 --> 00:03:24,720
+one moral law
+because it would be supreme.
+
+44
+00:03:24,880 --> 00:03:26,580
+Right. That's exactly right.
+What's your name?
+
+45
+00:03:26,810 --> 00:03:27,520
+Kelly.
+
+46
+00:03:27,880 --> 00:03:32,060
+Kelly. So Kelly, Kant believes
+that if we choose freely
+
+47
+00:03:32,280 --> 00:03:38,180
+out of our own consciences,
+the moral law we're guarantee
+
+48
+00:03:38,200 --> 00:03:40,970
+to come up with one
+and the same moral law. -Yes.
+
+49
+00:03:41,200 --> 00:03:47,340
+And that's because when I choose
+it's not me, Michael Sandel choosing.
+
+50
+00:03:47,679 --> 00:03:49,850
+It's not you, Kelly
+choosing for yourself?
+
+51
+00:03:51,079 --> 00:03:53,850
+What is it exactly?
+Who is doing the choosing?
+
+52
+00:03:55,340 --> 00:03:58,790
+Who's the subject? Who is the agent?
+Who is doing the choosing?
+
+53
+00:03:58,890 --> 00:04:01,950
+Reason? - Well reason＃
+Pure reason.
+
+54
+00:04:02,290 --> 00:04:05,190
+Pure reason and what you mean by
+pure reason is what exactly?
+
+55
+00:04:05,890 --> 00:04:10,940
+Well pure reason is like we were
+saying before not subject to any
+
+56
+00:04:11,170 --> 00:04:16,110
+external conditions
+that may be imposed on that side.
+
+57
+00:04:16,340 --> 00:04:19,100
+Good that's' great.
+So, the reason that does the willing,
+
+58
+00:04:19,840 --> 00:04:25,170
+the reason that governs my will
+when I will the moral law
+
+59
+00:04:26,320 --> 00:04:31,940
+is the same reason that operates
+when you choose the moral law
+
+60
+00:04:32,539 --> 00:04:38,320
+for yourself and that's why
+it's possible to act autonomously
+
+61
+00:04:38,520 --> 00:04:43,830
+to choose for myself,
+for each of us to choose for ourselves
+
+62
+00:04:45,260 --> 00:04:51,040
+as autonomous beings and for all of us
+to wind up willing the same moral law,
+
+63
+00:04:52,080 --> 00:04:53,780
+the categorical imperative.
+
+64
+00:04:54,610 --> 00:04:57,860
+But then there is one big
+and very difficult question left even
+
+65
+00:04:58,080 --> 00:05:03,020
+if you accept everything that
+Matt and Kelly had said so far.
+
+66
+00:05:06,050 --> 00:05:10,220
+How is a categorical
+imperative possible?
+
+67
+00:05:10,919 --> 00:05:14,980
+How is morality possible?
+To answer that question,
+
+68
+00:05:15,200 --> 00:05:17,700
+Kant said we need to
+make a distinction.
+
+69
+00:05:17,940 --> 00:05:22,580
+We need to make a distinction
+between two standpoints,
+
+70
+00:05:25,320 --> 00:05:32,470
+two standpoints from which we can
+make sense of our experience.
+
+71
+00:05:33,680 --> 00:05:36,340
+Let me try to explain what he means
+by these two standpoints.
+
+72
+00:05:37,320 --> 00:05:42,470
+As an object of experience,
+I belong to the sensible world.
+
+73
+00:05:43,919 --> 00:05:48,430
+There my actions are determined
+by the laws of nature
+
+74
+00:05:49,240 --> 00:05:51,430
+and by the regularities
+of cause and effect.
+
+75
+00:05:53,320 --> 00:06:00,180
+But as a subject of experience,
+I inhabit an intelligible world here
+
+76
+00:06:00,640 --> 00:06:04,620
+being independent of the laws of nature
+I am capable of autonomy,
+
+77
+00:06:06,039 --> 00:06:08,700
+capable of acting according
+to a law I give myself.
+
+78
+00:06:10,479 --> 00:06:15,540
+Now Kant says that, "Only from this
+second standpoint can I regard myself
+
+79
+00:06:15,760 --> 00:06:19,620
+as free for to be independent
+of determination by causes
+
+80
+00:06:19,960 --> 00:06:23,590
+in the sensible world is to be free."
+
+81
+00:06:25,120 --> 00:06:33,540
+If I were holy and empirical being
+as the utilitarian assume,
+
+82
+00:06:34,840 --> 00:06:43,910
+if I were a being holy and only subject
+to the deliverances of my senses,
+
+83
+00:06:45,370 --> 00:06:48,010
+to pain and pleasure and hunger
+and thirst and appetite,
+
+84
+00:06:48,240 --> 00:06:54,280
+if that's all there were to humanity,
+we wouldn't be capable of freedom,
+
+85
+00:06:56,310 --> 00:07:02,220
+Kant reasons because in that case
+every exercise of will would be
+
+86
+00:07:02,450 --> 00:07:05,560
+conditioned by the desire
+for some object.
+
+87
+00:07:07,489 --> 00:07:12,540
+In that case all choice would be
+heteronomous choice governed
+
+88
+00:07:12,739 --> 00:07:19,010
+by the pursued of some external end.
+"When we think of ourselves as free,"
+
+89
+00:07:19,039 --> 00:07:24,340
+Kant writes, "we transfer ourselves
+into the intelligible world as members
+
+90
+00:07:25,760 --> 00:07:32,240
+and recognize the autonomy of the will."
+That's the idea of the two standpoints.
+
+91
+00:07:34,060 --> 00:07:41,500
+So how are categorical imperatives possible?
+Only because the idea
+
+92
+00:07:41,599 --> 00:07:45,580
+of freedom makes me a member
+of an intelligible world?
+
+93
+00:07:46,080 --> 00:07:51,780
+Now Kant admits we aren't
+only rational beings.
+
+94
+00:07:53,729 --> 00:07:58,780
+We don't only inhabit the intelligible world,
+the realm of freedom.
+
+95
+00:07:59,719 --> 00:08:05,260
+If we did -- if we did,
+then all of our actions
+
+96
+00:08:06,200 --> 00:08:13,660
+would invariably accord with the
+autonomy of the will.
+
+97
+00:08:16,039 --> 00:08:20,260
+But precisely because we inhabit
+simultaneously the two standpoints,
+
+98
+00:08:20,719 --> 00:08:25,900
+the two realms, the realm of freedom
+and the realm of necessity
+
+99
+00:08:30,000 --> 00:08:35,300
+precisely because we inhabit both
+realms there is always potentially a gap
+
+100
+00:08:37,319 --> 00:08:45,270
+between what we do and
+what we ought to do between is and ought.
+
+101
+00:08:46,000 --> 00:08:48,700
+Another way of putting this point
+and this is the point with which
+
+102
+00:08:48,930 --> 00:08:53,740
+Kant concludes the groundwork,
+morality is not empirical.
+
+103
+00:08:54,569 --> 00:08:57,940
+Whatever you see in the world,
+whatever you discover through science
+
+104
+00:09:00,600 --> 00:09:03,610
+can't decide moral questions.
+
+105
+00:09:05,410 --> 00:09:08,080
+Morality stands at a certain distance
+from the world,
+
+106
+00:09:10,319 --> 00:09:11,420
+from the empirical world.
+
+107
+00:09:12,590 --> 00:09:16,330
+And that's why no science
+could deliver moral truth.
+
+108
+00:09:18,709 --> 00:09:23,420
+Now I want to test Kant's moral theory
+with the hardest possible case,
+
+109
+00:09:24,790 --> 00:09:28,900
+a case that he raises,
+the case of the murderer at the door.
+
+110
+00:09:33,439 --> 00:09:35,740
+Kant says that lying is wrong.
+We all know that.
+
+111
+00:09:36,160 --> 00:09:41,860
+We've discussed why. Lying is at
+odds with the categorical imperative.
+
+112
+00:09:46,030 --> 00:09:51,860
+A French Philosopher, Benjamin Constant
+wrote an article responding
+
+113
+00:09:52,079 --> 00:09:58,230
+to the groundwork where he said,
+"This absolute probation online
+
+114
+00:10:01,810 --> 00:10:06,310
+What if a murderer came to your door
+looking for your friend
+
+115
+00:10:07,010 --> 00:10:08,580
+who was hiding in your house?
+
+116
+00:10:09,180 --> 00:10:15,900
+And the murderer asked you point blank,
+"Is your friend in your house?"
+
+117
+00:10:17,930 --> 00:10:22,370
+Constant says, "It would be crazy to
+say that the moral thing to do
+
+118
+00:10:22,579 --> 00:10:24,800
+in that case is to tell the truth."
+
+119
+00:10:27,329 --> 00:10:32,610
+Constant says the murderer certainly
+doesn't deserve the truth
+
+120
+00:10:35,920 --> 00:10:38,010
+and Kant wrote to reply.
+
+121
+00:10:39,290 --> 00:10:44,990
+And Kant stuck by his principle
+that lying even to the murderer
+
+122
+00:10:45,089 --> 00:10:47,260
+at the door is wrong.
+
+123
+00:10:49,760 --> 00:10:55,420
+And the reason it's wrong,
+he said is once you start taking
+
+124
+00:10:55,650 --> 00:11:00,830
+consequences into account to carve
+out exceptions to the categorical
+
+125
+00:11:01,040 --> 00:11:04,660
+imperative, you've given up
+the whole moral framework.
+
+126
+00:11:05,810 --> 00:11:09,920
+You've become a consequentialist
+or maybe a rule utilitarian.
+
+127
+00:11:11,110 --> 00:11:16,660
+But most of you and most to our Kant's
+readers think there's something odd
+
+128
+00:11:17,150 --> 00:11:18,590
+and impossible about this answer.
+
+129
+00:11:21,930 --> 00:11:26,400
+I would like to try to defend Kant
+on this point
+
+130
+00:11:27,329 --> 00:11:33,220
+and then I want to see whether
+you think that my defense is plausible,
+
+131
+00:11:33,560 --> 00:11:40,140
+and I would want to defend him within the
+spirit of his own account of morality.
+
+132
+00:11:41,490 --> 00:11:43,430
+Imagine that someone
+comes to your door.
+
+133
+00:11:43,530 --> 00:11:45,390
+You were asked that question
+by this murder.
+
+134
+00:11:45,719 --> 00:11:47,030
+You are hiding your friend.
+
+135
+00:11:47,290 --> 00:11:52,470
+Is there a way that you could avoid
+telling a lie
+
+136
+00:11:54,709 --> 00:11:57,880
+without selling out your friend?
+
+137
+00:12:00,689 --> 00:12:03,780
+Does anyone have an idea of how
+you might be able to do that?
+
+138
+00:12:05,160 --> 00:12:06,550
+Yes? Stand up.
+
+139
+00:12:07,219 --> 00:12:10,490
+I was just going to say
+if I were to let my friend in my house
+
+140
+00:12:11,430 --> 00:12:13,990
+to hide in the first place,
+I'd probably make a plan with them
+
+141
+00:12:14,800 --> 00:12:17,310
+so I'd be like, "Hey I'll tell the
+murderer you're here,
+
+142
+00:12:17,520 --> 00:12:22,830
+but escape," and that's one
+of the options mentioned.
+
+143
+00:12:23,650 --> 00:12:27,550
+But I'm not sure that's a Kantian option.
+You're still lying though.
+
+144
+00:12:28,360 --> 00:12:31,470
+No because he's in the house
+but he won't be.
+
+145
+00:12:31,959 --> 00:12:37,980
+Oh I see. All right, good enough.
+One more try.
+
+146
+00:12:38,829 --> 00:12:42,200
+If you just say you don't know
+where he is because he might not
+
+147
+00:12:42,439 --> 00:12:43,540
+be locked in the closet.
+
+148
+00:12:43,740 --> 00:12:46,770
+He might have left the closet.
+You have no clue where he could be.
+
+149
+00:12:49,280 --> 00:12:52,290
+So you would say, I don't know
+which wouldn't actually be a lie
+
+150
+00:12:52,520 --> 00:12:58,040
+because you weren't at that
+very moment looking in the closet.
+
+151
+00:12:58,400 --> 00:13:03,460
+Exactly.
+-So it would be strictly speaking true.
+
+152
+00:13:03,680 --> 00:13:05,400
+Yes.
+
+153
+00:13:06,500 --> 00:13:13,060
+And yet possibly deceiving, misleading.
+-But still true.
+
+154
+00:13:15,949 --> 00:13:17,630
+What's your name?
+-John.
+
+155
+00:13:17,730 --> 00:13:22,570
+John. All right, John has...
+now John may be on to something.
+
+156
+00:13:23,599 --> 00:13:27,860
+John you're really offering us the option
+of a clever evasion
+
+157
+00:13:28,199 --> 00:13:29,900
+that is strictly speaking true.
+
+158
+00:13:31,469 --> 00:13:37,590
+This raises the question whether there is
+a moral difference between
+
+159
+00:13:37,949 --> 00:13:43,020
+an outright lie and a misleading truth.
+
+160
+00:13:45,000 --> 00:13:53,660
+From Kant's point of view there actually
+is a world of difference between a lie
+
+161
+00:13:55,890 --> 00:13:57,780
+and a misleading truth.
+
+162
+00:13:58,500 --> 00:14:02,210
+Why is that even though both might
+have the same consequences?
+
+163
+00:14:03,360 --> 00:14:08,090
+But then remember Kant doesn't base
+morality on consequences.
+
+164
+00:14:09,630 --> 00:14:14,340
+He bases it on formal adherence
+to the moral law.
+
+165
+00:14:15,170 --> 00:14:21,890
+Now, sometimes in ordinary life we make
+exceptions for the general rule against
+
+166
+00:14:22,089 --> 00:14:25,360
+lying with the white lie.
+What is a white lie?
+
+167
+00:14:26,880 --> 00:14:31,010
+It's a lie to make...you're well to avoid
+hurting someone's feelings for example.
+
+168
+00:14:31,839 --> 00:14:33,780
+It's a lie that we think of as justified
+by the consequences.
+
+169
+00:14:35,209 --> 00:14:40,390
+Now Kant could not endorse a white lie
+but perhaps he could endorse
+
+170
+00:14:41,790 --> 00:14:43,620
+a misleading truth.
+
+171
+00:14:43,829 --> 00:14:48,770
+Supposed someone gives you a tie,
+as a gift, and you open the box
+
+172
+00:14:49,829 --> 00:14:55,140
+and it's just awful.
+What do you say? Thank you.
+
+173
+00:14:55,689 --> 00:14:57,310
+You could say thank you.
+
+174
+00:14:57,750 --> 00:15:00,630
+But they're waiting to see what you think
+of it or they ask you
+
+175
+00:15:00,990 --> 00:15:02,070
+what do you think of it?
+
+176
+00:15:02,319 --> 00:15:04,730
+You could tell a white lie
+and say it's beautiful.
+
+177
+00:15:06,630 --> 00:15:10,760
+But that wouldn't be permissible
+from Kant's point of view.
+
+178
+00:15:11,800 --> 00:15:17,000
+Could you say not a white lie
+but a misleading truth,
+
+179
+00:15:18,099 --> 00:15:22,050
+you open the box and you say,
+"I've never seen a tie like that before.
+
+180
+00:15:23,849 --> 00:15:28,630
+Thank you."
+You shouldn't have.
+
+181
+00:15:30,219 --> 00:15:31,140
+That's good.
+
+182
+00:15:38,240 --> 00:15:45,350
+Can you think of a contemporary
+political leader who engaged...you can?
+
+183
+00:15:46,290 --> 00:15:47,550
+Who are you thinking of?
+
+184
+00:15:50,650 --> 00:15:54,760
+You remember the whole
+carefully worded denials in the
+
+185
+00:15:55,010 --> 00:15:58,100
+Monica Lewinsky affair
+of Bill Clinton.
+
+186
+00:15:59,400 --> 00:16:07,110
+Now, those denials actually became
+the subject of very explicit debate
+
+187
+00:16:07,550 --> 00:16:10,540
+in argument during the
+impeachment hearings.
+
+188
+00:16:12,800 --> 00:16:17,190
+Take a look at the following excerpts
+from Bill Clinton.
+
+189
+00:16:17,630 --> 00:16:24,370
+Is there something do you think morally
+at stake in the distinction between a lie
+
+190
+00:16:26,490 --> 00:16:30,150
+and a misleading carefully
+couched truth?
+
+191
+00:16:32,890 --> 00:16:35,140
+I want to say one thing
+to the American people.
+
+192
+00:16:36,229 --> 00:16:38,380
+I want you to listen to me.
+I'm going to say this again.
+
+193
+00:16:39,709 --> 00:16:45,250
+I did not have sexual relations
+with that woman Miss Lewinsky.
+
+194
+00:16:45,949 --> 00:16:53,060
+I never told anybody to lie not a single
+time, never. These allegations are false.
+
+195
+00:16:56,120 --> 00:17:01,570
+Did he lie to the American people when he
+said I never had sex with that woman?
+
+196
+00:17:02,120 --> 00:17:05,500
+You know, he doesn't believe he did
+and because of the ＃
+
+197
+00:17:05,780 --> 00:17:07,220
+Well he didn't explain it.
+
+198
+00:17:07,450 --> 00:17:08,660
+He did explain that, explain congressman.
+
+199
+00:17:08,879 --> 00:17:12,490
+What he said was to the American people
+that he did not have sexual relations
+
+200
+00:17:12,960 --> 00:17:15,580
+and I understand you're not going to
+like this congressman
+
+201
+00:17:15,810 --> 00:17:19,810
+because you will see it as a
+hair-splitting evasive answer.
+
+202
+00:17:20,510 --> 00:17:23,050
+But in his own mind his definition was not...
+
+203
+00:17:23,280 --> 00:17:25,950
+Okay, I understand that argument.
+-Okay.
+
+204
+00:17:28,690 --> 00:17:30,940
+All right, so there you have the exchange.
+
+205
+00:17:31,690 --> 00:17:35,900
+Now at the time,
+you may have thought this was just a
+
+206
+00:17:36,129 --> 00:17:40,210
+legalistic hair-splitting exchange between
+a Republican who wanted to
+
+207
+00:17:40,470 --> 00:17:43,430
+impeach Clinton and a lawyer who is
+trying to defend him.
+
+208
+00:17:44,280 --> 00:17:50,780
+But now in the light of Kant,
+do you think there is something
+
+209
+00:17:51,840 --> 00:18:00,740
+morally at stake in the distinction between
+a lie and an evasion,
+
+210
+00:18:00,960 --> 00:18:07,940
+a true but misleading statement?
+I'd like to hear from defenders of Kant.
+
+211
+00:18:08,419 --> 00:18:12,380
+People who think there is a distinction.
+Are you ready to defend Kant?
+
+212
+00:18:13,560 --> 00:18:17,420
+Well I think when you try to say that lying
+and misleading truths are the same thing;
+
+213
+00:18:17,639 --> 00:18:21,620
+you're basing it on consequentialist argument
+which is that they achieve the same thing.
+
+214
+00:18:22,370 --> 00:18:24,100
+But the fact to the fact to the matter is
+you told the truth
+
+215
+00:18:24,430 --> 00:18:26,710
+and you intended that people would
+believe what you are saying
+
+216
+00:18:26,960 --> 00:18:29,420
+which was the truth
+which means it is not morally the same
+
+217
+00:18:29,520 --> 00:18:32,680
+as telling a lie and intending that they
+believe it is the truth
+
+218
+00:18:32,919 --> 00:18:34,390
+even though it is not true.
+
+219
+00:18:34,639 --> 00:18:36,190
+Good. What's your name?
+-Diana.
+
+220
+00:18:36,889 --> 00:18:42,780
+So Diana says that Kant has a point here
+and it's a point that might even come
+
+221
+00:18:43,000 --> 00:18:49,540
+to the aid of Bill Clinton and that is ＃
+well what about that?
+
+222
+00:18:51,159 --> 00:18:52,310
+There's someone over here.
+
+223
+00:18:52,639 --> 00:18:55,940
+For Kant motivation is key,
+so if you give to someone
+
+224
+00:18:56,169 --> 00:18:58,420
+because primarily you want
+to feel good about yourself
+
+225
+00:18:58,649 --> 00:19:02,060
+Kant would say that has no moral worth.
+Well with this, the motivation is the same.
+
+226
+00:19:02,360 --> 00:19:05,220
+It's to sort of mislead someone,
+it's to lie, it's to sort of throw them
+
+227
+00:19:05,440 --> 00:19:08,610
+off the track and the motivation is the same.
+So there should be no difference.
+
+228
+00:19:09,440 --> 00:19:12,710
+Okay, good. So here isn't the
+motive the same Diana?
+
+229
+00:19:14,010 --> 00:19:18,220
+What do you say to this argument that
+well the motive is the same in both cases
+
+230
+00:19:18,560 --> 00:19:23,620
+there is the attempt or at least the hope
+that one's pursuer will be misled?
+
+231
+00:19:24,800 --> 00:19:28,910
+Well that 每 you could look it that way
+but I think that the fact is
+
+232
+00:19:29,139 --> 00:19:31,780
+that your immediate motive is that
+they should believe you.
+
+233
+00:19:32,120 --> 00:19:35,020
+The ultimate consequence of that is t
+hat they might be deceived
+
+234
+00:19:35,250 --> 00:19:36,350
+and not find out what was going on.
+
+235
+00:19:36,560 --> 00:19:38,750
+But that your immediate motive is that
+they should believe you
+
+236
+00:19:39,440 --> 00:19:40,190
+because you're telling the truth.
+
+237
+00:19:41,490 --> 00:19:42,960
+May I help a little?
+-Sure.
+
+238
+00:19:43,290 --> 00:19:47,550
+You and Kant. Why don't you say...
+and what's your name, I'm sorry?
+
+239
+00:19:47,889 --> 00:19:48,500
+Wesley.
+
+240
+00:19:49,220 --> 00:19:53,540
+Why don't you say to Wesley
+it's not exactly the case
+
+241
+00:19:54,139 --> 00:19:59,920
+that the motive in both cases
+is to mislead?
+
+242
+00:20:00,360 --> 00:20:05,190
+They're hoping, they're hoping that
+the person will be misled
+
+243
+00:20:06,149 --> 00:20:14,100
+by the statement "I don't know where they
+are" or "I never had sexual relations."
+
+244
+00:20:14,280 --> 00:20:17,470
+You're hoping that they will be misled
+but in the case
+
+245
+00:20:17,669 --> 00:20:22,270
+where you're telling the truth,
+you're motive is to mislead
+
+246
+00:20:22,710 --> 00:20:26,320
+while at the same time telling the truth
+and honoring the moral law
+
+247
+00:20:26,919 --> 00:20:29,380
+and staying within the bounds
+of the categorical imperative.
+
+248
+00:20:29,720 --> 00:20:33,430
+I think Kant's answer would be Diana, yes?
+-Yes.
+
+249
+00:20:33,639 --> 00:20:34,940
+You like that?
+-I do.
+
+250
+00:20:35,169 --> 00:20:40,340
+Okay. So I think Kant's answer
+would be unlike a falsehood,
+
+251
+00:20:40,560 --> 00:20:46,340
+unlike a lie, a misleading truth
+pays a certain homage to duty.
+
+252
+00:20:48,240 --> 00:20:52,600
+And the homage it pays to duty
+is what justifies that the work of
+
+253
+00:20:52,800 --> 00:20:58,220
+even the work of the evasion.
+Diana, yes you like? Okay.
+
+254
+00:20:59,040 --> 00:21:08,180
+And so there is something,
+some element of respect for the dignity
+
+255
+00:21:09,260 --> 00:21:15,860
+of the moral law in the careful evasion
+because Clinton could have told an
+
+256
+00:21:16,080 --> 00:21:18,140
+outright lie but he didn't.
+
+257
+00:21:19,679 --> 00:21:28,220
+And so I think Kant's insight here is in the
+carefully couched but true evasion.
+
+258
+00:21:29,760 --> 00:21:33,540
+There is a kind of homage to the dignity
+of the moral law that is not present
+
+259
+00:21:34,960 --> 00:21:39,540
+in the outright lie and that, Wesley,
+is part of the motive.
+
+260
+00:21:40,870 --> 00:21:43,380
+It's part of the motive.
+Yes, I hope he will be misled.
+
+261
+00:21:43,740 --> 00:21:47,400
+I hope the murderer will run down
+the road or go to the mall looking
+
+262
+00:21:47,639 --> 00:21:51,220
+for my friend instead at the closet.
+I hope that will be the effect.
+
+263
+00:21:51,560 --> 00:21:55,430
+I can't control that.
+I can't control the consequences.
+
+264
+00:21:56,750 --> 00:22:03,100
+But what I can control is standing by
+and honoring however I pursue the ends,
+
+265
+00:22:03,439 --> 00:22:11,650
+I hope will unfold to do so in a way that is
+consistent with respect for the moral law.
+
+266
+00:22:13,960 --> 00:22:18,540
+Wesley, I don't think, is entirely
+persuaded but at least this brings out,
+
+267
+00:22:19,360 --> 00:22:22,260
+this discussion brings out
+some of what it's at stake,
+
+268
+00:22:22,480 --> 00:22:26,460
+what's morally at stake in Kant's notion
+of the categorical imperative.
+
+269
+00:22:31,879 --> 00:22:37,780
+As long as any effort this involved
+I would say that the contract is valid then.
+
+270
+00:22:38,919 --> 00:22:40,300
+It should take effect.
+
+271
+00:22:40,879 --> 00:22:43,540
+But why? What was...
+what morally can you point to?
+
+272
+00:22:44,639 --> 00:22:47,820
+For example two people agreed
+to be married and one suddenly
+
+273
+00:22:48,040 --> 00:22:50,420
+called the other in two minutes say
+I changed my mind.
+
+274
+00:22:50,639 --> 00:22:53,760
+Does the contract have obligation
+on both sides?
+
+275
+00:22:55,840 --> 00:22:57,500
+Well I am tempted to say no.
+
+276
+00:23:00,520 --> 00:23:01,650
+Fine.
+
+277
+00:23:08,520 --> 00:23:11,020
+Last time we talked about Kant's
+categorical imperative
+
+278
+00:23:12,560 --> 00:23:17,500
+and we considered the way he applied the idea
+of the categorical imperative
+
+279
+00:23:17,919 --> 00:23:19,860
+to the case of lying.
+
+280
+00:23:22,439 --> 00:23:27,420
+I want to turn briefly to one other application
+of Kant's moral theory
+
+281
+00:23:27,639 --> 00:23:29,820
+and that's his political theory.
+
+282
+00:23:30,679 --> 00:23:38,420
+Now Kant says that just laws arise from
+a certain kind of social contract.
+
+283
+00:23:39,720 --> 00:23:43,660
+But this contract he tells us is
+of an exceptional nature.
+
+284
+00:23:45,560 --> 00:23:53,020
+What makes the contract exceptional
+is that it is not an actual contract
+
+285
+00:23:54,590 --> 00:23:59,140
+that happens when people come together
+and try to figure out
+
+286
+00:23:59,320 --> 00:24:01,180
+what the constitution should be.
+
+287
+00:24:02,439 --> 00:24:10,420
+Kant points out that the contract
+that generates justice
+
+288
+00:24:11,000 --> 00:24:13,590
+is what he calls an idea of reason.
+
+289
+00:24:15,480 --> 00:24:19,140
+It's not an actual contract among
+actual men and women gathered
+
+290
+00:24:19,240 --> 00:24:21,940
+in a constitutional convention.
+Why not?
+
+291
+00:24:24,530 --> 00:24:28,220
+I think Kant's reason is that
+actual men and women gathered in real
+
+292
+00:24:28,439 --> 00:24:33,230
+constitutional convention would have
+different interests, values, aims,
+
+293
+00:24:33,860 --> 00:24:36,310
+and it would also be differences
+of bargaining power
+
+294
+00:24:36,939 --> 00:24:39,770
+and differences of knowledge
+among them.
+
+295
+00:24:40,280 --> 00:24:45,060
+And so the laws that would result from
+their deliberations wouldn't necessarily
+
+296
+00:24:45,300 --> 00:24:50,060
+be just, wouldn't necessarily conform
+to principles of right
+
+297
+00:24:50,960 --> 00:24:54,700
+but would simply reflect the differences
+a bargaining power,
+
+298
+00:24:55,350 --> 00:24:58,380
+the special interests the fact that some
+might know more than others
+
+299
+00:24:58,960 --> 00:25:02,300
+about law or about politics.
+
+300
+00:25:04,439 --> 00:25:13,740
+So Kant says, "A contract that generates
+principles of right is merely an idea
+
+301
+00:25:14,000 --> 00:25:19,540
+of reason but it has undoubted
+practical reality because it can oblige
+
+302
+00:25:19,760 --> 00:25:23,980
+every legislator to frame his laws
+in such a way that they could have been
+
+303
+00:25:24,080 --> 00:25:27,100
+produced by the united will
+of the whole nation."
+
+304
+00:25:28,399 --> 00:25:34,140
+So Kant is a contractarian,
+but he doesn't trace the origin
+
+305
+00:25:34,480 --> 00:25:40,630
+or the rightness of law to any
+actual social contract.
+
+306
+00:25:41,919 --> 00:25:44,300
+This contrives to an obvious question.
+
+307
+00:25:44,639 --> 00:25:51,060
+What is the moral force
+of a hypothetical contract,
+
+308
+00:25:51,560 --> 00:25:53,220
+a contract that never happened?
+
+309
+00:25:54,889 --> 00:25:58,580
+That's the question we take up today
+but in order to investigate it,
+
+310
+00:25:58,800 --> 00:26:06,380
+we need to turn to a modern philosopher,
+John Rawls, who worked out in his book,
+
+311
+00:26:06,620 --> 00:26:12,820
+A Theory of Justice, in great detail
+and account of a hypothetical agreement
+
+312
+00:26:13,750 --> 00:26:15,180
+as the basis for justice.
+
+313
+00:26:16,120 --> 00:26:22,460
+Rawls' theory of justice in broad outline
+is parallel to Kant's
+
+314
+00:26:22,889 --> 00:26:24,700
+in two important respects.
+
+315
+00:26:26,159 --> 00:26:31,830
+Like Kant, Rawls was a critic
+of utilitarianism.
+
+316
+00:26:34,179 --> 00:26:38,150
+"Each person possesses an
+inviolability founded on justice,"
+
+317
+00:26:38,399 --> 00:26:42,700
+Rawls' writes, "that even the welfare
+of society as a whole cannot override.
+
+318
+00:26:43,760 --> 00:26:47,380
+The rights secured by justice are not
+subject to political bargaining
+
+319
+00:26:48,199 --> 00:26:50,660
+or to the calculus social interests."
+
+320
+00:26:52,800 --> 00:27:03,620
+The second respect in which Rawls' theory
+follows Kant's is on the idea that
+
+321
+00:27:03,720 --> 00:27:11,580
+principles of justice properly understood
+can be derived from a hypothetical
+
+322
+00:27:12,340 --> 00:27:14,740
+social contract.
+Not an actual one.
+
+323
+00:27:17,800 --> 00:27:23,740
+And Rawls works this out in
+fascinating detail with the device
+
+324
+00:27:24,600 --> 00:27:26,940
+of what he calls the "veil of ignorance".
+
+325
+00:27:29,240 --> 00:27:37,340
+The way to arrive at the rights...
+the basic rights that we must respect,
+
+326
+00:27:40,210 --> 00:27:46,850
+the basic framework of rights and duties
+is to imagine that we were
+
+327
+00:27:47,040 --> 00:27:52,140
+gathered together trying to choose the
+principles to govern our collective lives
+
+328
+00:27:54,760 --> 00:28:01,620
+without knowing certain important
+particular fact about ourselves.
+
+329
+00:28:02,649 --> 00:28:04,620
+That's the idea of the veil of ignorance.
+
+330
+00:28:06,600 --> 00:28:10,260
+Now what would happen if we gather
+together just as we are here
+
+331
+00:28:11,560 --> 00:28:15,580
+and try to come up with principles
+of justice to govern our collective life?
+
+332
+00:28:16,439 --> 00:28:21,460
+There would be a cacophony of proposals
+of suggestions reflecting people's
+
+333
+00:28:21,560 --> 00:28:24,900
+different interests, some are strong,
+some are weak,
+
+334
+00:28:26,320 --> 00:28:27,700
+some are rich, some are poor.
+
+335
+00:28:29,760 --> 00:28:35,680
+So Rawls says, imagine instead that we
+are gathered in an original position
+
+336
+00:28:35,879 --> 00:28:44,700
+of equality and what assures the equality
+is the veil of ignorance.
+
+337
+00:28:46,639 --> 00:28:53,020
+Imagine that we are all behind a veil
+of ignorance which temporarily abstracts
+
+338
+00:28:53,280 --> 00:28:59,900
+from or brackets, hides from us
+who in particular we are.
+
+339
+00:29:03,360 --> 00:29:07,980
+Our race, our class, our place in society,
+our strengths, our weaknesses,
+
+340
+00:29:09,129 --> 00:29:14,220
+whether we're healthy or unhealthy,
+then and only then Rawls says,
+
+341
+00:29:14,879 --> 00:29:18,500
+the principles we would agree to
+would be principles of justice.
+
+342
+00:29:20,199 --> 00:29:22,700
+That's how the hypothetical
+contract works.
+
+343
+00:29:25,760 --> 00:29:30,540
+What is the moral force of this kind
+of hypothetical agreement?
+
+344
+00:29:32,840 --> 00:29:37,860
+Is it stronger or weaker than a real
+agreement, an actual social contract?
+
+345
+00:29:44,520 --> 00:29:50,100
+In order to answer that question,
+we have to look hard at the moral force
+
+346
+00:29:51,320 --> 00:29:56,900
+of actual contracts.
+There are really two questions here.
+
+347
+00:29:58,220 --> 00:30:04,300
+One of them is how do actual contracts
+bind me or obligate me?
+
+348
+00:30:05,560 --> 00:30:07,020
+Question number one.
+
+349
+00:30:07,620 --> 00:30:11,300
+And question number two,
+how do actual real life contracts
+
+350
+00:30:11,879 --> 00:30:13,660
+justify the terms that they produce?
+
+351
+00:30:15,399 --> 00:30:20,380
+If you think about it
+and this is in line with Rawls and Kant,
+
+352
+00:30:21,159 --> 00:30:25,740
+the answer to the second question,
+how do actual contracts justify
+
+353
+00:30:26,000 --> 00:30:28,620
+the terms that they produce,
+the answer is they don't.
+
+354
+00:30:30,919 --> 00:30:32,140
+At least not on their own.
+
+355
+00:30:33,000 --> 00:30:37,180
+Actual contracts are not self-sufficient
+moral instruments
+
+356
+00:30:39,159 --> 00:30:41,300
+of any actual contract or agreement.
+
+357
+00:30:43,520 --> 00:30:48,340
+It can always be asked,
+is it fair what they agreed to?
+
+358
+00:30:51,080 --> 00:30:55,220
+The fact of the agreement never guarantees
+the fairness of the agreement
+
+359
+00:30:55,639 --> 00:30:59,500
+and we know this by looking at
+our own constitutional convention.
+
+360
+00:31:00,560 --> 00:31:06,480
+It produced a constitution that
+permitted slavery to persist.
+
+361
+00:31:07,600 --> 00:31:09,900
+It was agreed to.
+It was an actual contract
+
+362
+00:31:11,639 --> 00:31:17,100
+but that doesn't establish that the
+laws agreed to all of them were just.
+
+363
+00:31:20,840 --> 00:31:23,930
+Well then what is the moral force
+of actual contracts?
+
+364
+00:31:25,439 --> 00:31:28,900
+To the extent that they bind us,
+they obligate in two ways.
+
+365
+00:31:30,850 --> 00:31:34,100
+Suppose, maybe here it would help
+to take an example.
+
+366
+00:31:36,080 --> 00:31:39,620
+We make an agreement,
+a commercial agreement.
+
+367
+00:31:42,939 --> 00:31:49,300
+I promise to pay you $100
+if you will go harvest
+
+368
+00:31:49,580 --> 00:31:53,270
+and bring to me 100 lobsters.
+We make a deal.
+
+369
+00:31:55,610 --> 00:31:57,940
+You go out and harvest them
+and bring them to me.
+
+370
+00:32:00,000 --> 00:32:03,660
+I eat the lobsters, served them to my
+friends, and then I don't pay.
+
+371
+00:32:05,280 --> 00:32:07,160
+And you say, "But you're obligated."
+
+372
+00:32:08,490 --> 00:32:12,100
+And I say, "Why?"
+What do you say? "Well we had a deal."
+
+373
+00:32:17,840 --> 00:32:21,060
+And you benefited.
+You ate all those lobsters.
+
+374
+00:32:24,560 --> 00:32:26,580
+Well that's a pretty strong argument.
+
+375
+00:32:28,679 --> 00:32:34,540
+It's an argument that depends though
+and the fact that I benefited from your labor
+
+376
+00:32:37,280 --> 00:32:46,630
+So, contracts sometimes bind us in so far as
+they are instruments of mutual benefit.
+
+377
+00:32:46,959 --> 00:32:50,740
+I ate the lobsters. I owe you the $100
+for having gathered them.
+
+378
+00:32:53,719 --> 00:32:56,660
+But suppose, now take a second case.
+We make this deal,
+
+379
+00:32:57,760 --> 00:33:02,020
+I'll pay you $100 for
+100 lobsters and two minutes later,
+
+380
+00:33:03,040 --> 00:33:05,820
+before you've gone to any work
+I call you back and say
+
+381
+00:33:05,919 --> 00:33:12,020
+I've changed my mind.
+Now, there's no benefit.
+
+382
+00:33:14,719 --> 00:33:19,700
+There's no work on your part so there's no
+element of reciprocal exchange.
+
+383
+00:33:21,600 --> 00:33:25,620
+What about in that case,
+do I still owe you merely in virtue
+
+384
+00:33:25,840 --> 00:33:27,620
+of the fact that we had an agreement?
+
+385
+00:33:28,800 --> 00:33:34,700
+Who says those of you who say, yes,
+I still owe you? Why? Okay, stand up.
+
+386
+00:33:35,639 --> 00:33:38,540
+Why do I owe you?
+I called you back after two minutes.
+
+387
+00:33:38,879 --> 00:33:40,220
+You haven't done any work.
+
+388
+00:33:40,639 --> 00:33:45,540
+I think I spent the time and effort
+in drafting this contract with you
+
+389
+00:33:46,199 --> 00:33:49,260
+and also have emotional expectation
+that I go through the work.
+
+390
+00:33:50,439 --> 00:33:53,260
+So you took time to draft the contract
+but we did it very quickly.
+
+391
+00:33:53,480 --> 00:33:54,920
+We just chatted on the phone.
+
+392
+00:33:56,639 --> 00:33:59,060
+That wouldn't be a formal form
+of contract though.
+
+393
+00:33:59,439 --> 00:34:01,260
+Well I faxed at you.
+It only took a minute.
+
+394
+00:34:03,639 --> 00:34:09,580
+As long as any effort is involved,
+I would say that the contract is valid then.
+
+395
+00:34:10,770 --> 00:34:11,900
+It should take effect.
+
+396
+00:34:12,560 --> 00:34:17,700
+But why? What was...what morally
+can you point to that obligates me?
+
+397
+00:34:19,339 --> 00:34:25,660
+I admit that I agreed but you didn't go
+to any work. I didn't enjoy any benefit.
+
+398
+00:34:26,520 --> 00:34:30,380
+Because one might mentally go through
+all the work of harvesting the lobsters.
+
+399
+00:34:31,690 --> 00:34:34,100
+You mentally went through the work
+of harvesting the lobsters.
+
+400
+00:34:36,120 --> 00:34:38,960
+That's nothing is it?
+It's not much.
+
+401
+00:34:39,520 --> 00:34:43,460
+Is it worth $100 that you were imagining
+yourself going and collecting lobsters?
+
+402
+00:34:44,000 --> 00:34:47,580
+It may not worth $100,
+but it may worth something to some people.
+
+403
+00:34:48,799 --> 00:34:54,220
+All right, I'll give you a buck for that.
+But what I 每 so you're still pointing...
+
+404
+00:34:54,640 --> 00:34:59,300
+what's interesting you're still pointing
+to the reciprocal dimension of contracts.
+
+405
+00:34:59,640 --> 00:35:04,020
+You did or imagined that you did or looked
+forward to doing something that might be had.
+
+406
+00:35:04,240 --> 00:35:07,900
+For example two people agreed to be married
+and one suddenly calls the other
+
+407
+00:35:08,160 --> 00:35:09,500
+in two minutes say,
+I've changed my mind,
+
+408
+00:35:09,920 --> 00:35:13,420
+does the contract have obligation
+on both sides?
+
+409
+00:35:16,680 --> 00:35:19,980
+Nobody has done any work
+or nobody has benefited yet.
+
+410
+00:35:24,330 --> 00:35:25,780
+Well I'm tempted to say no.
+
+411
+00:35:29,279 --> 00:35:29,940
+Fine.
+
+412
+00:35:35,360 --> 00:35:37,540
+All, right. What's your name?
+-Julian.
+
+413
+00:35:38,330 --> 00:35:40,620
+Thank you Julian.
+All right, that was good.
+
+414
+00:35:42,089 --> 00:35:48,380
+Now is there anyone who has who agrees
+with Julian that I still owe the money?
+
+415
+00:35:50,440 --> 00:35:54,240
+For any other reason now I have ＃
+go ahead, stand up.
+
+416
+00:35:55,230 --> 00:35:58,740
+I think if you back out it sort of
+cheapens the institution of contracts.
+
+417
+00:35:59,990 --> 00:36:01,340
+Good but why? Why does it?
+
+418
+00:36:02,210 --> 00:36:06,740
+Well I think is kind of Kantian, but there's
+in almost there's a certain intrinsic value
+
+419
+00:36:06,960 --> 00:36:10,380
+in being able to make contracts
+and having, you know, knowing
+
+420
+00:36:10,600 --> 00:36:12,640
+people will expect that
+you'll go through with that.
+
+421
+00:36:13,490 --> 00:36:17,260
+Good, there is some...
+it would cheapen the whole idea
+
+422
+00:36:17,600 --> 00:36:23,460
+of contracts which has to do with taking
+in obligation on myself. Is that the idea?
+
+423
+00:36:23,810 --> 00:36:25,300
+Yeah, I think so.
+
+424
+00:36:25,480 --> 00:36:26,500
+What's your name?
+-Adam.
+
+425
+00:36:27,549 --> 00:36:33,780
+So Adam points instead not to any
+reciprocal benefit or mutual exchange
+
+426
+00:36:35,100 --> 00:36:37,350
+but to the mere fact
+of the agreement itself.
+
+427
+00:36:38,339 --> 00:36:41,270
+We see here there are really
+two different ways in which
+
+428
+00:36:41,720 --> 00:36:45,060
+actual contracts generate obligations.
+
+429
+00:36:46,360 --> 00:36:52,340
+One has to do with the active consent
+as a voluntary act and it points...
+
+430
+00:36:53,330 --> 00:36:56,780
+Adam said this was a Kantian idea
+and I think he is right
+
+431
+00:36:57,080 --> 00:36:59,470
+because it points to the ideal
+of autonomy.
+
+432
+00:37:00,200 --> 00:37:04,260
+When I make a contract,
+the obligation is one that is self-imposed
+
+433
+00:37:06,600 --> 00:37:11,060
+and that carries a certain moral weight,
+independent of other considerations.
+
+434
+00:37:13,040 --> 00:37:17,780
+And then there's a second element
+of the moral force of contract arguments
+
+435
+00:37:19,359 --> 00:37:23,140
+which has to do with the sense
+in which actual contracts are instruments
+
+436
+00:37:23,440 --> 00:37:29,120
+of mutual benefit and this points
+toward the ideal of reciprocity
+
+437
+00:37:30,240 --> 00:37:36,260
+that obligation can arise,
+I can have an obligation to you in so far
+
+438
+00:37:36,520 --> 00:37:40,020
+as you do something for me.
+
+439
+00:37:43,200 --> 00:37:51,460
+Now, when investigating the moral force and
+also the moral limits of actual contracts
+
+440
+00:37:53,250 --> 00:37:58,740
+and here I would like to advance
+an argument about the moral limits
+
+441
+00:38:00,040 --> 00:38:07,050
+of actual contracts now that we know
+what moral ingredients do the work
+
+442
+00:38:07,440 --> 00:38:10,740
+when people come together and say,
+"I will do this if you do that."
+
+443
+00:38:12,440 --> 00:38:17,500
+I would like to argue first that the fact
+that two people agreed
+
+444
+00:38:17,720 --> 00:38:23,300
+to some exchange does not mean
+that the terms of their agreement are fair.
+
+445
+00:38:27,920 --> 00:38:32,700
+When my two sons were young they
+collected baseball cards and traded them.
+
+446
+00:38:34,630 --> 00:38:38,980
+And one was...there was a two-year aged...
+there is a two-year aged difference
+
+447
+00:38:39,160 --> 00:38:48,420
+between them and so I had to institute a rule
+about the trades that no trade was complete
+
+448
+00:38:48,920 --> 00:38:54,740
+until I had approved it
+and the reason is obvious.
+
+449
+00:38:56,049 --> 00:39:00,660
+The older one knew more about
+the value of these cards
+
+450
+00:39:01,359 --> 00:39:04,810
+and so would take advantage
+of the younger one.
+
+451
+00:39:05,759 --> 00:39:11,630
+So that's why I had to review it to make sure
+that the agreements were fair.
+
+452
+00:39:12,330 --> 00:39:14,300
+Now you may say,
+"Well this is paternalism."
+
+453
+00:39:17,759 --> 00:39:22,940
+Of course it was. That's what paternalism
+is for that kind of thing.
+
+454
+00:39:26,200 --> 00:39:27,340
+So what does this show?
+
+455
+00:39:27,520 --> 00:39:29,340
+What is the baseball cards example show?
+
+456
+00:39:29,400 --> 00:39:35,420
+The fact of an agreement is not sufficient
+to establish the fairness of the terms.
+
+457
+00:39:37,720 --> 00:39:42,060
+I read some years ago of a case in
+Chicago there was an elderly widow,
+
+458
+00:39:42,279 --> 00:39:48,340
+an 84-year-old widow named Rose
+who had a problem in her apartment
+
+459
+00:39:48,720 --> 00:39:56,740
+with a leaky toilet and she signed a contract
+with an unscrupulous contractor,
+
+460
+00:39:58,960 --> 00:40:03,940
+who offered to repair her leaky toilet
+in exchange for $50,000.
+
+461
+00:40:07,240 --> 00:40:10,540
+But she had agreed
+she was of sound mind,
+
+462
+00:40:10,759 --> 00:40:13,220
+maybe terribly naive and unfamiliar
+with the price of plumbing,
+
+463
+00:40:14,480 --> 00:40:17,860
+she had made this agreement.
+
+464
+00:40:19,240 --> 00:40:21,140
+Luckily, it was discovered.
+
+465
+00:40:21,359 --> 00:40:25,340
+She went to the bank
+and asked to withdraw $25,000.
+
+466
+00:40:26,560 --> 00:40:29,060
+And the teller said, "Why do you need all
+of that money for?"
+
+467
+00:40:29,920 --> 00:40:31,540
+And she said,
+"Well, I have a leaky toilet."
+
+468
+00:40:33,960 --> 00:40:37,910
+And the teller called authorities and they
+discovered this unscrupulous contractor.
+
+469
+00:40:39,890 --> 00:40:47,420
+Now, I suspect that even the most ardent
+contract carryings in the room will agree
+
+470
+00:40:49,529 --> 00:40:55,940
+that the fact of this woman's agreement
+is not a sufficient condition
+
+471
+00:40:57,339 --> 00:40:58,680
+of the agreement being fair.
+
+472
+00:41:00,790 --> 00:41:09,020
+Is there anyone who will dispute that?
+No one. Am I missing anyone?
+
+473
+00:41:11,319 --> 00:41:12,420
+Alex, where are you?
+
+474
+00:41:14,000 --> 00:41:14,580
+Where are you?
+
+475
+00:41:18,200 --> 00:41:23,490
+So, maybe there's no dispute then
+to my first claim that an actual agreement
+
+476
+00:41:24,000 --> 00:41:28,140
+is not necessary to their..
+is not a sufficient condition
+
+477
+00:41:29,880 --> 00:41:31,340
+of there being an obligation.
+
+478
+00:41:33,359 --> 00:41:37,340
+I want to now make us stronger,
+maybe more controversial claim about
+
+479
+00:41:37,640 --> 00:41:48,140
+the moral limits of actual contracts
+that a contract or an active consent is
+
+480
+00:41:48,359 --> 00:41:53,660
+not only not sufficient
+but it's not even a necessary condition
+
+481
+00:41:55,160 --> 00:41:56,540
+of there being an obligation.
+
+482
+00:41:57,680 --> 00:42:00,620
+And the idea here is that
+if there is reciprocity,
+
+483
+00:42:00,960 --> 00:42:05,660
+if there is an exchange,
+then a receipt of benefits,
+
+484
+00:42:05,880 --> 00:42:09,220
+there can be an obligation
+even without an act of consent.
+
+485
+00:42:10,770 --> 00:42:18,460
+One great example of this involves
+the 18th century philosopher,
+
+486
+00:42:18,799 --> 00:42:20,700
+the Scottish moral philosopher
+David Hume.
+
+487
+00:42:22,720 --> 00:42:26,460
+When he was young,
+Hume wrote a book arguing against
+
+488
+00:42:26,680 --> 00:42:29,780
+Locke's idea of an original
+social contract.
+
+489
+00:42:31,040 --> 00:42:34,060
+Hume heaps scorn on his
+contractarian idea.
+
+490
+00:42:35,040 --> 00:42:37,220
+He said it was a philosophical fiction.
+
+491
+00:42:38,080 --> 00:42:41,020
+One of the most mysterious
+and incomprehensible operations
+
+492
+00:42:41,240 --> 00:42:45,340
+that can possibly be imagined this
+idea of the social contract.
+
+493
+00:42:46,880 --> 00:42:50,540
+Many years later when he was 62 years old,
+Hume had an experience
+
+494
+00:42:51,420 --> 00:42:55,540
+that put to the test his rejection
+of consent us the basis of obligation.
+
+495
+00:42:56,680 --> 00:42:58,420
+Hume had a house in Edinboro.
+
+496
+00:42:59,480 --> 00:43:04,260
+He rented to his friend James Boswell
+who in turn sublet it to a subtenant.
+
+497
+00:43:05,319 --> 00:43:08,840
+The subtenant decided that the house
+needed some repairs and a paint job.
+
+498
+00:43:09,830 --> 00:43:11,510
+He hired a contractor to do the work.
+
+499
+00:43:12,560 --> 00:43:15,260
+The painter did the work
+and sent the bill to Hume.
+
+500
+00:43:17,000 --> 00:43:20,900
+Hume refused to pay on the grounds
+that he hadn't consented.
+
+501
+00:43:21,120 --> 00:43:23,980
+He hadn't hired the painter.
+The case went to court.
+
+502
+00:43:25,880 --> 00:43:28,300
+The contractor said,
+"It's true, Hume didn't agree
+
+503
+00:43:29,339 --> 00:43:31,940
+but the house needed the painting
+and I gave it a very good one."
+
+504
+00:43:34,839 --> 00:43:36,260
+Hume thought this was a bad argument.
+
+505
+00:43:37,400 --> 00:43:40,740
+The only argument this painter makes
+is that the work was necessary to be done
+
+506
+00:43:40,920 --> 00:43:43,700
+but this is no good answer
+because by the same rule,
+
+507
+00:43:44,960 --> 00:43:49,060
+this painter may go through every house
+in Edinboro and do what he thinks proper
+
+508
+00:43:49,279 --> 00:43:53,140
+to be done without the landlord's consent
+and give the same reason
+
+509
+00:43:53,759 --> 00:43:57,660
+that the work was necessary
+and that the house was the better for it.
+
+510
+00:43:59,200 --> 00:44:04,960
+So Hume didn't like the theory that there
+could be obligation to repay a benefit
+
+511
+00:44:05,060 --> 00:44:10,550
+without consent. But the defense failed
+and he had to pay.
+
+512
+00:44:12,080 --> 00:44:15,060
+Let met give you one other example
+of the distinction
+
+513
+00:44:15,279 --> 00:44:20,700
+between the consent-based aspect
+of obligations and the benefit-based aspect
+
+514
+00:44:20,920 --> 00:44:23,460
+and how they're sometimes run together.
+
+515
+00:44:24,569 --> 00:44:27,380
+This is based on a personal experience.
+
+516
+00:44:28,080 --> 00:44:31,180
+Some years ago,
+I was driving across the country
+
+517
+00:44:31,480 --> 00:44:34,380
+with some friends and we found ourselves
+in the middle of nowhere
+
+518
+00:44:35,410 --> 00:44:36,780
+in Hammond, Indiana.
+
+519
+00:44:38,400 --> 00:44:41,140
+We stopped in a rest stop
+and got out of the car
+
+520
+00:44:41,319 --> 00:44:43,620
+and when we came back
+our car wouldn't start.
+
+521
+00:44:45,319 --> 00:44:46,940
+None of us knew much about cars.
+
+522
+00:44:48,339 --> 00:44:52,820
+We didn't really know what to do
+until we noticed that in the parking lot
+
+523
+00:44:53,279 --> 00:44:57,670
+driving up next to us was a van
+and on the side it said,
+
+524
+00:44:57,770 --> 00:45:03,660
+"Sam's mobile repair van."
+And out of the van came a man,
+
+525
+00:45:05,040 --> 00:45:09,780
+presumably Sam and he came up to us
+and he said, "Can I help you?
+
+526
+00:45:10,799 --> 00:45:14,260
+Here's how I work.
+I work by the hour for $50 an hour.
+
+527
+00:45:14,920 --> 00:45:17,620
+If I fix your car in five minutes,
+you owe me the $50
+
+528
+00:45:18,960 --> 00:45:21,460
+and if I work on your car for an hour
+and can't fix it,
+
+529
+00:45:22,089 --> 00:45:23,420
+you'll still owe me the $50."
+
+530
+00:45:24,779 --> 00:45:27,500
+So I said, "But what is the likelihood
+that you'll be able to fix the car"
+
+531
+00:45:27,839 --> 00:45:29,980
+and he didn't answer.
+
+532
+00:45:31,839 --> 00:45:35,460
+But he did start looking under the poking
+around the steering column.
+
+533
+00:45:37,009 --> 00:45:40,750
+Short time passed, he emerged from under
+the steering column and said,
+
+534
+00:45:41,240 --> 00:45:43,060
+"There's nothing wrong with the
+ignition system
+
+535
+00:45:43,279 --> 00:45:46,620
+but you still have 45 minutes left.
+Should I look under the hood?"
+
+536
+00:45:49,440 --> 00:45:54,300
+I said, "Wait a minute. I haven't hired you.
+We haven't made any agreement."
+
+537
+00:45:56,160 --> 00:46:00,300
+And then he became very angry and he said,
+"Do you mean to say that
+
+538
+00:46:00,560 --> 00:46:04,300
+if I had fixed your car while I was working
+under the steering column
+
+539
+00:46:04,560 --> 00:46:09,980
+that you wouldn't have paid me?"
+And I said, "That's a different question."
+
+540
+00:46:19,680 --> 00:46:24,220
+I didn't go into the distinction between
+consent based and benefit based applications.
+
+541
+00:46:29,720 --> 00:46:32,980
+But I think he had the intuition
+that if he had fixed it
+
+542
+00:46:33,200 --> 00:46:36,700
+while he was poking around
+that I would have owed him the $50.
+
+543
+00:46:36,879 --> 00:46:41,620
+I shared that intuition. I would have.
+But he inferred from that.
+
+544
+00:46:42,600 --> 00:46:47,420
+This was the fallacy and the reasoning
+that I think lay behind his anger.
+
+545
+00:46:48,160 --> 00:46:54,540
+He inferred from that fact that therefore
+implicitly we had an agreement.
+
+546
+00:46:57,359 --> 00:46:59,260
+But that it seems to me as a mistake.
+
+547
+00:46:59,520 --> 00:47:01,620
+It's a mistake that fails to recognize
+the distinction between
+
+548
+00:47:02,009 --> 00:47:05,020
+these two different aspects
+of contract arguments.
+
+549
+00:47:05,240 --> 00:47:10,060
+Yes, I agree. I would have owed him $50
+if he had repaired my car during that time
+
+550
+00:47:10,279 --> 00:47:14,500
+not because we had made any agreement.
+We hadn't.
+
+551
+00:47:16,240 --> 00:47:20,190
+But simply because if he had fixed my car,
+he would have conferred on me a benefit
+
+552
+00:47:20,680 --> 00:47:25,380
+for which I would have owed him in the
+name of reciprocity and fairness.
+
+553
+00:47:26,480 --> 00:47:30,220
+So here's another example of the
+distinction between these two different
+
+554
+00:47:30,480 --> 00:47:35,500
+kinds of arguments, these two different
+aspects of the morality of contract.
+
+555
+00:47:37,319 --> 00:47:40,300
+Now I want to hear how many think I was
+in the right in that case?
+
+556
+00:47:43,200 --> 00:47:47,220
+That's reassuring. Is there anyone who
+thinks I was in the wrong?
+
+557
+00:47:51,279 --> 00:47:58,420
+Anyone? You do?
+Why? Go ahead.
+
+558
+00:47:59,400 --> 00:48:03,320
+Isn't the problem with this is that any
+benefit is inherently subjectively defined?
+
+559
+00:48:03,680 --> 00:48:07,300
+I mean what if you wanted your car
+broken and he had fixed it? I mean...
+
+560
+00:48:08,520 --> 00:48:09,700
+No, I didn't want it broken.
+
+561
+00:48:10,160 --> 00:48:11,780
+Yeah in this case. I mean...
+
+562
+00:48:12,000 --> 00:48:13,740
+But who would?
+Who would?
+
+563
+00:48:14,000 --> 00:48:15,340
+I don't know, someone.
+
+564
+00:48:15,520 --> 00:48:19,860
+I mean what if Hume,
+you know, what if the painter
+
+565
+00:48:20,089 --> 00:48:23,340
+that painted his house blue
+but he hated the color blue,
+
+566
+00:48:23,560 --> 00:48:29,620
+I mean you have to sort of define what
+your benefit is before the person does it.
+
+567
+00:48:32,160 --> 00:48:35,620
+Well all right, so what would you
+conclude for that though
+
+568
+00:48:35,839 --> 00:48:37,740
+for the larger issue here,
+would you conclude that
+
+569
+00:48:38,000 --> 00:48:42,380
+therefore consent is a necessary condition
+of their being an obligation?
+
+570
+00:48:43,000 --> 00:48:45,020
+Absolutely.
+-You would. What's your name?
+
+571
+00:48:45,600 --> 00:48:46,140
+Nate.
+
+572
+00:48:48,040 --> 00:48:51,700
+Because otherwise how can we know,
+Nate says, whether there has been
+
+573
+00:48:51,879 --> 00:48:58,740
+an exchange of equivalent or fair benefits
+unless we have the subjective evaluation
+
+574
+00:48:58,920 --> 00:49:01,630
+which may vary one person
+to the next of the situation.
+
+575
+00:49:02,430 --> 00:49:03,660
+All right, that's a fair challenge.
+
+576
+00:49:04,420 --> 00:49:10,580
+Let me put to you one other example
+in order to test the relation between
+
+577
+00:49:11,040 --> 00:49:13,280
+these two aspects
+of the morality of contract.
+
+578
+00:49:13,560 --> 00:49:19,580
+Suppose I get married and suppose
+I discover that after 20 years
+
+579
+00:49:19,839 --> 00:49:24,950
+of faithfulness on my part,
+every year on our trip across the country
+
+580
+00:49:26,120 --> 00:49:31,620
+my wife has been seeing another man,
+a man with a van on the Indiana toll road.
+
+581
+00:49:33,080 --> 00:49:34,620
+This part is completely made up
+by the way.
+
+582
+00:49:37,879 --> 00:49:41,330
+Wouldn't I have two different reasons
+for moral outrage?
+
+583
+00:49:43,759 --> 00:49:45,700
+One reason could be
+we had an agreement.
+
+584
+00:49:46,279 --> 00:49:50,260
+She broke her promise referring
+to the fact of her consent.
+
+585
+00:49:51,799 --> 00:49:56,580
+But I would also have a second ground
+for moral outrage having nothing to do
+
+586
+00:49:56,799 --> 00:50:00,580
+with the contract as such
+but I've been so faithful for my part.
+
+587
+00:50:01,970 --> 00:50:03,340
+Surely I deserve better than this.
+
+588
+00:50:04,279 --> 00:50:06,180
+Is this what I'm doing in return
+and so on?
+
+589
+00:50:06,359 --> 00:50:08,580
+So that would point
+to the element of reciprocity.
+
+590
+00:50:10,930 --> 00:50:14,340
+Each reason has an
+independent moral force.
+
+591
+00:50:14,680 --> 00:50:18,140
+That's the general point
+and you can see this if you imagine
+
+592
+00:50:18,529 --> 00:50:21,090
+a slight variation on the marriage case.
+
+593
+00:50:22,359 --> 00:50:25,100
+Suppose we haven't been married
+for 20 years.
+
+594
+00:50:26,000 --> 00:50:30,180
+Suppose we were just married
+and that the betrayal occurred
+
+595
+00:50:30,759 --> 00:50:33,660
+on the way to our honeymoon
+in Hammond, Indiana.
+
+596
+00:50:35,060 --> 00:50:39,500
+After the contract has been made,
+but before there is any history
+
+597
+00:50:39,720 --> 00:50:46,820
+of performance on my part,
+performance of the contract I mean,
+
+598
+00:50:53,160 --> 00:51:01,380
+I would still with Julian,
+I'd be able to say
+
+599
+00:51:01,600 --> 00:51:03,780
+but you promised, you promised.
+
+600
+00:51:04,120 --> 00:51:07,900
+That would isolate the pure element
+of consent,
+
+601
+00:51:08,560 --> 00:51:13,180
+right where there were no benefits,
+never mind. You get the idea.
+
+602
+00:51:20,680 --> 00:51:28,580
+Here's the main idea,
+actual contracts have their moral force
+
+603
+00:51:28,960 --> 00:51:35,220
+in virtue of two distinguishable ideals:
+autonomy and reciprocity,
+
+604
+00:51:37,569 --> 00:51:46,610
+but in real life every actual contract
+may fall short, may fail to realize
+
+605
+00:51:48,240 --> 00:51:52,020
+the ideals that give contracts
+their moral force in the first place.
+
+606
+00:51:55,319 --> 00:51:58,560
+The ideal of autonomy may not be
+realized because there may be
+
+607
+00:51:58,720 --> 00:52:02,840
+a difference in the bargaining power
+of the parties.
+
+608
+00:52:06,520 --> 00:52:10,100
+The ideal of reciprocity may not
+be realized because there may be
+
+609
+00:52:10,319 --> 00:52:15,660
+a difference of knowledge between the
+parties and so they may misidentify
+
+610
+00:52:18,319 --> 00:52:21,780
+what really counts
+as having equivalent value.
+
+611
+00:52:23,970 --> 00:52:31,340
+Now suppose you were to
+imagine a contract where the ideals
+
+612
+00:52:31,440 --> 00:52:36,620
+of autonomy and of reciprocity were not
+subject to contingency
+
+613
+00:52:37,839 --> 00:52:41,980
+but were guaranteed to be realized,
+what kind of contract would that have to be?
+
+614
+00:52:43,640 --> 00:52:47,900
+Imagine a contract among parties
+who were equal in power and knowledge
+
+615
+00:52:49,410 --> 00:52:53,780
+rather than unequal who are identically
+situated rather than differently situated?
+
+616
+00:52:55,560 --> 00:53:03,220
+That is the idea behind Rawls' claim
+that the way to think about justice
+
+617
+00:53:04,560 --> 00:53:06,940
+is from the standpoint
+of a hypothetical contract,
+
+618
+00:53:08,089 --> 00:53:14,500
+behind a veil of ignorance that creates
+the condition of equality by ruling out
+
+619
+00:53:15,740 --> 00:53:20,060
+or enabling us to forget for the moment
+the differences in power and knowledge
+
+620
+00:53:22,190 --> 00:53:26,460
+that could even in principle
+lead to unfair results.
+
+621
+00:53:28,480 --> 00:53:34,860
+This is why for Kant and for Rawls
+a hypothetical contract among equals
+
+622
+00:53:35,879 --> 00:53:39,700
+is the only way to think about
+principles of justice.
+
+623
+00:53:40,040 --> 00:53:43,140
+What will those principles be?
+That's the question we'll turn to next time.
+
+624
+00:53:52,080 --> 00:53:54,900
+Don't miss the chance to interact
+online with other viewers of Justice.
+
+625
+00:53:55,520 --> 00:53:56,420
+Join the conversation.
+
+626
+00:53:56,640 --> 00:53:59,900
+Take a pop quiz, watch lectures
+you've missed and learn a lot more.
+
+627
+00:54:00,399 --> 00:54:03,100
+This is at justiceharvard.org.
+It's the right thing to do.
+
