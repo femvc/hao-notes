@@ -15,11 +15,8 @@
 在 115 网盘可以下载已经转换好的 .mobi 文件：
 http://115.com/file/dpneaxh2#Justice-What--s-the-Right-Thing-to-Do.mobi 
 
-在 Kindle for Mac 上的截图：
+在 Kindle for Mac 上的截图： 
 
-![目录](https://github.com/haolloyin/hao-notes/raw/master/srt2html/Screenshot%202012-03-28%20PM07.08.09.png) 
+![目录](https://github.com/haolloyin/hao-notes/raw/master/srt2html/table_of_contents.png)
 
-
-![正文](https://github.com/haolloyin/hao-notes/raw/master/srt2html/Screenshot%202012-03-28%20PM07.08.26.png)
-
-
+![正文](https://github.com/haolloyin/hao-notes/raw/master/srt2html/lecture_contents.png) 
