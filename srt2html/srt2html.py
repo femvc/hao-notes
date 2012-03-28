@@ -99,7 +99,7 @@ html_file.write(contents_table)
 # 遍历本地12个 .srt 字幕文件
 for i in range(1, 13):
     file_name = 'Lecture%s.srt' % i
-    srt_file = open(file_name, 'r')
+    srt_file = open('srt/%s' % file_name, 'r')
     whole_file = srt_file.read()
     srt_file.close()
 
@@ -118,7 +118,7 @@ for i in range(1, 13):
 
     txt_contents = '\r\n\r\n'.join(contents)
     #print txt_contents
-    txt_file = open('%s.txt' % file_name, 'w') # 每个Lecture输出为一个txt文件
+    txt_file = open('txt/%s.txt' % file_name, 'w') # 每个Lecture输出为一个txt文件
     txt_file.write(txt_contents)
     txt_file.close()
 
