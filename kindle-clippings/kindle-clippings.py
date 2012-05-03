@@ -31,7 +31,7 @@ if not os.path.exists(dir_path):
     os.mkdir(dir_path)
 
 book_name = ''
-book_file = open('temp.txt', 'w')
+book_file = open('tmp', 'w')
 for clip in clippings:
     lines = clip.split('\r\n')
     if hide_SendToKindle_email and lines[0].find(SEND_TO_KINDLE_EMAIL) > -1:
@@ -41,7 +41,7 @@ for clip in clippings:
         book_file.close()
         book_name = lines[0]
         print book_name
-        book_file = open('%s/%s.md' % (dir_path, book_name), 'w')
+        book_file = open('%s/%s.md' % (dir_path, book_name), 'a')
         book_file.write("##" + book_name + '\n\n')
 
     clip_info = lines[1]
@@ -50,3 +50,6 @@ for clip in clippings:
     book_file.write('\n%s\n' % clip_info)
     book_file.write('\n'.join(lines[2:]))
     book_file.write('\n\n')
+book_file.close()
+if os.path.exists('tmp'):
+    os.remove('tmp')
