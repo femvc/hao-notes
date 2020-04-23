@@ -1,6 +1,0 @@
-该目录是学习Python Web框架Django的一点笔记，主要是从The Django Book第二版关于Template、Model、Forms和Admin几个章节的摘抄。
-
-第二版涵盖Django 1.0，英文版在线阅读：http://djangobook.com/en/2.0/
-中文翻译版在线阅读：http://djangobook.py3k.cn/2.0/
-
-本书代码示例比较多，前面基础部分很容易读，推荐！
